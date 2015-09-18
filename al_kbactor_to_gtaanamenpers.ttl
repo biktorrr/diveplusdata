@@ -1,0 +1,627 @@
+<http://purl.org/collections/nl/dive/entity/kb-org-Algemene+Vergadering>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/46166> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Vroom>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/61718> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Staatkundig+Gereformeerde+Partij>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/69321> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Friesland>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/54487> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Bert+Haanstra>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/103500> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nederlandse+Bioscoopbond>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/63274> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Zuiderzeemuseum>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/75031> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nellie+Visser>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/165856> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Wellington>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/74453> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Chicago>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/50163> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Volendam>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/72792> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Paleis+Soestdijk>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/65482> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Noordbrabant>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/63871> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Columbia>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/48223> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Thomassen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/71806> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Verbond+van+Nederlandse+Ondernemingen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/72748> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Diemen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/93299> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Verenigde+Naties>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/72738> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Waterstaat>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/67585> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Fred+Derby>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/92867> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Scheveningen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/68321> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Raad+van+Europa>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/66591> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Soelen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/70237> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nederlandse+Bank>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/49092> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Vaticaan>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/73284> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Alain+Delon>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/92698> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Piet+van+Katwijk>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/117599> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Associated+Press>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/46711> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Veiligheidsraad>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/73352> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Katholieke+Volks+Partij>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/59367> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-El+Fatah>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/53672> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Koninklijke+Militaire+Kapel>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/57269> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nicolaas>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/136416> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Interpol>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/57193> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Grote+Prijs+van+Nederland>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/55190> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Navis>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/62930> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Katwijk>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/58532> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Binnenlandse+Zaken>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/61689> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Engelsen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/48977> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nedlloyd>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/63571> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Rode+Kruis>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/67758> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-De+Schelde>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/49883> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Hennie+Kuiper>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/122496> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Jeruzalem>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/57745> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Arbeiderspers>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/46799> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-De+Parade>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/49110> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Radio+Veronica>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/66738> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Willem+Barendsz>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/73449> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nieuw>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/63669> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Michelangelo>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/61473> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Madame+Tussaud>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/212001> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Bosch>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/48709> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nederlandse+Jeugdgemeenschap>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/63356> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Heemskerk>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/55733> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Raad+van+de+Waterstaat>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/66590> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Bert+Onnes>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/135077> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Russen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/68156> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Boston>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/48726> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Metro>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/61419> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Hervormd+Nederland>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/56263> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Commissie+van+Negen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/50417> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Rob+Slotemaker>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/155083> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nederland+1>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/63025> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-KNSM>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/58963> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Fokker>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/53860> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Toos+Mutter>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/135298> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Tass>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/71054> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-De+Poolse>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/49866> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Delft>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/50044> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Hotel+Polen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/54190> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Shell>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/69367> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Flying+Enterprise>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/52288> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Hoogovens>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/56497> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Gerben+Wagenaar>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/167575> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Hyster>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/54407> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Koninklijke+Marine>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/57267> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Zuiderkruis>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/75026> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Dordrecht>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/51872> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Titiaan>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/159546> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Kerstmis>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/58651> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Gerrit+Voorting>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/166531> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Koninklijke+Landmacht>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/57260> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Rijksmuseum>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/67552> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Bronzen+Leeuw>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/49021> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Oranje+Nassau>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/65100> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Republikeinse>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/67391> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Rooms>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/67812> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Hera>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/55876> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Sixtijnse+Kapel>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/69980> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Philadelphia>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/70865> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-France+Soir>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/54082> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Der+Spiegel>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/51462> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Venus>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/73681> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Internationale+Hof+van+Justitie>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/57087> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Vereniging+van+Nederlandse+Gemeenten>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/72745> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Krasnapolsky>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/59071> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Veen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/73333> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Israel>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/57489> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Radio+Batavia>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/66683> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Ierse>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/56555> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-KNVB>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/58965> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Prinses+Margriet>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/66237> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Knil>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/58937> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Hof>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/56479> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Sardar+Singh>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/149438> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Albert+Cuyp>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/91044> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Zuiderzee>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/75030> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Dorus+Rijkers>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/51902> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Tweede+Kamer>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/72528> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Schotse>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/68410> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-KNWU>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/58970> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Rudi+Liebrechts>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/126143> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Sint+Willebrord>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/69630> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Vereniging+Rembrandt>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/73800> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Sinterklaas>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/69667> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Marten+Toonder>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/161393> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Rijnmondraad>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/67600> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Tartu>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/71046> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Koningin+Juliana>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/56890> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-ARJOS>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/46872> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Mohammad+Hatta>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/107585> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Beekse+Bergen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/47649> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Christelijk+Historische+Unie>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/50291> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-UNIFIL>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/71287> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Centrum>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/49709> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nederland+2>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/63026> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Marcus+Bakker>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/79041> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Leeuwarden>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/59880> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Zweden>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/75075> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nijmegen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/63699> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Eerste+Kamer>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/50482> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Diever>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/51637> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Joop+Zoetemelk>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/169133> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Neder>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/63017> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Air+India>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/45906> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Verbond+van+Nederlandse+Werkgevers>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/73700> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Frans+Hals>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/106596> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Vrijdagse>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/72956> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Ard+Schenk>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/151056> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Leiden>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/224467> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Partij+van+de+Arbeid>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/66498> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Moskou>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/62054> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Borneo>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/48692> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Nachtwacht>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/62486> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Hamburg>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/55467> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Raad+van+State>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/66601> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Leidens+Ontzet>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/59902> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Limburg>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/60161> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Akzo>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/45978> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Cees+Priem>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/143565> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Lely>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/59972> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Texel>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/71541> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Boerenpartij>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/48553> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Batavia>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/47526> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Waterloo>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/74366> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Stork>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/69864> .
+
+<http://purl.org/collections/nl/dive/entity/kb-org-Poolse>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/65930> .

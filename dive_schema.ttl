@@ -1,0 +1,152 @@
+@prefix       foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix       skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix        owl: <http://www.w3.org/2002/07/owl#> .
+@prefix       rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix        rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix        sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
+@prefix       dive: <http://purl.org/collections/nl/dive/> .
+
+
+# the Dive class is the class of all things we are interested in, 
+# isRelatedTo denotes interesting links
+dive:Entity 
+	a rdfs:Class;
+	rdfs:label "DIVE Entity";
+	rdfs:subClassOf rdfs:Resource.
+	
+dive:isRelatedTo 
+	a rdf:Property ;
+	rdfs:comment "this is the most toplevel related-toness".	
+	
+# Four main classes
+skos:Concept rdfs:subClassOf dive:Entity.
+sem:Actor rdfs:subClassOf dive:Entity.
+sem:Place rdfs:subClassOf dive:Entity.
+sem:Event rdfs:subClassOf dive:Entity.
+
+# Two subclasses of sem:Actor
+dive:Person
+	a rdfs:Class;
+	rdfs:subClassOf sem:Actor;
+	rdfs:label "Person";
+	rdfs:comments "Persons that act as actors";
+	rdfs:subClassOf foaf:Person. #mapped to Foaf
+	
+dive:Object
+	a rdfs:Class;
+	rdfs:subClassOf sem:Actor;
+	rdfs:label "Object";
+	rdfs:comments "Objects that act as actors".
+
+
+# Four main relatedness properties
+dive:relatedConcept
+	a rdf:Property ;
+	rdfs:domain dive:Entity ;
+	rdfs:subPropertyOf dive:isRelatedTo;
+	rdfs:label "relatedConcept" ;
+	rdfs:range rdfs:Resource .
+
+dive:relatedEvent
+	a rdf:Property ;
+	rdfs:domain dive:Entity ;
+	rdfs:subPropertyOf dive:isRelatedTo;	
+	rdfs:label "relatedEvent" ;
+	rdfs:range rdfs:Resource .
+	
+dive:relatedActor
+	a rdf:Property ;
+	rdfs:domain dive:Entity ;
+	rdfs:subPropertyOf dive:isRelatedTo;
+	rdfs:label "related actor" ;
+	rdfs:range rdfs:Resource .
+
+dive:relatedPlace
+	a rdf:Property ;
+	rdfs:domain dive:Entity ;
+	rdfs:subPropertyOf dive:isRelatedTo;	
+	rdfs:label "related place" ;
+	rdfs:range rdfs:Resource .
+
+# SEM relations are defined as subproperties of DIVE ones
+sem:hasActor rdfs:subPropertyOf dive:relatedActor.
+sem:hasPlace rdfs:subPropertyOf dive:relatedPlace.
+sem:hasSubEvent rdfs:subPropertyOf dive:relatedEvent.
+
+	
+# DIVE media objects and their relations
+dive:MediaObject
+ 	a rdfs:Class ;
+	rdfs:label "DIVE media object" .
+
+dive:Image
+	a rdfs:Class ;
+	rdfs:subClassOf dive:MediaObject;
+	rdfs:label "Image" .
+
+dive:Video
+	a rdfs:Class ;
+	rdfs:subClassOf dive:MediaObject;
+	rdfs:label "Video" .
+
+dive:depictedBy
+	a rdf:Property ;
+	rdfs:domain dive:MediaObject;
+	rdfs:range dive:Entity;
+	rdfs:label "depictedBy" .
+	
+dive:url
+	a rdf:Property ;
+	rdfs:domain dive:MediaObject;
+	rdfs:comment "Internal or external URI of actual content of the media object";
+	rdfs:label "url" ;
+	rdfs:range rdfs:Resource .	
+
+dive:placeholder
+	a rdf:Property ;
+	rdfs:label "placeholder" ;
+	rdfs:domain dive:MediaObject;
+	rdfs:comment "placeholder image uri for a DIVE MediaObject";
+	rdfs:range rdfs:Resource .
+	
+	
+# Time	
+dive:hasTime
+	a rdf:Property ;
+	rdfs:domain rdfs:Entity ;
+	rdfs:label "hasTime" ;
+	rdfs:range sem:Time 	.
+	
+dive:hasTimeStamp
+	a rdf:Property ;
+	rdfs:domain rdfs:Entity ;
+	rdfs:label "hasTimeStamp" ;
+	rdfs:range rdfs:Literal 	.
+	
+# External references	
+dive:hasExternalLink
+	a rdf:Property ;
+	rdfs:domain rdfs:Entity ;
+	rdfs:label "hasExternalLink" ;
+	rdfs:range rdfs:Resource .
+
+dive:hasSource
+	a rdf:Property ;
+	rdfs:domain rdfs:Entity ;
+	rdfs:subPropertyOf sem:eventProperty;
+	rdfs:label "hasSource" ;
+	rdfs:range rdfs:Resource .
+
+dive:source
+	a rdf:Property ;
+	rdfs:label "source" ;
+	rdfs:range rdfs:Resource .
+
+dive:sourceType
+	a rdf:Property ;
+	rdfs:domain rdfs:Resource ;
+	rdfs:label "sourceType" ;
+	rdfs:range rdfs:Literal .
+
+
+	
