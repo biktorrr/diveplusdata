@@ -10,7 +10,24 @@
 
 @prefix oa: <http://www.w3.org/ns/oa#> .
 
-
+<diveplus>	
+a void:Dataset ;
+		a lib:CloudNode ;
+        lib:source dive: ;
+        dc:title "DIVEPlus data" ;
+		owl:versionInfo "0.1" ;
+                void:dataDump
+                <oi_enriched.ttl>,
+                <kb_enriched.ttl>,
+				<gtaa_clean.ttl.gz>,
+				<al_kbactor_to_gtaanamenpers.ttl>,
+				<al_kbpers_to_gtaapers.ttl>,
+				<al_kbplace_to_gtaageo.ttl>,
+				<al_oievt_to_gtaanamen.ttl>,
+				<al_oipers_to_gtaapers.ttl>,
+				<al_oiplace_to_gtaageo.ttl>,
+				<dive_schema.ttl>.
+				
 
 <dive_all>
 a void:Dataset ;
