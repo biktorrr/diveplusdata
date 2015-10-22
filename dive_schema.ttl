@@ -93,7 +93,8 @@ dive:depictedBy
 	a rdf:Property ;
 	rdfs:domain dive:MediaObject;
 	rdfs:range dive:Entity;
-	rdfs:label "depictedBy" .
+	rdfs:label "depictedBy" ;
+	rdfs:subPropertyOf dive:isRelatedTo. # added for diveplus to make querying easier
 	
 dive:url
 	a rdf:Property ;
