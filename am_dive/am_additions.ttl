@@ -24,8 +24,8 @@ am:associationPerson rdfs:subPropertyOf dive:depicts .
 
 am:productionPlace rdfs:subPropertyOf dive:depicts .
 
-edm:object rdfs:subPropertyOf dive:source . # for images of aggregations
-edm:object rdfs:subPropertyOf dive:placeholder . # for images of aggregations
+edm:object rdfs:subPropertyOf dive:source . # for images of aggregations -> obsolete
+edm:object rdfs:subPropertyOf dive:placeholder . # for images of aggregations -> obsolete
 
 ore:Proxy rdfs:subClassOf dive:MediaObject .
 
@@ -33,4 +33,6 @@ dcterms:title rdfs:subPropertyOf rdfs:label .
 
 
 am:Person rdfs:subClassOf dive:Person .
-# am:
+am:name rdfs:subClassOf rdfs:label.
+
+# For realtions
