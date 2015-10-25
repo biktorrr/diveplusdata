@@ -30,9 +30,9 @@ edm:object rdfs:subPropertyOf dive:placeholder . # for images of aggregations ->
 ore:Proxy rdfs:subClassOf dive:MediaObject .
 
 dcterms:title rdfs:subPropertyOf rdfs:label .
-
+am:name rdfs:subPropertyOf rdfs:label.
 
 am:Person rdfs:subClassOf dive:Person .
-am:name rdfs:subClassOf rdfs:label.
+
 
 # For realtions
