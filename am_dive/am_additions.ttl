@@ -1,0 +1,36 @@
+@base               <data> .
+@prefix         oa: <http://www.w3.org/ns/oa#> .
+@prefix        xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix       rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix        rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix        sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
+@prefix    dcterms: <http://purl.org/dc/terms/> .
+@prefix     entity: <http://purl.org/collections/nl/dive/entity/> .
+@prefix annotation: <http://purl.org/collections/nl/dive/annotation/> .
+@prefix       dive: <http://purl.org/collections/nl/dive/> .
+
+@prefix       ore: <http://www.openarchives.org/ore/terms/>.
+@prefix       am: <http://purl.org/collections/nl/am/> .
+@prefix       dcterms: <http://purl.org/dc/terms/>.
+@prefix 	  dm: <http://www.europeana.eu/schemas/edm/> . 
+@prefix 	  edm: <http://www.europeana.eu/schemas/edm/> .
+
+am:contentSubject rdfs:subPropertyOf dive:depicts . 
+am:contentPersonName  rdfs:subPropertyOf dive:depicts . 
+am:contentMotifGeneral rdfs:subPropertyOf dive:depicts .
+
+am:associationSubject rdfs:subPropertyOf dive:depicts .  # could be dive:associatedby (need to introduce and change sparql)
+am:associationPerson rdfs:subPropertyOf dive:depicts . 
+
+am:productionPlace rdfs:subPropertyOf dive:depicts .
+
+edm:object rdfs:subPropertyOf dive:source . # for images of aggregations
+edm:object rdfs:subPropertyOf dive:placeholder . # for images of aggregations
+
+ore:Proxy rdfs:subClassOf dive:MediaObject .
+
+dcterms:title rdfs:subPropertyOf rdfs:label .
+
+
+am:Person rdfs:subClassOf dive:Person .
+# am:
