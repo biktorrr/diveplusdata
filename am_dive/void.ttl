@@ -17,5 +17,6 @@
 		<am-thesaurus-schema.ttl> ,
 		<am-thesaurus.ttl> ,
 		<am-people-rdagr2-schema.ttl> ,
+		<am-people-skos-schema.ttl> ,
 		<am-people.ttl> ,
 		<ElementsGr2.rdf>.
