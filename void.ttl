@@ -23,7 +23,7 @@ a void:Dataset ;
 				<al_kbactor_to_gtaanamenpers.ttl>,
 				<al_kbpers_to_gtaapers.ttl>,
 				<al_kbplace_to_gtaageo.ttl>,
-				<al_oievt_to_gtaanamen.ttl>,
+				<al_oirest_to_gtaaall.ttl>,
 				<al_oipers_to_gtaapers.ttl>,
 				<al_oiplace_to_gtaageo.ttl>,
 				<dive_schema.ttl>.
