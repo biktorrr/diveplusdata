@@ -18,4 +18,8 @@
 		<am-thesaurus.ttl> ,
 		<am-people-rdagr2-schema.ttl> ,
 		<am-people-skos-schema.ttl> ,
-		<am-people.ttl>.
+		<am-people.ttl>,
+		<al_amevt_to_gtaaall.ttl>,
+		<al_amgeo_to_gtaaall.ttl>,
+		<al_ampers_to_gtaanamen.ttl>,
+		<al_ampers_to_gtaapers.ttl>.
