@@ -44,7 +44,7 @@ a void:Dataset ;
 				<links/dataset4.ttl>,
 				<dive_schema.ttl>.
 				
-<schemas>
+<dive_schemas>
 a void:Dataset ;
 		a lib:CloudNode ;
         lib:source dive: ;
@@ -55,5 +55,5 @@ a void:Dataset ;
 				<schemas/oa.ttl>,
                 <schemas/rdf.ttl>,
                 <schemas/rdfs.ttl>,
-                <schemas/sem.rdf>, 
-				<schemas/skos.rdf>.
+                <schemas/sem.ttl>, 
+				<schemas/skos.ttl>.
