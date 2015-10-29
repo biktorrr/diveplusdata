@@ -1,0 +1,167 @@
+<http://purl.org/collections/nl/am/t-3900>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/27532> , <http://data.beeldengeluid.nl/gtaa/216990> .
+
+<http://purl.org/collections/nl/am/t-12732>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/27599> , <http://data.beeldengeluid.nl/gtaa/217057> .
+
+<http://purl.org/collections/nl/am/t-28819>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/66414> .
+
+<http://purl.org/collections/nl/am/t-14743>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/65737> .
+
+<http://purl.org/collections/nl/am/t-30811>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/48742> .
+
+<http://purl.org/collections/nl/am/t-31703>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/46896> .
+
+<http://purl.org/collections/nl/am/t-6681>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/28144> , <http://data.beeldengeluid.nl/gtaa/217601> .
+
+<http://purl.org/collections/nl/am/t-8672>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/72531> .
+
+<http://purl.org/collections/nl/am/t-4805>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/35960> , <http://data.beeldengeluid.nl/gtaa/25275> , <http://data.beeldengeluid.nl/gtaa/216016> .
+
+<http://purl.org/collections/nl/am/t-6039>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/64744> , <http://data.beeldengeluid.nl/gtaa/64724> .
+
+<http://purl.org/collections/nl/am/t-11857>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/28054> , <http://data.beeldengeluid.nl/gtaa/217502> .
+
+<http://purl.org/collections/nl/am/t-10059>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/226264> , <http://data.beeldengeluid.nl/gtaa/221908> .
+
+<http://purl.org/collections/nl/am/t-8736>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/28035> , <http://data.beeldengeluid.nl/gtaa/217521> .
+
+<http://purl.org/collections/nl/am/t-3911>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/51988> .
+
+<http://purl.org/collections/nl/am/t-10486>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/48827> .
+
+<http://purl.org/collections/nl/am/t-12536>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/221009> .
+
+<http://purl.org/collections/nl/am/t-5438>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/56901> .
+
+<http://purl.org/collections/nl/am/t-8891>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/25247> , <http://data.beeldengeluid.nl/gtaa/215982> .
+
+<http://purl.org/collections/nl/am/t-3486>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/25295> , <http://data.beeldengeluid.nl/gtaa/215996> .
+
+<http://purl.org/collections/nl/am/t-28240>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/74523> .
+
+<http://purl.org/collections/nl/am/t-26505>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/47655> .
+
+<http://purl.org/collections/nl/am/t-3437>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/27970> , <http://data.beeldengeluid.nl/gtaa/217461> .
+
+<http://purl.org/collections/nl/am/t-5452>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/58996> .
+
+<http://purl.org/collections/nl/am/t-28012>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/222691> .
+
+<http://purl.org/collections/nl/am/t-12489>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/61744> .
+
+<http://purl.org/collections/nl/am/t-9091>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/28064> , <http://data.beeldengeluid.nl/gtaa/217554> .
+
+<http://purl.org/collections/nl/am/t-15041>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/27319> , <http://data.beeldengeluid.nl/gtaa/216795> .
+
+<http://purl.org/collections/nl/am/t-28060>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/53801> .
+
+<http://purl.org/collections/nl/am/t-3510>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/47982> .
+
+<http://purl.org/collections/nl/am/t-29530>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/64724> .
+
+<http://purl.org/collections/nl/am/t-8939>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/27392> , <http://data.beeldengeluid.nl/gtaa/216858> .
+
+<http://purl.org/collections/nl/am/t-28080>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/68919> .
+
+<http://purl.org/collections/nl/am/t-5492>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/29998> , <http://data.beeldengeluid.nl/gtaa/28209> , <http://data.beeldengeluid.nl/gtaa/27876> , <http://data.beeldengeluid.nl/gtaa/217663> , <http://data.beeldengeluid.nl/gtaa/217365> , <http://data.beeldengeluid.nl/gtaa/215494> .
+
+<http://purl.org/collections/nl/am/t-4971>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/56473> .
+
+<http://purl.org/collections/nl/am/t-28203>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/25960> , <http://data.beeldengeluid.nl/gtaa/218618> .
+
+<http://purl.org/collections/nl/am/t-5377>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/58651> .
+
+<http://purl.org/collections/nl/am/t-27099>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/70962> .
+
+<http://purl.org/collections/nl/am/t-11867>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/57937> .
+
+<http://purl.org/collections/nl/am/t-3990>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/50487> .
+
+<http://purl.org/collections/nl/am/t-23612>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/30238> .
+
+<http://purl.org/collections/nl/am/t-3501>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/24973> , <http://data.beeldengeluid.nl/gtaa/215717> .
+
+<http://purl.org/collections/nl/am/t-28092>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/69667> .

@@ -1,0 +1,2864 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix core: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix user: <http://werkbak:3020/user/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix amalgame: <http://purl.org/vocabularies/amalgame#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@prefix am: <http://purl.org/collections/nl/am/> .
+@prefix version: <http://localhost/ns/amalgame/version/> .
+@prefix ns: <http://localhost/ns/> .
+
+<http://data.beeldengeluid.nl/gtaa/209727> core:exactMatch am:p-40871 .
+
+<http://data.beeldengeluid.nl/gtaa/210241> core:exactMatch am:p-45883 .
+
+<http://data.beeldengeluid.nl/gtaa/210452> core:exactMatch am:p-40784 .
+
+<http://data.beeldengeluid.nl/gtaa/211092> core:exactMatch am:p-61601 .
+
+<http://data.beeldengeluid.nl/gtaa/211109> core:exactMatch am:p-46034 .
+
+<http://data.beeldengeluid.nl/gtaa/211300> core:exactMatch am:p-22009 .
+
+<http://data.beeldengeluid.nl/gtaa/212936> core:exactMatch am:p-43409 .
+
+<http://data.beeldengeluid.nl/gtaa/212939> core:exactMatch am:p-42447 .
+
+<http://data.beeldengeluid.nl/gtaa/213663> core:exactMatch am:p-56002 .
+
+<http://data.beeldengeluid.nl/gtaa/213741> core:exactMatch am:p-44302 .
+
+<http://data.beeldengeluid.nl/gtaa/214099> core:exactMatch am:p-45451 .
+
+<http://data.beeldengeluid.nl/gtaa/214228> core:exactMatch am:p-33908 .
+
+<http://data.beeldengeluid.nl/gtaa/214334> core:exactMatch am:p-34728 .
+
+<http://data.beeldengeluid.nl/gtaa/214505> core:exactMatch am:p-59681 .
+
+<http://data.beeldengeluid.nl/gtaa/215049> core:exactMatch am:p-36158 .
+
+<http://data.beeldengeluid.nl/gtaa/220924> core:exactMatch am:p-42264 .
+
+<http://data.beeldengeluid.nl/gtaa/221008> core:exactMatch am:p-39502 .
+
+<http://data.beeldengeluid.nl/gtaa/221071> core:exactMatch am:p-63912 .
+
+<http://data.beeldengeluid.nl/gtaa/222384> core:exactMatch am:p-47782 .
+
+<http://data.beeldengeluid.nl/gtaa/222390> core:exactMatch am:p-21124 .
+
+<http://data.beeldengeluid.nl/gtaa/224467> core:exactMatch am:p-43639 .
+
+<http://data.beeldengeluid.nl/gtaa/225217> core:exactMatch am:p-64701 .
+
+<http://data.beeldengeluid.nl/gtaa/226495> core:exactMatch am:p-34255 .
+
+<http://data.beeldengeluid.nl/gtaa/227701> core:exactMatch am:p-59724 .
+
+<http://data.beeldengeluid.nl/gtaa/227898> core:exactMatch am:p-61876 .
+
+<http://data.beeldengeluid.nl/gtaa/228262> core:exactMatch am:p-14179 .
+
+<http://data.beeldengeluid.nl/gtaa/228761> core:exactMatch am:p-63972 .
+
+<http://data.beeldengeluid.nl/gtaa/228811> core:exactMatch am:p-44668 .
+
+<http://data.beeldengeluid.nl/gtaa/229189> core:exactMatch am:p-55968 .
+
+<http://data.beeldengeluid.nl/gtaa/229670> core:exactMatch am:p-71821 .
+
+<http://data.beeldengeluid.nl/gtaa/229766> core:exactMatch am:p-22630 .
+
+<http://data.beeldengeluid.nl/gtaa/230780> core:exactMatch am:p-62880 .
+
+<http://data.beeldengeluid.nl/gtaa/231520> core:exactMatch am:p-47844 .
+
+<http://data.beeldengeluid.nl/gtaa/231704> core:exactMatch am:p-38258 .
+
+<http://data.beeldengeluid.nl/gtaa/231985> core:exactMatch am:p-27614 .
+
+<http://data.beeldengeluid.nl/gtaa/232331> core:exactMatch am:p-60960 .
+
+<http://data.beeldengeluid.nl/gtaa/232834> core:exactMatch am:p-25812 .
+
+<http://data.beeldengeluid.nl/gtaa/233043> core:exactMatch am:p-35583 .
+
+<http://data.beeldengeluid.nl/gtaa/234544> core:exactMatch am:p-67666 .
+
+<http://data.beeldengeluid.nl/gtaa/234697> core:exactMatch am:p-24671 .
+<http://data.beeldengeluid.nl/gtaa/234697> core:exactMatch am:p-40199 .
+<http://data.beeldengeluid.nl/gtaa/234697> core:exactMatch am:p-71188 .
+
+<http://data.beeldengeluid.nl/gtaa/235186> core:exactMatch am:p-36039 .
+
+<http://data.beeldengeluid.nl/gtaa/235420> core:exactMatch am:p-51068 .
+
+<http://data.beeldengeluid.nl/gtaa/235703> core:exactMatch am:p-70086 .
+
+<http://data.beeldengeluid.nl/gtaa/236794> core:exactMatch am:p-71379 .
+
+<http://data.beeldengeluid.nl/gtaa/236884> core:exactMatch am:p-66683 .
+<http://data.beeldengeluid.nl/gtaa/236884> core:exactMatch am:p-68838 .
+
+<http://data.beeldengeluid.nl/gtaa/236897> core:exactMatch am:p-39987 .
+
+<http://data.beeldengeluid.nl/gtaa/236899> core:exactMatch am:p-51456 .
+
+<http://data.beeldengeluid.nl/gtaa/237308> core:exactMatch am:p-61514 .
+
+<http://data.beeldengeluid.nl/gtaa/237430> core:exactMatch am:p-40763 .
+
+<http://data.beeldengeluid.nl/gtaa/237655> core:exactMatch am:p-35505 .
+<http://data.beeldengeluid.nl/gtaa/237655> core:exactMatch am:p-47852 .
+
+<http://data.beeldengeluid.nl/gtaa/238646> core:exactMatch am:p-41765 .
+
+<http://data.beeldengeluid.nl/gtaa/238701> core:exactMatch am:p-33686 .
+
+<http://data.beeldengeluid.nl/gtaa/238712> core:exactMatch am:p-36258 .
+
+<http://data.beeldengeluid.nl/gtaa/239405> core:exactMatch am:p-67955 .
+
+<http://data.beeldengeluid.nl/gtaa/239841> core:exactMatch am:p-37613 .
+
+<http://data.beeldengeluid.nl/gtaa/239894> core:exactMatch am:p-58374 .
+
+<http://data.beeldengeluid.nl/gtaa/45422> core:exactMatch am:p-40104 .
+
+<http://data.beeldengeluid.nl/gtaa/45427> core:exactMatch am:p-25722 .
+
+<http://data.beeldengeluid.nl/gtaa/45430> core:exactMatch am:p-91 .
+
+<http://data.beeldengeluid.nl/gtaa/45459> core:exactMatch am:p-69438 .
+
+<http://data.beeldengeluid.nl/gtaa/45536> core:exactMatch am:p-223 .
+<http://data.beeldengeluid.nl/gtaa/45536> core:exactMatch am:p-515 .
+
+<http://data.beeldengeluid.nl/gtaa/45541> core:exactMatch am:p-65018 .
+
+<http://data.beeldengeluid.nl/gtaa/45561> core:exactMatch am:p-37330 .
+
+<http://data.beeldengeluid.nl/gtaa/45612> core:exactMatch am:p-42781 .
+<http://data.beeldengeluid.nl/gtaa/45612> core:exactMatch am:p-52427 .
+
+<http://data.beeldengeluid.nl/gtaa/45631> core:exactMatch am:p-34710 .
+
+<http://data.beeldengeluid.nl/gtaa/45641> core:exactMatch am:p-47784 .
+
+<http://data.beeldengeluid.nl/gtaa/45646> core:exactMatch am:p-45497 .
+
+<http://data.beeldengeluid.nl/gtaa/45656> core:exactMatch am:p-25693 .
+
+<http://data.beeldengeluid.nl/gtaa/45666> core:exactMatch am:p-19894 .
+
+<http://data.beeldengeluid.nl/gtaa/45667> core:exactMatch am:p-19863 .
+
+<http://data.beeldengeluid.nl/gtaa/45702> core:exactMatch am:p-19866 .
+<http://data.beeldengeluid.nl/gtaa/45702> core:exactMatch am:p-33535 .
+
+<http://data.beeldengeluid.nl/gtaa/45709> core:exactMatch am:p-34266 .
+
+<http://data.beeldengeluid.nl/gtaa/45757> core:exactMatch am:p-34869 .
+
+<http://data.beeldengeluid.nl/gtaa/45813> core:exactMatch am:p-61214 .
+
+<http://data.beeldengeluid.nl/gtaa/45878> core:exactMatch am:p-35606 .
+
+<http://data.beeldengeluid.nl/gtaa/45886> core:exactMatch am:p-41610 .
+
+<http://data.beeldengeluid.nl/gtaa/45929> core:exactMatch am:p-35935 .
+
+<http://data.beeldengeluid.nl/gtaa/45933> core:exactMatch am:p-152 .
+<http://data.beeldengeluid.nl/gtaa/45933> core:exactMatch am:p-408 .
+
+<http://data.beeldengeluid.nl/gtaa/46024> core:exactMatch am:p-19886 .
+
+<http://data.beeldengeluid.nl/gtaa/46026> core:exactMatch am:p-60458 .
+
+<http://data.beeldengeluid.nl/gtaa/46036> core:exactMatch am:p-34761 .
+
+<http://data.beeldengeluid.nl/gtaa/46040> core:exactMatch am:p-22748 .
+
+<http://data.beeldengeluid.nl/gtaa/46079> core:exactMatch am:p-59696 .
+
+<http://data.beeldengeluid.nl/gtaa/46084> core:exactMatch am:p-42852 .
+
+<http://data.beeldengeluid.nl/gtaa/46096> core:exactMatch am:p-58352 .
+
+<http://data.beeldengeluid.nl/gtaa/46098> core:exactMatch am:p-42856 .
+
+<http://data.beeldengeluid.nl/gtaa/46104> core:exactMatch am:p-218 .
+
+<http://data.beeldengeluid.nl/gtaa/46106> core:exactMatch am:p-34098 .
+<http://data.beeldengeluid.nl/gtaa/46106> core:exactMatch am:p-34396 .
+
+<http://data.beeldengeluid.nl/gtaa/46110> core:exactMatch am:p-36523 .
+
+<http://data.beeldengeluid.nl/gtaa/46116> core:exactMatch am:p-25779 .
+
+<http://data.beeldengeluid.nl/gtaa/46139> core:exactMatch am:p-35584 .
+
+<http://data.beeldengeluid.nl/gtaa/46140> core:exactMatch am:p-322 .
+
+<http://data.beeldengeluid.nl/gtaa/46153> core:exactMatch am:p-222 .
+
+<http://data.beeldengeluid.nl/gtaa/46179> core:exactMatch am:p-58674 .
+
+<http://data.beeldengeluid.nl/gtaa/46208> core:exactMatch am:p-19896 .
+<http://data.beeldengeluid.nl/gtaa/46208> core:exactMatch am:p-33537 .
+
+<http://data.beeldengeluid.nl/gtaa/46226> core:exactMatch am:p-42935 .
+
+<http://data.beeldengeluid.nl/gtaa/46289> core:exactMatch am:p-44768 .
+
+<http://data.beeldengeluid.nl/gtaa/46310> core:exactMatch am:p-44603 .
+
+<http://data.beeldengeluid.nl/gtaa/46317> core:exactMatch am:p-19867 .
+<http://data.beeldengeluid.nl/gtaa/46317> core:exactMatch am:p-47903 .
+
+<http://data.beeldengeluid.nl/gtaa/46341> core:exactMatch am:p-64094 .
+
+<http://data.beeldengeluid.nl/gtaa/46345> core:exactMatch am:p-66493 .
+
+<http://data.beeldengeluid.nl/gtaa/46372> core:exactMatch am:p-33529 .
+
+<http://data.beeldengeluid.nl/gtaa/46400> core:exactMatch am:p-40393 .
+
+<http://data.beeldengeluid.nl/gtaa/46405> core:exactMatch am:p-304 .
+
+<http://data.beeldengeluid.nl/gtaa/46406> core:exactMatch am:p-63783 .
+
+<http://data.beeldengeluid.nl/gtaa/46418> core:exactMatch am:p-24343 .
+<http://data.beeldengeluid.nl/gtaa/46418> core:exactMatch am:p-36195 .
+
+<http://data.beeldengeluid.nl/gtaa/46427> core:exactMatch am:p-54554 .
+
+<http://data.beeldengeluid.nl/gtaa/46443> core:exactMatch am:p-36355 .
+
+<http://data.beeldengeluid.nl/gtaa/46450> core:exactMatch am:p-308 .
+
+<http://data.beeldengeluid.nl/gtaa/46454> core:exactMatch am:p-58154 .
+
+<http://data.beeldengeluid.nl/gtaa/46458> core:exactMatch am:p-35167 .
+
+<http://data.beeldengeluid.nl/gtaa/46461> core:exactMatch am:p-44680 .
+
+<http://data.beeldengeluid.nl/gtaa/46465> core:exactMatch am:p-36399 .
+
+<http://data.beeldengeluid.nl/gtaa/46467> core:exactMatch am:p-63415 .
+
+<http://data.beeldengeluid.nl/gtaa/46474> core:exactMatch am:p-47690 .
+
+<http://data.beeldengeluid.nl/gtaa/46480> core:exactMatch am:p-41067 .
+
+<http://data.beeldengeluid.nl/gtaa/46482> core:exactMatch am:p-35293 .
+
+<http://data.beeldengeluid.nl/gtaa/46483> core:exactMatch am:p-44855 .
+
+<http://data.beeldengeluid.nl/gtaa/46486> core:exactMatch am:p-314 .
+
+<http://data.beeldengeluid.nl/gtaa/46487> core:exactMatch am:p-36117 .
+
+<http://data.beeldengeluid.nl/gtaa/46503> core:exactMatch am:p-33779 .
+
+<http://data.beeldengeluid.nl/gtaa/46544> core:exactMatch am:p-57881 .
+
+<http://data.beeldengeluid.nl/gtaa/46553> core:exactMatch am:p-71967 .
+
+<http://data.beeldengeluid.nl/gtaa/46565> core:exactMatch am:p-41643 .
+
+<http://data.beeldengeluid.nl/gtaa/46585> core:exactMatch am:p-69221 .
+
+<http://data.beeldengeluid.nl/gtaa/46589> core:exactMatch am:p-44137 .
+
+<http://data.beeldengeluid.nl/gtaa/46601> core:exactMatch am:p-33643 .
+
+<http://data.beeldengeluid.nl/gtaa/46604> core:exactMatch am:p-373 .
+
+<http://data.beeldengeluid.nl/gtaa/46623> core:exactMatch am:p-71846 .
+<http://data.beeldengeluid.nl/gtaa/46623> core:exactMatch am:p-71847 .
+
+<http://data.beeldengeluid.nl/gtaa/46626> core:exactMatch am:p-62844 .
+
+<http://data.beeldengeluid.nl/gtaa/46642> core:exactMatch am:p-36580 .
+
+<http://data.beeldengeluid.nl/gtaa/46696> core:exactMatch am:p-63019 .
+
+<http://data.beeldengeluid.nl/gtaa/46724> core:exactMatch am:p-25884 .
+
+<http://data.beeldengeluid.nl/gtaa/46741> core:exactMatch am:p-48588 .
+
+<http://data.beeldengeluid.nl/gtaa/46799> core:exactMatch am:p-19948 .
+<http://data.beeldengeluid.nl/gtaa/46799> core:exactMatch am:p-60795 .
+
+<http://data.beeldengeluid.nl/gtaa/46801> core:exactMatch am:p-34460 .
+
+<http://data.beeldengeluid.nl/gtaa/46803> core:exactMatch am:p-409 .
+
+<http://data.beeldengeluid.nl/gtaa/46810> core:exactMatch am:p-41835 .
+
+<http://data.beeldengeluid.nl/gtaa/46814> core:exactMatch am:p-41772 .
+
+<http://data.beeldengeluid.nl/gtaa/46815> core:exactMatch am:p-36653 .
+
+<http://data.beeldengeluid.nl/gtaa/46823> core:exactMatch am:p-45311 .
+
+<http://data.beeldengeluid.nl/gtaa/46832> core:exactMatch am:p-59849 .
+
+<http://data.beeldengeluid.nl/gtaa/46847> core:exactMatch am:p-32419 .
+
+<http://data.beeldengeluid.nl/gtaa/46849> core:exactMatch am:p-71966 .
+
+<http://data.beeldengeluid.nl/gtaa/46855> core:exactMatch am:p-38793 .
+
+<http://data.beeldengeluid.nl/gtaa/46863> core:exactMatch am:p-42050 .
+
+<http://data.beeldengeluid.nl/gtaa/46873> core:exactMatch am:p-47797 .
+
+<http://data.beeldengeluid.nl/gtaa/46889> core:exactMatch am:p-65173 .
+
+<http://data.beeldengeluid.nl/gtaa/46938> core:exactMatch am:p-19967 .
+
+<http://data.beeldengeluid.nl/gtaa/46943> core:exactMatch am:p-12245 .
+<http://data.beeldengeluid.nl/gtaa/46943> core:exactMatch am:p-472 .
+
+<http://data.beeldengeluid.nl/gtaa/46995> core:exactMatch am:p-51103 .
+
+<http://data.beeldengeluid.nl/gtaa/47037> core:exactMatch am:p-43955 .
+
+<http://data.beeldengeluid.nl/gtaa/47056> core:exactMatch am:p-63427 .
+
+<http://data.beeldengeluid.nl/gtaa/47114> core:exactMatch am:p-34009 .
+
+<http://data.beeldengeluid.nl/gtaa/47118> core:exactMatch am:p-71941 .
+
+<http://data.beeldengeluid.nl/gtaa/47126> core:exactMatch am:p-25967 .
+
+<http://data.beeldengeluid.nl/gtaa/47161> core:exactMatch am:p-64811 .
+
+<http://data.beeldengeluid.nl/gtaa/47202> core:exactMatch am:p-25975 .
+
+<http://data.beeldengeluid.nl/gtaa/47263> core:exactMatch am:p-20043 .
+<http://data.beeldengeluid.nl/gtaa/47263> core:exactMatch am:p-25977 .
+
+<http://data.beeldengeluid.nl/gtaa/47421> core:exactMatch am:p-19997 .
+
+<http://data.beeldengeluid.nl/gtaa/47426> core:exactMatch am:p-41870 .
+
+<http://data.beeldengeluid.nl/gtaa/47427> core:exactMatch am:p-66850 .
+
+<http://data.beeldengeluid.nl/gtaa/47446> core:exactMatch am:p-71841 .
+
+<http://data.beeldengeluid.nl/gtaa/47461> core:exactMatch am:p-59734 .
+
+<http://data.beeldengeluid.nl/gtaa/47475> core:exactMatch am:p-37020 .
+
+<http://data.beeldengeluid.nl/gtaa/47496> core:exactMatch am:p-38971 .
+
+<http://data.beeldengeluid.nl/gtaa/47530> core:exactMatch am:p-878 .
+
+<http://data.beeldengeluid.nl/gtaa/47545> core:exactMatch am:p-39948 .
+
+<http://data.beeldengeluid.nl/gtaa/47549> core:exactMatch am:p-26220 .
+
+<http://data.beeldengeluid.nl/gtaa/47572> core:exactMatch am:p-1371 .
+<http://data.beeldengeluid.nl/gtaa/47572> core:exactMatch am:p-937 .
+
+<http://data.beeldengeluid.nl/gtaa/47602> core:exactMatch am:p-943 .
+
+<http://data.beeldengeluid.nl/gtaa/47645> core:exactMatch am:p-37594 .
+
+<http://data.beeldengeluid.nl/gtaa/47668> core:exactMatch am:p-41963 .
+
+<http://data.beeldengeluid.nl/gtaa/47703> core:exactMatch am:p-37814 .
+<http://data.beeldengeluid.nl/gtaa/47703> core:exactMatch am:p-43790 .
+
+<http://data.beeldengeluid.nl/gtaa/47729> core:exactMatch am:p-39888 .
+
+<http://data.beeldengeluid.nl/gtaa/47747> core:exactMatch am:p-71548 .
+
+<http://data.beeldengeluid.nl/gtaa/47756> core:exactMatch am:p-69553 .
+
+<http://data.beeldengeluid.nl/gtaa/47804> core:exactMatch am:p-1204 .
+
+<http://data.beeldengeluid.nl/gtaa/47808> core:exactMatch am:p-37152 .
+
+<http://data.beeldengeluid.nl/gtaa/47839> core:exactMatch am:p-33842 .
+
+<http://data.beeldengeluid.nl/gtaa/47863> core:exactMatch am:p-64923 .
+
+<http://data.beeldengeluid.nl/gtaa/47882> core:exactMatch am:p-45287 .
+
+<http://data.beeldengeluid.nl/gtaa/47904> core:exactMatch am:p-20078 .
+
+<http://data.beeldengeluid.nl/gtaa/47934> core:exactMatch am:p-34193 .
+
+<http://data.beeldengeluid.nl/gtaa/47947> core:exactMatch am:p-33653 .
+
+<http://data.beeldengeluid.nl/gtaa/47976> core:exactMatch am:p-1523 .
+
+<http://data.beeldengeluid.nl/gtaa/47979> core:exactMatch am:p-26484 .
+<http://data.beeldengeluid.nl/gtaa/47979> core:exactMatch am:p-43718 .
+<http://data.beeldengeluid.nl/gtaa/47979> core:exactMatch am:p-44868 .
+<http://data.beeldengeluid.nl/gtaa/47979> core:exactMatch am:p-61770 .
+
+<http://data.beeldengeluid.nl/gtaa/47994> core:exactMatch am:p-40017 .
+
+<http://data.beeldengeluid.nl/gtaa/48005> core:exactMatch am:p-59825 .
+
+<http://data.beeldengeluid.nl/gtaa/48008> core:exactMatch am:p-20102 .
+
+<http://data.beeldengeluid.nl/gtaa/48060> core:exactMatch am:p-20103 .
+
+<http://data.beeldengeluid.nl/gtaa/48161> core:exactMatch am:p-47858 .
+
+<http://data.beeldengeluid.nl/gtaa/48162> core:exactMatch am:p-20338 .
+
+<http://data.beeldengeluid.nl/gtaa/48163> core:exactMatch am:p-39708 .
+
+<http://data.beeldengeluid.nl/gtaa/48191> core:exactMatch am:p-60334 .
+
+<http://data.beeldengeluid.nl/gtaa/48229> core:exactMatch am:p-38052 .
+
+<http://data.beeldengeluid.nl/gtaa/48347> core:exactMatch am:p-44685 .
+
+<http://data.beeldengeluid.nl/gtaa/48367> core:exactMatch am:p-36358 .
+
+<http://data.beeldengeluid.nl/gtaa/48448> core:exactMatch am:p-45174 .
+
+<http://data.beeldengeluid.nl/gtaa/48452> core:exactMatch am:p-1370 .
+<http://data.beeldengeluid.nl/gtaa/48452> core:exactMatch am:p-1743 .
+
+<http://data.beeldengeluid.nl/gtaa/48539> core:exactMatch am:p-37259 .
+
+<http://data.beeldengeluid.nl/gtaa/48540> core:exactMatch am:p-1797 .
+
+<http://data.beeldengeluid.nl/gtaa/48556> core:exactMatch am:p-59234 .
+
+<http://data.beeldengeluid.nl/gtaa/48567> core:exactMatch am:p-41948 .
+
+<http://data.beeldengeluid.nl/gtaa/48570> core:exactMatch am:p-22872 .
+
+<http://data.beeldengeluid.nl/gtaa/48601> core:exactMatch am:p-37252 .
+
+<http://data.beeldengeluid.nl/gtaa/48603> core:exactMatch am:p-2015 .
+
+<http://data.beeldengeluid.nl/gtaa/48619> core:exactMatch am:p-45173 .
+
+<http://data.beeldengeluid.nl/gtaa/48625> core:exactMatch am:p-42651 .
+
+<http://data.beeldengeluid.nl/gtaa/48643> core:exactMatch am:p-37840 .
+
+<http://data.beeldengeluid.nl/gtaa/48646> core:exactMatch am:p-34373 .
+
+<http://data.beeldengeluid.nl/gtaa/48659> core:exactMatch am:p-36638 .
+
+<http://data.beeldengeluid.nl/gtaa/48666> core:exactMatch am:p-40683 .
+
+<http://data.beeldengeluid.nl/gtaa/48671> core:exactMatch am:p-50423 .
+
+<http://data.beeldengeluid.nl/gtaa/48685> core:exactMatch am:p-34261 .
+<http://data.beeldengeluid.nl/gtaa/48685> core:exactMatch am:p-43498 .
+
+<http://data.beeldengeluid.nl/gtaa/48709> core:exactMatch am:p-38246 .
+
+<http://data.beeldengeluid.nl/gtaa/48752> core:exactMatch am:p-43765 .
+
+<http://data.beeldengeluid.nl/gtaa/48756> core:exactMatch am:p-39924 .
+
+<http://data.beeldengeluid.nl/gtaa/48798> core:exactMatch am:p-60589 .
+
+<http://data.beeldengeluid.nl/gtaa/48821> core:exactMatch am:p-48126 .
+
+<http://data.beeldengeluid.nl/gtaa/48827> core:exactMatch am:p-39578 .
+
+<http://data.beeldengeluid.nl/gtaa/48856> core:exactMatch am:p-35600 .
+<http://data.beeldengeluid.nl/gtaa/48856> core:exactMatch am:p-63851 .
+
+<http://data.beeldengeluid.nl/gtaa/48869> core:exactMatch am:p-37507 .
+
+<http://data.beeldengeluid.nl/gtaa/48870> core:exactMatch am:p-34908 .
+
+<http://data.beeldengeluid.nl/gtaa/48912> core:exactMatch am:p-35903 .
+
+<http://data.beeldengeluid.nl/gtaa/48963> core:exactMatch am:p-20225 .
+
+<http://data.beeldengeluid.nl/gtaa/49040> core:exactMatch am:p-34573 .
+
+<http://data.beeldengeluid.nl/gtaa/49048> core:exactMatch am:p-36323 .
+
+<http://data.beeldengeluid.nl/gtaa/49054> core:exactMatch am:p-57793 .
+
+<http://data.beeldengeluid.nl/gtaa/49071> core:exactMatch am:p-37925 .
+
+<http://data.beeldengeluid.nl/gtaa/49079> core:exactMatch am:p-45745 .
+
+<http://data.beeldengeluid.nl/gtaa/49081> core:exactMatch am:p-33706 .
+
+<http://data.beeldengeluid.nl/gtaa/49088> core:exactMatch am:p-35358 .
+
+<http://data.beeldengeluid.nl/gtaa/49092> core:exactMatch am:p-39554 .
+<http://data.beeldengeluid.nl/gtaa/49092> core:exactMatch am:p-58662 .
+
+<http://data.beeldengeluid.nl/gtaa/49094> core:exactMatch am:p-30610 .
+
+<http://data.beeldengeluid.nl/gtaa/49095> core:exactMatch am:p-61748 .
+<http://data.beeldengeluid.nl/gtaa/49095> core:exactMatch am:p-68875 .
+
+<http://data.beeldengeluid.nl/gtaa/49097> core:exactMatch am:p-59894 .
+
+<http://data.beeldengeluid.nl/gtaa/49204> core:exactMatch am:p-20271 .
+
+<http://data.beeldengeluid.nl/gtaa/49205> core:exactMatch am:p-38739 .
+
+<http://data.beeldengeluid.nl/gtaa/49254> core:exactMatch am:p-36493 .
+
+<http://data.beeldengeluid.nl/gtaa/49490> core:exactMatch am:p-48131 .
+
+<http://data.beeldengeluid.nl/gtaa/49494> core:exactMatch am:p-37687 .
+<http://data.beeldengeluid.nl/gtaa/49494> core:exactMatch am:p-49002 .
+
+<http://data.beeldengeluid.nl/gtaa/49515> core:exactMatch am:p-50648 .
+
+<http://data.beeldengeluid.nl/gtaa/49564> core:exactMatch am:p-20300 .
+<http://data.beeldengeluid.nl/gtaa/49564> core:exactMatch am:p-48286 .
+
+<http://data.beeldengeluid.nl/gtaa/49589> core:exactMatch am:p-44526 .
+
+<http://data.beeldengeluid.nl/gtaa/49635> core:exactMatch am:p-3219 .
+
+<http://data.beeldengeluid.nl/gtaa/49639> core:exactMatch am:p-69012 .
+
+<http://data.beeldengeluid.nl/gtaa/49651> core:exactMatch am:p-20301 .
+
+<http://data.beeldengeluid.nl/gtaa/49655> core:exactMatch am:p-20302 .
+
+<http://data.beeldengeluid.nl/gtaa/49665> core:exactMatch am:p-35863 .
+
+<http://data.beeldengeluid.nl/gtaa/49705> core:exactMatch am:p-44690 .
+
+<http://data.beeldengeluid.nl/gtaa/49747> core:exactMatch am:p-72114 .
+
+<http://data.beeldengeluid.nl/gtaa/49751> core:exactMatch am:p-27199 .
+
+<http://data.beeldengeluid.nl/gtaa/49822> core:exactMatch am:p-42514 .
+
+<http://data.beeldengeluid.nl/gtaa/49848> core:exactMatch am:p-64871 .
+
+<http://data.beeldengeluid.nl/gtaa/49862> core:exactMatch am:p-31108 .
+
+<http://data.beeldengeluid.nl/gtaa/49867> core:exactMatch am:p-41112 .
+
+<http://data.beeldengeluid.nl/gtaa/49879> core:exactMatch am:p-45855 .
+
+<http://data.beeldengeluid.nl/gtaa/49895> core:exactMatch am:p-39029 .
+
+<http://data.beeldengeluid.nl/gtaa/49896> core:exactMatch am:p-39183 .
+
+<http://data.beeldengeluid.nl/gtaa/49899> core:exactMatch am:p-48559 .
+
+<http://data.beeldengeluid.nl/gtaa/49928> core:exactMatch am:p-45660 .
+
+<http://data.beeldengeluid.nl/gtaa/49942> core:exactMatch am:p-61792 .
+
+<http://data.beeldengeluid.nl/gtaa/49947> core:exactMatch am:p-44270 .
+
+<http://data.beeldengeluid.nl/gtaa/49949> core:exactMatch am:p-44180 .
+
+<http://data.beeldengeluid.nl/gtaa/49954> core:exactMatch am:p-15637 .
+<http://data.beeldengeluid.nl/gtaa/49954> core:exactMatch am:p-18170 .
+
+<http://data.beeldengeluid.nl/gtaa/49955> core:exactMatch am:p-45495 .
+
+<http://data.beeldengeluid.nl/gtaa/49966> core:exactMatch am:p-35133 .
+
+<http://data.beeldengeluid.nl/gtaa/49980> core:exactMatch am:p-72034 .
+
+<http://data.beeldengeluid.nl/gtaa/49982> core:exactMatch am:p-33528 .
+
+<http://data.beeldengeluid.nl/gtaa/49984> core:exactMatch am:p-58946 .
+
+<http://data.beeldengeluid.nl/gtaa/50005> core:exactMatch am:p-61355 .
+
+<http://data.beeldengeluid.nl/gtaa/50058> core:exactMatch am:p-68881 .
+
+<http://data.beeldengeluid.nl/gtaa/50066> core:exactMatch am:p-42680 .
+
+<http://data.beeldengeluid.nl/gtaa/50080> core:exactMatch am:p-38216 .
+
+<http://data.beeldengeluid.nl/gtaa/50182> core:exactMatch am:p-35570 .
+
+<http://data.beeldengeluid.nl/gtaa/50257> core:exactMatch am:p-62986 .
+
+<http://data.beeldengeluid.nl/gtaa/50277> core:exactMatch am:p-36575 .
+
+<http://data.beeldengeluid.nl/gtaa/50280> core:exactMatch am:p-20314 .
+<http://data.beeldengeluid.nl/gtaa/50280> core:exactMatch am:p-3315 .
+
+<http://data.beeldengeluid.nl/gtaa/50281> core:exactMatch am:p-3317 .
+
+<http://data.beeldengeluid.nl/gtaa/50309> core:exactMatch am:p-3322 .
+
+<http://data.beeldengeluid.nl/gtaa/50319> core:exactMatch am:p-24525 .
+
+<http://data.beeldengeluid.nl/gtaa/50321> core:exactMatch am:p-45393 .
+
+<http://data.beeldengeluid.nl/gtaa/50325> core:exactMatch am:p-39081 .
+
+<http://data.beeldengeluid.nl/gtaa/50329> core:exactMatch am:p-58677 .
+
+<http://data.beeldengeluid.nl/gtaa/50353> core:exactMatch am:p-37998 .
+<http://data.beeldengeluid.nl/gtaa/50353> core:exactMatch am:p-58608 .
+
+<http://data.beeldengeluid.nl/gtaa/50377> core:exactMatch am:p-59727 .
+
+<http://data.beeldengeluid.nl/gtaa/50471> core:exactMatch am:p-27951 .
+
+<http://data.beeldengeluid.nl/gtaa/50496> core:exactMatch am:p-47694 .
+
+<http://data.beeldengeluid.nl/gtaa/50592> core:exactMatch am:p-20362 .
+
+<http://data.beeldengeluid.nl/gtaa/50595> core:exactMatch am:p-43952 .
+<http://data.beeldengeluid.nl/gtaa/50595> core:exactMatch am:p-67001 .
+
+<http://data.beeldengeluid.nl/gtaa/50655> core:exactMatch am:p-38487 .
+
+<http://data.beeldengeluid.nl/gtaa/50677> core:exactMatch am:p-35791 .
+
+<http://data.beeldengeluid.nl/gtaa/50848> core:exactMatch am:p-3673 .
+<http://data.beeldengeluid.nl/gtaa/50848> core:exactMatch am:p-3674 .
+
+<http://data.beeldengeluid.nl/gtaa/50850> core:exactMatch am:p-38606 .
+
+<http://data.beeldengeluid.nl/gtaa/50887> core:exactMatch am:p-35943 .
+
+<http://data.beeldengeluid.nl/gtaa/50918> core:exactMatch am:p-58102 .
+
+<http://data.beeldengeluid.nl/gtaa/50986> core:exactMatch am:p-35230 .
+
+<http://data.beeldengeluid.nl/gtaa/50998> core:exactMatch am:p-27545 .
+
+<http://data.beeldengeluid.nl/gtaa/51006> core:exactMatch am:p-47892 .
+
+<http://data.beeldengeluid.nl/gtaa/51007> core:exactMatch am:p-51332 .
+
+<http://data.beeldengeluid.nl/gtaa/51013> core:exactMatch am:p-44564 .
+
+<http://data.beeldengeluid.nl/gtaa/51203> core:exactMatch am:p-42328 .
+
+<http://data.beeldengeluid.nl/gtaa/51235> core:exactMatch am:p-44023 .
+
+<http://data.beeldengeluid.nl/gtaa/51242> core:exactMatch am:p-36909 .
+
+<http://data.beeldengeluid.nl/gtaa/51256> core:exactMatch am:p-45033 .
+
+<http://data.beeldengeluid.nl/gtaa/51258> core:exactMatch am:p-36315 .
+
+<http://data.beeldengeluid.nl/gtaa/51260> core:exactMatch am:p-40381 .
+
+<http://data.beeldengeluid.nl/gtaa/51275> core:exactMatch am:p-45716 .
+
+<http://data.beeldengeluid.nl/gtaa/51280> core:exactMatch am:p-45709 .
+
+<http://data.beeldengeluid.nl/gtaa/51300> core:exactMatch am:p-51167 .
+
+<http://data.beeldengeluid.nl/gtaa/51305> core:exactMatch am:p-40191 .
+
+<http://data.beeldengeluid.nl/gtaa/51321> core:exactMatch am:p-45712 .
+
+<http://data.beeldengeluid.nl/gtaa/51329> core:exactMatch am:p-39142 .
+
+<http://data.beeldengeluid.nl/gtaa/51335> core:exactMatch am:p-38156 .
+
+<http://data.beeldengeluid.nl/gtaa/51343> core:exactMatch am:p-36016 .
+
+<http://data.beeldengeluid.nl/gtaa/51346> core:exactMatch am:p-34158 .
+
+<http://data.beeldengeluid.nl/gtaa/51381> core:exactMatch am:p-45796 .
+
+<http://data.beeldengeluid.nl/gtaa/51385> core:exactMatch am:p-43710 .
+
+<http://data.beeldengeluid.nl/gtaa/51390> core:exactMatch am:p-57631 .
+
+<http://data.beeldengeluid.nl/gtaa/51424> core:exactMatch am:p-47849 .
+<http://data.beeldengeluid.nl/gtaa/51424> core:exactMatch am:p-58340 .
+
+<http://data.beeldengeluid.nl/gtaa/51474> core:exactMatch am:p-38346 .
+
+<http://data.beeldengeluid.nl/gtaa/51494> core:exactMatch am:p-39396 .
+
+<http://data.beeldengeluid.nl/gtaa/51549> core:exactMatch am:p-60043 .
+
+<http://data.beeldengeluid.nl/gtaa/51562> core:exactMatch am:p-58588 .
+
+<http://data.beeldengeluid.nl/gtaa/51608> core:exactMatch am:p-20457 .
+
+<http://data.beeldengeluid.nl/gtaa/51611> core:exactMatch am:p-34952 .
+
+<http://data.beeldengeluid.nl/gtaa/51672> core:exactMatch am:p-54443 .
+
+<http://data.beeldengeluid.nl/gtaa/51684> core:exactMatch am:p-56569 .
+
+<http://data.beeldengeluid.nl/gtaa/51782> core:exactMatch am:p-38494 .
+
+<http://data.beeldengeluid.nl/gtaa/51788> core:exactMatch am:p-27787 .
+
+<http://data.beeldengeluid.nl/gtaa/51798> core:exactMatch am:p-41842 .
+
+<http://data.beeldengeluid.nl/gtaa/51812> core:exactMatch am:p-45590 .
+
+<http://data.beeldengeluid.nl/gtaa/51827> core:exactMatch am:p-13714 .
+<http://data.beeldengeluid.nl/gtaa/51827> core:exactMatch am:p-4372 .
+
+<http://data.beeldengeluid.nl/gtaa/51841> core:exactMatch am:p-42156 .
+
+<http://data.beeldengeluid.nl/gtaa/51856> core:exactMatch am:p-37277 .
+
+<http://data.beeldengeluid.nl/gtaa/51858> core:exactMatch am:p-33661 .
+
+<http://data.beeldengeluid.nl/gtaa/51874> core:exactMatch am:p-20502 .
+
+<http://data.beeldengeluid.nl/gtaa/51906> core:exactMatch am:p-35061 .
+
+<http://data.beeldengeluid.nl/gtaa/51970> core:exactMatch am:p-20517 .
+
+<http://data.beeldengeluid.nl/gtaa/51976> core:exactMatch am:p-40257 .
+
+<http://data.beeldengeluid.nl/gtaa/52034> core:exactMatch am:p-5222 .
+
+<http://data.beeldengeluid.nl/gtaa/52037> core:exactMatch am:p-5227 .
+
+<http://data.beeldengeluid.nl/gtaa/52048> core:exactMatch am:p-20630 .
+
+<http://data.beeldengeluid.nl/gtaa/52145> core:exactMatch am:p-64785 .
+<http://data.beeldengeluid.nl/gtaa/52145> core:exactMatch am:p-64962 .
+
+<http://data.beeldengeluid.nl/gtaa/52238> core:exactMatch am:p-56607 .
+
+<http://data.beeldengeluid.nl/gtaa/52256> core:exactMatch am:p-28168 .
+
+<http://data.beeldengeluid.nl/gtaa/52260> core:exactMatch am:p-58595 .
+
+<http://data.beeldengeluid.nl/gtaa/52263> core:exactMatch am:p-33673 .
+
+<http://data.beeldengeluid.nl/gtaa/52292> core:exactMatch am:p-46062 .
+
+<http://data.beeldengeluid.nl/gtaa/52295> core:exactMatch am:p-51631 .
+
+<http://data.beeldengeluid.nl/gtaa/52322> core:exactMatch am:p-46022 .
+
+<http://data.beeldengeluid.nl/gtaa/52347> core:exactMatch am:p-28355 .
+
+<http://data.beeldengeluid.nl/gtaa/52350> core:exactMatch am:p-39490 .
+
+<http://data.beeldengeluid.nl/gtaa/52359> core:exactMatch am:p-58914 .
+
+<http://data.beeldengeluid.nl/gtaa/52378> core:exactMatch am:p-48199 .
+
+<http://data.beeldengeluid.nl/gtaa/52397> core:exactMatch am:p-41710 .
+
+<http://data.beeldengeluid.nl/gtaa/52469> core:exactMatch am:p-24644 .
+
+<http://data.beeldengeluid.nl/gtaa/52486> core:exactMatch am:p-51070 .
+
+<http://data.beeldengeluid.nl/gtaa/52521> core:exactMatch am:p-4691 .
+
+<http://data.beeldengeluid.nl/gtaa/52680> core:exactMatch am:p-38274 .
+
+<http://data.beeldengeluid.nl/gtaa/52692> core:exactMatch am:p-41214 .
+
+<http://data.beeldengeluid.nl/gtaa/52771> core:exactMatch am:p-42810 .
+
+<http://data.beeldengeluid.nl/gtaa/52775> core:exactMatch am:p-61535 .
+
+<http://data.beeldengeluid.nl/gtaa/52801> core:exactMatch am:p-33669 .
+
+<http://data.beeldengeluid.nl/gtaa/52835> core:exactMatch am:p-22289 .
+<http://data.beeldengeluid.nl/gtaa/52835> core:exactMatch am:p-38816 .
+<http://data.beeldengeluid.nl/gtaa/52835> core:exactMatch am:p-57291 .
+
+<http://data.beeldengeluid.nl/gtaa/52875> core:exactMatch am:p-20590 .
+
+<http://data.beeldengeluid.nl/gtaa/52893> core:exactMatch am:p-62222 .
+
+<http://data.beeldengeluid.nl/gtaa/52958> core:exactMatch am:p-4990 .
+
+<http://data.beeldengeluid.nl/gtaa/52960> core:exactMatch am:p-69671 .
+
+<http://data.beeldengeluid.nl/gtaa/52965> core:exactMatch am:p-55847 .
+
+<http://data.beeldengeluid.nl/gtaa/53078> core:exactMatch am:p-24679 .
+
+<http://data.beeldengeluid.nl/gtaa/53087> core:exactMatch am:p-35213 .
+
+<http://data.beeldengeluid.nl/gtaa/53089> core:exactMatch am:p-61670 .
+
+<http://data.beeldengeluid.nl/gtaa/53096> core:exactMatch am:p-5074 .
+
+<http://data.beeldengeluid.nl/gtaa/53174> core:exactMatch am:p-58969 .
+
+<http://data.beeldengeluid.nl/gtaa/53194> core:exactMatch am:p-20738 .
+<http://data.beeldengeluid.nl/gtaa/53194> core:exactMatch am:p-5813 .
+
+<http://data.beeldengeluid.nl/gtaa/53195> core:exactMatch am:p-63812 .
+<http://data.beeldengeluid.nl/gtaa/53195> core:exactMatch am:p-63813 .
+
+<http://data.beeldengeluid.nl/gtaa/53217> core:exactMatch am:p-44133 .
+
+<http://data.beeldengeluid.nl/gtaa/53238> core:exactMatch am:p-42317 .
+
+<http://data.beeldengeluid.nl/gtaa/53268> core:exactMatch am:p-37061 .
+
+<http://data.beeldengeluid.nl/gtaa/53330> core:exactMatch am:p-66916 .
+
+<http://data.beeldengeluid.nl/gtaa/53331> core:exactMatch am:p-66123 .
+
+<http://data.beeldengeluid.nl/gtaa/53360> core:exactMatch am:p-28437 .
+
+<http://data.beeldengeluid.nl/gtaa/53398> core:exactMatch am:p-43244 .
+
+<http://data.beeldengeluid.nl/gtaa/53452> core:exactMatch am:p-5078 .
+
+<http://data.beeldengeluid.nl/gtaa/53476> core:exactMatch am:p-43052 .
+
+<http://data.beeldengeluid.nl/gtaa/53489> core:exactMatch am:p-38577 .
+
+<http://data.beeldengeluid.nl/gtaa/53557> core:exactMatch am:p-38998 .
+
+<http://data.beeldengeluid.nl/gtaa/53696> core:exactMatch am:p-20003 .
+
+<http://data.beeldengeluid.nl/gtaa/53770> core:exactMatch am:p-65117 .
+
+<http://data.beeldengeluid.nl/gtaa/53824> core:exactMatch am:p-41380 .
+
+<http://data.beeldengeluid.nl/gtaa/53848> core:exactMatch am:p-64286 .
+
+<http://data.beeldengeluid.nl/gtaa/53851> core:exactMatch am:p-55792 .
+
+<http://data.beeldengeluid.nl/gtaa/53855> core:exactMatch am:p-40403 .
+
+<http://data.beeldengeluid.nl/gtaa/53959> core:exactMatch am:p-59725 .
+
+<http://data.beeldengeluid.nl/gtaa/54032> core:exactMatch am:p-28193 .
+
+<http://data.beeldengeluid.nl/gtaa/54076> core:exactMatch am:p-62190 .
+
+<http://data.beeldengeluid.nl/gtaa/54104> core:exactMatch am:p-20654 .
+<http://data.beeldengeluid.nl/gtaa/54104> core:exactMatch am:p-42682 .
+
+<http://data.beeldengeluid.nl/gtaa/54144> core:exactMatch am:p-59462 .
+
+<http://data.beeldengeluid.nl/gtaa/54161> core:exactMatch am:p-20661 .
+
+<http://data.beeldengeluid.nl/gtaa/54163> core:exactMatch am:p-59291 .
+
+<http://data.beeldengeluid.nl/gtaa/54190> core:exactMatch am:p-40427 .
+
+<http://data.beeldengeluid.nl/gtaa/54257> core:exactMatch am:p-68823 .
+
+<http://data.beeldengeluid.nl/gtaa/54261> core:exactMatch am:p-40116 .
+
+<http://data.beeldengeluid.nl/gtaa/54277> core:exactMatch am:p-34159 .
+
+<http://data.beeldengeluid.nl/gtaa/54278> core:exactMatch am:p-64673 .
+
+<http://data.beeldengeluid.nl/gtaa/54280> core:exactMatch am:p-35519 .
+
+<http://data.beeldengeluid.nl/gtaa/54299> core:exactMatch am:p-43662 .
+
+<http://data.beeldengeluid.nl/gtaa/54433> core:exactMatch am:p-45176 .
+
+<http://data.beeldengeluid.nl/gtaa/54494> core:exactMatch am:p-20663 .
+
+<http://data.beeldengeluid.nl/gtaa/54524> core:exactMatch am:p-36230 .
+
+<http://data.beeldengeluid.nl/gtaa/54531> core:exactMatch am:p-45163 .
+
+<http://data.beeldengeluid.nl/gtaa/54538> core:exactMatch am:p-24711 .
+
+<http://data.beeldengeluid.nl/gtaa/54549> core:exactMatch am:p-41911 .
+
+<http://data.beeldengeluid.nl/gtaa/54551> core:exactMatch am:p-60958 .
+
+<http://data.beeldengeluid.nl/gtaa/54567> core:exactMatch am:p-40697 .
+
+<http://data.beeldengeluid.nl/gtaa/54602> core:exactMatch am:p-19975 .
+
+<http://data.beeldengeluid.nl/gtaa/54604> core:exactMatch am:p-34521 .
+
+<http://data.beeldengeluid.nl/gtaa/54606> core:exactMatch am:p-57686 .
+
+<http://data.beeldengeluid.nl/gtaa/54611> core:exactMatch am:p-33677 .
+
+<http://data.beeldengeluid.nl/gtaa/54615> core:exactMatch am:p-5652 .
+
+<http://data.beeldengeluid.nl/gtaa/54617> core:exactMatch am:p-46187 .
+
+<http://data.beeldengeluid.nl/gtaa/54621> core:exactMatch am:p-20675 .
+
+<http://data.beeldengeluid.nl/gtaa/54629> core:exactMatch am:p-51286 .
+
+<http://data.beeldengeluid.nl/gtaa/54631> core:exactMatch am:p-39249 .
+
+<http://data.beeldengeluid.nl/gtaa/54657> core:exactMatch am:p-45673 .
+
+<http://data.beeldengeluid.nl/gtaa/54660> core:exactMatch am:p-38241 .
+
+<http://data.beeldengeluid.nl/gtaa/54693> core:exactMatch am:p-44209 .
+
+<http://data.beeldengeluid.nl/gtaa/54712> core:exactMatch am:p-41039 .
+
+<http://data.beeldengeluid.nl/gtaa/54715> core:exactMatch am:p-54807 .
+
+<http://data.beeldengeluid.nl/gtaa/54734> core:exactMatch am:p-42461 .
+
+<http://data.beeldengeluid.nl/gtaa/54786> core:exactMatch am:p-5804 .
+<http://data.beeldengeluid.nl/gtaa/54786> core:exactMatch am:p-64701 .
+
+<http://data.beeldengeluid.nl/gtaa/54787> core:exactMatch am:p-20701 .
+
+<http://data.beeldengeluid.nl/gtaa/54791> core:exactMatch am:p-5807 .
+
+<http://data.beeldengeluid.nl/gtaa/54798> core:exactMatch am:p-33543 .
+<http://data.beeldengeluid.nl/gtaa/54798> core:exactMatch am:p-64701 .
+
+<http://data.beeldengeluid.nl/gtaa/54799> core:exactMatch am:p-41945 .
+
+<http://data.beeldengeluid.nl/gtaa/54802> core:exactMatch am:p-39678 .
+
+<http://data.beeldengeluid.nl/gtaa/54804> core:exactMatch am:p-62307 .
+
+<http://data.beeldengeluid.nl/gtaa/54806> core:exactMatch am:p-35315 .
+
+<http://data.beeldengeluid.nl/gtaa/54808> core:exactMatch am:p-33522 .
+
+<http://data.beeldengeluid.nl/gtaa/54809> core:exactMatch am:p-35576 .
+
+<http://data.beeldengeluid.nl/gtaa/54812> core:exactMatch am:p-20711 .
+<http://data.beeldengeluid.nl/gtaa/54812> core:exactMatch am:p-20819 .
+
+<http://data.beeldengeluid.nl/gtaa/54813> core:exactMatch am:p-20712 .
+
+<http://data.beeldengeluid.nl/gtaa/54814> core:exactMatch am:p-34157 .
+
+<http://data.beeldengeluid.nl/gtaa/54815> core:exactMatch am:p-51693 .
+<http://data.beeldengeluid.nl/gtaa/54815> core:exactMatch am:p-69418 .
+
+<http://data.beeldengeluid.nl/gtaa/54825> core:exactMatch am:p-35557 .
+
+<http://data.beeldengeluid.nl/gtaa/54865> core:exactMatch am:p-42716 .
+
+<http://data.beeldengeluid.nl/gtaa/54876> core:exactMatch am:p-34736 .
+
+<http://data.beeldengeluid.nl/gtaa/54895> core:exactMatch am:p-34181 .
+
+<http://data.beeldengeluid.nl/gtaa/54934> core:exactMatch am:p-43821 .
+
+<http://data.beeldengeluid.nl/gtaa/55005> core:exactMatch am:p-34524 .
+
+<http://data.beeldengeluid.nl/gtaa/55033> core:exactMatch am:p-41658 .
+
+<http://data.beeldengeluid.nl/gtaa/55108> core:exactMatch am:p-70772 .
+
+<http://data.beeldengeluid.nl/gtaa/55109> core:exactMatch am:p-21082 .
+
+<http://data.beeldengeluid.nl/gtaa/55110> core:exactMatch am:p-43923 .
+
+<http://data.beeldengeluid.nl/gtaa/55111> core:exactMatch am:p-33927 .
+
+<http://data.beeldengeluid.nl/gtaa/55113> core:exactMatch am:p-44560 .
+
+<http://data.beeldengeluid.nl/gtaa/55141> core:exactMatch am:p-20793 .
+<http://data.beeldengeluid.nl/gtaa/55141> core:exactMatch am:p-34133 .
+
+<http://data.beeldengeluid.nl/gtaa/55162> core:exactMatch am:p-51700 .
+
+<http://data.beeldengeluid.nl/gtaa/55184> core:exactMatch am:p-33981 .
+
+<http://data.beeldengeluid.nl/gtaa/55191> core:exactMatch am:p-8319 .
+
+<http://data.beeldengeluid.nl/gtaa/55207> core:exactMatch am:p-44000 .
+
+<http://data.beeldengeluid.nl/gtaa/55340> core:exactMatch am:p-20816 .
+<http://data.beeldengeluid.nl/gtaa/55340> core:exactMatch am:p-51834 .
+
+<http://data.beeldengeluid.nl/gtaa/55362> core:exactMatch am:p-20820 .
+
+<http://data.beeldengeluid.nl/gtaa/55383> core:exactMatch am:p-58393 .
+
+<http://data.beeldengeluid.nl/gtaa/55385> core:exactMatch am:p-41004 .
+
+<http://data.beeldengeluid.nl/gtaa/55438> core:exactMatch am:p-48575 .
+<http://data.beeldengeluid.nl/gtaa/55438> core:exactMatch am:p-48578 .
+
+<http://data.beeldengeluid.nl/gtaa/55474> core:exactMatch am:p-71907 .
+
+<http://data.beeldengeluid.nl/gtaa/55513> core:exactMatch am:p-20842 .
+
+<http://data.beeldengeluid.nl/gtaa/55567> core:exactMatch am:p-6835 .
+
+<http://data.beeldengeluid.nl/gtaa/55622> core:exactMatch am:p-51488 .
+
+<http://data.beeldengeluid.nl/gtaa/55680> core:exactMatch am:p-70301 .
+
+<http://data.beeldengeluid.nl/gtaa/55731> core:exactMatch am:p-61564 .
+
+<http://data.beeldengeluid.nl/gtaa/55733> core:exactMatch am:p-41709 .
+
+<http://data.beeldengeluid.nl/gtaa/55777> core:exactMatch am:p-28737 .
+
+<http://data.beeldengeluid.nl/gtaa/55783> core:exactMatch am:p-38026 .
+
+<http://data.beeldengeluid.nl/gtaa/55826> core:exactMatch am:p-60443 .
+
+<http://data.beeldengeluid.nl/gtaa/55834> core:exactMatch am:p-45927 .
+
+<http://data.beeldengeluid.nl/gtaa/55884> core:exactMatch am:p-28804 .
+
+<http://data.beeldengeluid.nl/gtaa/55894> core:exactMatch am:p-61110 .
+
+<http://data.beeldengeluid.nl/gtaa/55904> core:exactMatch am:p-28811 .
+
+<http://data.beeldengeluid.nl/gtaa/55908> core:exactMatch am:p-34642 .
+
+<http://data.beeldengeluid.nl/gtaa/55923> core:exactMatch am:p-34967 .
+
+<http://data.beeldengeluid.nl/gtaa/55949> core:exactMatch am:p-35357 .
+
+<http://data.beeldengeluid.nl/gtaa/55958> core:exactMatch am:p-42574 .
+
+<http://data.beeldengeluid.nl/gtaa/55988> core:exactMatch am:p-21603 .
+
+<http://data.beeldengeluid.nl/gtaa/55989> core:exactMatch am:p-35331 .
+
+<http://data.beeldengeluid.nl/gtaa/55995> core:exactMatch am:p-36186 .
+
+<http://data.beeldengeluid.nl/gtaa/56000> core:exactMatch am:p-35727 .
+
+<http://data.beeldengeluid.nl/gtaa/56002> core:exactMatch am:p-41512 .
+
+<http://data.beeldengeluid.nl/gtaa/56004> core:exactMatch am:p-42798 .
+
+<http://data.beeldengeluid.nl/gtaa/56008> core:exactMatch am:p-35750 .
+
+<http://data.beeldengeluid.nl/gtaa/56058> core:exactMatch am:p-7437 .
+
+<http://data.beeldengeluid.nl/gtaa/56078> core:exactMatch am:p-33684 .
+
+<http://data.beeldengeluid.nl/gtaa/56114> core:exactMatch am:p-41905 .
+
+<http://data.beeldengeluid.nl/gtaa/56116> core:exactMatch am:p-34599 .
+
+<http://data.beeldengeluid.nl/gtaa/56117> core:exactMatch am:p-33801 .
+
+<http://data.beeldengeluid.nl/gtaa/56118> core:exactMatch am:p-59109 .
+
+<http://data.beeldengeluid.nl/gtaa/56164> core:exactMatch am:p-47756 .
+
+<http://data.beeldengeluid.nl/gtaa/56284> core:exactMatch am:p-24259 .
+
+<http://data.beeldengeluid.nl/gtaa/56299> core:exactMatch am:p-36946 .
+
+<http://data.beeldengeluid.nl/gtaa/56315> core:exactMatch am:p-61485 .
+
+<http://data.beeldengeluid.nl/gtaa/56347> core:exactMatch am:p-37279 .
+
+<http://data.beeldengeluid.nl/gtaa/56358> core:exactMatch am:p-20936 .
+
+<http://data.beeldengeluid.nl/gtaa/56367> core:exactMatch am:p-43389 .
+
+<http://data.beeldengeluid.nl/gtaa/56391> core:exactMatch am:p-38922 .
+
+<http://data.beeldengeluid.nl/gtaa/56409> core:exactMatch am:p-40565 .
+
+<http://data.beeldengeluid.nl/gtaa/56410> core:exactMatch am:p-45456 .
+
+<http://data.beeldengeluid.nl/gtaa/56455> core:exactMatch am:p-38210 .
+
+<http://data.beeldengeluid.nl/gtaa/56489> core:exactMatch am:p-62888 .
+
+<http://data.beeldengeluid.nl/gtaa/56492> core:exactMatch am:p-39611 .
+
+<http://data.beeldengeluid.nl/gtaa/56502> core:exactMatch am:p-37424 .
+
+<http://data.beeldengeluid.nl/gtaa/56511> core:exactMatch am:p-68412 .
+
+<http://data.beeldengeluid.nl/gtaa/56539> core:exactMatch am:p-33685 .
+
+<http://data.beeldengeluid.nl/gtaa/56593> core:exactMatch am:p-8154 .
+
+<http://data.beeldengeluid.nl/gtaa/56594> core:exactMatch am:p-40677 .
+<http://data.beeldengeluid.nl/gtaa/56594> core:exactMatch am:p-8155 .
+<http://data.beeldengeluid.nl/gtaa/56594> core:exactMatch am:p-8198 .
+
+<http://data.beeldengeluid.nl/gtaa/56638> core:exactMatch am:p-41370 .
+
+<http://data.beeldengeluid.nl/gtaa/56670> core:exactMatch am:p-23297 .
+
+<http://data.beeldengeluid.nl/gtaa/56688> core:exactMatch am:p-43752 .
+
+<http://data.beeldengeluid.nl/gtaa/56701> core:exactMatch am:p-36712 .
+
+<http://data.beeldengeluid.nl/gtaa/56757> core:exactMatch am:p-58578 .
+
+<http://data.beeldengeluid.nl/gtaa/56764> core:exactMatch am:p-64285 .
+
+<http://data.beeldengeluid.nl/gtaa/56766> core:exactMatch am:p-39949 .
+
+<http://data.beeldengeluid.nl/gtaa/56771> core:exactMatch am:p-56326 .
+
+<http://data.beeldengeluid.nl/gtaa/56772> core:exactMatch am:p-67923 .
+
+<http://data.beeldengeluid.nl/gtaa/56803> core:exactMatch am:p-58900 .
+
+<http://data.beeldengeluid.nl/gtaa/56825> core:exactMatch am:p-37376 .
+
+<http://data.beeldengeluid.nl/gtaa/56855> core:exactMatch am:p-63983 .
+
+<http://data.beeldengeluid.nl/gtaa/56884> core:exactMatch am:p-26225 .
+<http://data.beeldengeluid.nl/gtaa/56884> core:exactMatch am:p-29611 .
+
+<http://data.beeldengeluid.nl/gtaa/56890> core:exactMatch am:p-50983 .
+
+<http://data.beeldengeluid.nl/gtaa/56916> core:exactMatch am:p-43141 .
+<http://data.beeldengeluid.nl/gtaa/56916> core:exactMatch am:p-63436 .
+
+<http://data.beeldengeluid.nl/gtaa/56917> core:exactMatch am:p-42270 .
+
+<http://data.beeldengeluid.nl/gtaa/56918> core:exactMatch am:p-34915 .
+
+<http://data.beeldengeluid.nl/gtaa/56919> core:exactMatch am:p-21172 .
+<http://data.beeldengeluid.nl/gtaa/56919> core:exactMatch am:p-37349 .
+
+<http://data.beeldengeluid.nl/gtaa/56925> core:exactMatch am:p-41253 .
+
+<http://data.beeldengeluid.nl/gtaa/56954> core:exactMatch am:p-21011 .
+
+<http://data.beeldengeluid.nl/gtaa/56965> core:exactMatch am:p-8190 .
+
+<http://data.beeldengeluid.nl/gtaa/56973> core:exactMatch am:p-70098 .
+
+<http://data.beeldengeluid.nl/gtaa/56994> core:exactMatch am:p-36610 .
+
+<http://data.beeldengeluid.nl/gtaa/57012> core:exactMatch am:p-40831 .
+
+<http://data.beeldengeluid.nl/gtaa/57028> core:exactMatch am:p-51848 .
+
+<http://data.beeldengeluid.nl/gtaa/57044> core:exactMatch am:p-61287 .
+
+<http://data.beeldengeluid.nl/gtaa/57193> core:exactMatch am:p-40542 .
+
+<http://data.beeldengeluid.nl/gtaa/57209> core:exactMatch am:p-8207 .
+
+<http://data.beeldengeluid.nl/gtaa/57215> core:exactMatch am:p-24873 .
+
+<http://data.beeldengeluid.nl/gtaa/57227> core:exactMatch am:p-56292 .
+
+<http://data.beeldengeluid.nl/gtaa/57236> core:exactMatch am:p-63047 .
+
+<http://data.beeldengeluid.nl/gtaa/57241> core:exactMatch am:p-21176 .
+
+<http://data.beeldengeluid.nl/gtaa/57249> core:exactMatch am:p-8888 .
+<http://data.beeldengeluid.nl/gtaa/57249> core:exactMatch am:p-9495 .
+
+<http://data.beeldengeluid.nl/gtaa/57266> core:exactMatch am:p-69725 .
+
+<http://data.beeldengeluid.nl/gtaa/57267> core:exactMatch am:p-21179 .
+
+<http://data.beeldengeluid.nl/gtaa/57274> core:exactMatch am:p-33944 .
+
+<http://data.beeldengeluid.nl/gtaa/57292> core:exactMatch am:p-59833 .
+
+<http://data.beeldengeluid.nl/gtaa/57336> core:exactMatch am:p-55441 .
+<http://data.beeldengeluid.nl/gtaa/57336> core:exactMatch am:p-55442 .
+
+<http://data.beeldengeluid.nl/gtaa/57341> core:exactMatch am:p-45413 .
+
+<http://data.beeldengeluid.nl/gtaa/57347> core:exactMatch am:p-40548 .
+
+<http://data.beeldengeluid.nl/gtaa/57351> core:exactMatch am:p-67413 .
+
+<http://data.beeldengeluid.nl/gtaa/57395> core:exactMatch am:p-42638 .
+
+<http://data.beeldengeluid.nl/gtaa/57403> core:exactMatch am:p-42066 .
+<http://data.beeldengeluid.nl/gtaa/57403> core:exactMatch am:p-47645 .
+
+<http://data.beeldengeluid.nl/gtaa/57456> core:exactMatch am:p-55301 .
+
+<http://data.beeldengeluid.nl/gtaa/57489> core:exactMatch am:p-36949 .
+
+<http://data.beeldengeluid.nl/gtaa/57533> core:exactMatch am:p-36077 .
+
+<http://data.beeldengeluid.nl/gtaa/57540> core:exactMatch am:p-51530 .
+
+<http://data.beeldengeluid.nl/gtaa/57579> core:exactMatch am:p-59835 .
+
+<http://data.beeldengeluid.nl/gtaa/57635> core:exactMatch am:p-35781 .
+
+<http://data.beeldengeluid.nl/gtaa/57650> core:exactMatch am:p-61416 .
+
+<http://data.beeldengeluid.nl/gtaa/57715> core:exactMatch am:p-29254 .
+
+<http://data.beeldengeluid.nl/gtaa/57735> core:exactMatch am:p-41328 .
+
+<http://data.beeldengeluid.nl/gtaa/57818> core:exactMatch am:p-24671 .
+<http://data.beeldengeluid.nl/gtaa/57818> core:exactMatch am:p-35910 .
+<http://data.beeldengeluid.nl/gtaa/57818> core:exactMatch am:p-40199 .
+<http://data.beeldengeluid.nl/gtaa/57818> core:exactMatch am:p-71188 .
+
+<http://data.beeldengeluid.nl/gtaa/57833> core:exactMatch am:p-52086 .
+
+<http://data.beeldengeluid.nl/gtaa/57871> core:exactMatch am:p-58177 .
+
+<http://data.beeldengeluid.nl/gtaa/57875> core:exactMatch am:p-45100 .
+
+<http://data.beeldengeluid.nl/gtaa/57893> core:exactMatch am:p-47710 .
+
+<http://data.beeldengeluid.nl/gtaa/57898> core:exactMatch am:p-41953 .
+
+<http://data.beeldengeluid.nl/gtaa/57900> core:exactMatch am:p-62368 .
+
+<http://data.beeldengeluid.nl/gtaa/57918> core:exactMatch am:p-21054 .
+
+<http://data.beeldengeluid.nl/gtaa/57939> core:exactMatch am:p-24898 .
+
+<http://data.beeldengeluid.nl/gtaa/58007> core:exactMatch am:p-56704 .
+
+<http://data.beeldengeluid.nl/gtaa/58023> core:exactMatch am:p-29330 .
+
+<http://data.beeldengeluid.nl/gtaa/58027> core:exactMatch am:p-29331 .
+
+<http://data.beeldengeluid.nl/gtaa/58058> core:exactMatch am:p-41113 .
+
+<http://data.beeldengeluid.nl/gtaa/58066> core:exactMatch am:p-60590 .
+
+<http://data.beeldengeluid.nl/gtaa/58193> core:exactMatch am:p-33705 .
+
+<http://data.beeldengeluid.nl/gtaa/58195> core:exactMatch am:p-62878 .
+
+<http://data.beeldengeluid.nl/gtaa/58197> core:exactMatch am:p-24275 .
+
+<http://data.beeldengeluid.nl/gtaa/58288> core:exactMatch am:p-44844 .
+
+<http://data.beeldengeluid.nl/gtaa/58319> core:exactMatch am:p-68919 .
+
+<http://data.beeldengeluid.nl/gtaa/58333> core:exactMatch am:p-36972 .
+
+<http://data.beeldengeluid.nl/gtaa/58348> core:exactMatch am:p-34718 .
+
+<http://data.beeldengeluid.nl/gtaa/58379> core:exactMatch am:p-42167 .
+
+<http://data.beeldengeluid.nl/gtaa/58394> core:exactMatch am:p-45609 .
+
+<http://data.beeldengeluid.nl/gtaa/58400> core:exactMatch am:p-45832 .
+
+<http://data.beeldengeluid.nl/gtaa/58421> core:exactMatch am:p-64043 .
+
+<http://data.beeldengeluid.nl/gtaa/58452> core:exactMatch am:p-35016 .
+
+<http://data.beeldengeluid.nl/gtaa/58516> core:exactMatch am:p-45250 .
+
+<http://data.beeldengeluid.nl/gtaa/58517> core:exactMatch am:p-63532 .
+
+<http://data.beeldengeluid.nl/gtaa/58518> core:exactMatch am:p-34471 .
+
+<http://data.beeldengeluid.nl/gtaa/58534> core:exactMatch am:p-68930 .
+
+<http://data.beeldengeluid.nl/gtaa/58550> core:exactMatch am:p-64067 .
+
+<http://data.beeldengeluid.nl/gtaa/58577> core:exactMatch am:p-40396 .
+
+<http://data.beeldengeluid.nl/gtaa/58663> core:exactMatch am:p-21110 .
+
+<http://data.beeldengeluid.nl/gtaa/58697> core:exactMatch am:p-30924 .
+<http://data.beeldengeluid.nl/gtaa/58697> core:exactMatch am:p-65016 .
+
+<http://data.beeldengeluid.nl/gtaa/58715> core:exactMatch am:p-44647 .
+
+<http://data.beeldengeluid.nl/gtaa/58756> core:exactMatch am:p-62026 .
+
+<http://data.beeldengeluid.nl/gtaa/58767> core:exactMatch am:p-40313 .
+
+<http://data.beeldengeluid.nl/gtaa/58817> core:exactMatch am:p-35244 .
+
+<http://data.beeldengeluid.nl/gtaa/58878> core:exactMatch am:p-9225 .
+<http://data.beeldengeluid.nl/gtaa/58878> core:exactMatch am:p-9496 .
+
+<http://data.beeldengeluid.nl/gtaa/58885> core:exactMatch am:p-36679 .
+
+<http://data.beeldengeluid.nl/gtaa/58886> core:exactMatch am:p-60864 .
+
+<http://data.beeldengeluid.nl/gtaa/58891> core:exactMatch am:p-37287 .
+
+<http://data.beeldengeluid.nl/gtaa/58895> core:exactMatch am:p-61912 .
+
+<http://data.beeldengeluid.nl/gtaa/58897> core:exactMatch am:p-48328 .
+
+<http://data.beeldengeluid.nl/gtaa/58906> core:exactMatch am:p-40735 .
+
+<http://data.beeldengeluid.nl/gtaa/58912> core:exactMatch am:p-9492 .
+
+<http://data.beeldengeluid.nl/gtaa/58915> core:exactMatch am:p-21180 .
+<http://data.beeldengeluid.nl/gtaa/58915> core:exactMatch am:p-43219 .
+
+<http://data.beeldengeluid.nl/gtaa/58932> core:exactMatch am:p-48452 .
+
+<http://data.beeldengeluid.nl/gtaa/58951> core:exactMatch am:p-42247 .
+<http://data.beeldengeluid.nl/gtaa/58951> core:exactMatch am:p-55471 .
+
+<http://data.beeldengeluid.nl/gtaa/58956> core:exactMatch am:p-68859 .
+
+<http://data.beeldengeluid.nl/gtaa/58989> core:exactMatch am:p-46517 .
+
+<http://data.beeldengeluid.nl/gtaa/59010> core:exactMatch am:p-29653 .
+
+<http://data.beeldengeluid.nl/gtaa/59034> core:exactMatch am:p-35710 .
+
+<http://data.beeldengeluid.nl/gtaa/59046> core:exactMatch am:p-39026 .
+
+<http://data.beeldengeluid.nl/gtaa/59051> core:exactMatch am:p-47753 .
+
+<http://data.beeldengeluid.nl/gtaa/59071> core:exactMatch am:p-41010 .
+<http://data.beeldengeluid.nl/gtaa/59071> core:exactMatch am:p-41305 .
+
+<http://data.beeldengeluid.nl/gtaa/59238> core:exactMatch am:p-29694 .
+
+<http://data.beeldengeluid.nl/gtaa/59249> core:exactMatch am:p-45924 .
+
+<http://data.beeldengeluid.nl/gtaa/59253> core:exactMatch am:p-63083 .
+
+<http://data.beeldengeluid.nl/gtaa/59262> core:exactMatch am:p-34499 .
+
+<http://data.beeldengeluid.nl/gtaa/59264> core:exactMatch am:p-50966 .
+<http://data.beeldengeluid.nl/gtaa/59264> core:exactMatch am:p-55255 .
+
+<http://data.beeldengeluid.nl/gtaa/59334> core:exactMatch am:p-34600 .
+
+<http://data.beeldengeluid.nl/gtaa/59340> core:exactMatch am:p-34926 .
+
+<http://data.beeldengeluid.nl/gtaa/59404> core:exactMatch am:p-57321 .
+
+<http://data.beeldengeluid.nl/gtaa/59414> core:exactMatch am:p-71957 .
+
+<http://data.beeldengeluid.nl/gtaa/59517> core:exactMatch am:p-36112 .
+
+<http://data.beeldengeluid.nl/gtaa/59533> core:exactMatch am:p-45791 .
+
+<http://data.beeldengeluid.nl/gtaa/59648> core:exactMatch am:p-36245 .
+
+<http://data.beeldengeluid.nl/gtaa/59660> core:exactMatch am:p-37721 .
+
+<http://data.beeldengeluid.nl/gtaa/59748> core:exactMatch am:p-70687 .
+
+<http://data.beeldengeluid.nl/gtaa/59824> core:exactMatch am:p-47810 .
+
+<http://data.beeldengeluid.nl/gtaa/59887> core:exactMatch am:p-44745 .
+
+<http://data.beeldengeluid.nl/gtaa/59893> core:exactMatch am:p-21334 .
+<http://data.beeldengeluid.nl/gtaa/59893> core:exactMatch am:p-62173 .
+
+<http://data.beeldengeluid.nl/gtaa/59898> core:exactMatch am:p-54543 .
+
+<http://data.beeldengeluid.nl/gtaa/59936> core:exactMatch am:p-55370 .
+
+<http://data.beeldengeluid.nl/gtaa/59952> core:exactMatch am:p-63769 .
+
+<http://data.beeldengeluid.nl/gtaa/59977> core:exactMatch am:p-37077 .
+
+<http://data.beeldengeluid.nl/gtaa/60004> core:exactMatch am:p-10456 .
+
+<http://data.beeldengeluid.nl/gtaa/60046> core:exactMatch am:p-21353 .
+
+<http://data.beeldengeluid.nl/gtaa/60062> core:exactMatch am:p-39111 .
+
+<http://data.beeldengeluid.nl/gtaa/60076> core:exactMatch am:p-29918 .
+
+<http://data.beeldengeluid.nl/gtaa/60115> core:exactMatch am:p-58644 .
+
+<http://data.beeldengeluid.nl/gtaa/60148> core:exactMatch am:p-34601 .
+
+<http://data.beeldengeluid.nl/gtaa/60165> core:exactMatch am:p-21364 .
+
+<http://data.beeldengeluid.nl/gtaa/60201> core:exactMatch am:p-40412 .
+
+<http://data.beeldengeluid.nl/gtaa/60213> core:exactMatch am:p-70730 .
+
+<http://data.beeldengeluid.nl/gtaa/60358> core:exactMatch am:p-36815 .
+
+<http://data.beeldengeluid.nl/gtaa/60382> core:exactMatch am:p-34328 .
+
+<http://data.beeldengeluid.nl/gtaa/60383> core:exactMatch am:p-61582 .
+
+<http://data.beeldengeluid.nl/gtaa/60454> core:exactMatch am:p-48368 .
+
+<http://data.beeldengeluid.nl/gtaa/60464> core:exactMatch am:p-51040 .
+
+<http://data.beeldengeluid.nl/gtaa/60478> core:exactMatch am:p-38503 .
+
+<http://data.beeldengeluid.nl/gtaa/60620> core:exactMatch am:p-36861 .
+
+<http://data.beeldengeluid.nl/gtaa/60630> core:exactMatch am:p-64255 .
+
+<http://data.beeldengeluid.nl/gtaa/60660> core:exactMatch am:p-34992 .
+
+<http://data.beeldengeluid.nl/gtaa/60663> core:exactMatch am:p-44659 .
+
+<http://data.beeldengeluid.nl/gtaa/60664> core:exactMatch am:p-11014 .
+<http://data.beeldengeluid.nl/gtaa/60664> core:exactMatch am:p-63043 .
+
+<http://data.beeldengeluid.nl/gtaa/60665> core:exactMatch am:p-61333 .
+
+<http://data.beeldengeluid.nl/gtaa/60694> core:exactMatch am:p-37921 .
+
+<http://data.beeldengeluid.nl/gtaa/60718> core:exactMatch am:p-21415 .
+
+<http://data.beeldengeluid.nl/gtaa/60729> core:exactMatch am:p-58982 .
+
+<http://data.beeldengeluid.nl/gtaa/60736> core:exactMatch am:p-45993 .
+
+<http://data.beeldengeluid.nl/gtaa/60742> core:exactMatch am:p-37455 .
+
+<http://data.beeldengeluid.nl/gtaa/60764> core:exactMatch am:p-62585 .
+
+<http://data.beeldengeluid.nl/gtaa/60767> core:exactMatch am:p-33702 .
+
+<http://data.beeldengeluid.nl/gtaa/60813> core:exactMatch am:p-59229 .
+
+<http://data.beeldengeluid.nl/gtaa/60847> core:exactMatch am:p-36127 .
+
+<http://data.beeldengeluid.nl/gtaa/60857> core:exactMatch am:p-40225 .
+
+<http://data.beeldengeluid.nl/gtaa/60861> core:exactMatch am:p-44837 .
+
+<http://data.beeldengeluid.nl/gtaa/60895> core:exactMatch am:p-60957 .
+
+<http://data.beeldengeluid.nl/gtaa/60963> core:exactMatch am:p-21440 .
+<http://data.beeldengeluid.nl/gtaa/60963> core:exactMatch am:p-43734 .
+
+<http://data.beeldengeluid.nl/gtaa/60981> core:exactMatch am:p-34602 .
+
+<http://data.beeldengeluid.nl/gtaa/60982> core:exactMatch am:p-21443 .
+<http://data.beeldengeluid.nl/gtaa/60982> core:exactMatch am:p-61821 .
+
+<http://data.beeldengeluid.nl/gtaa/61021> core:exactMatch am:p-71977 .
+
+<http://data.beeldengeluid.nl/gtaa/61120> core:exactMatch am:p-34117 .
+
+<http://data.beeldengeluid.nl/gtaa/61155> core:exactMatch am:p-53630 .
+
+<http://data.beeldengeluid.nl/gtaa/61243> core:exactMatch am:p-61321 .
+
+<http://data.beeldengeluid.nl/gtaa/61262> core:exactMatch am:p-54430 .
+
+<http://data.beeldengeluid.nl/gtaa/61267> core:exactMatch am:p-42052 .
+
+<http://data.beeldengeluid.nl/gtaa/61302> core:exactMatch am:p-48828 .
+
+<http://data.beeldengeluid.nl/gtaa/61304> core:exactMatch am:p-49788 .
+
+<http://data.beeldengeluid.nl/gtaa/61329> core:exactMatch am:p-55959 .
+
+<http://data.beeldengeluid.nl/gtaa/61355> core:exactMatch am:p-30285 .
+
+<http://data.beeldengeluid.nl/gtaa/61367> core:exactMatch am:p-37302 .
+
+<http://data.beeldengeluid.nl/gtaa/61375> core:exactMatch am:p-44738 .
+
+<http://data.beeldengeluid.nl/gtaa/61439> core:exactMatch am:p-35902 .
+
+<http://data.beeldengeluid.nl/gtaa/61449> core:exactMatch am:p-62390 .
+
+<http://data.beeldengeluid.nl/gtaa/61473> core:exactMatch am:p-11692 .
+
+<http://data.beeldengeluid.nl/gtaa/61474> core:exactMatch am:p-68868 .
+
+<http://data.beeldengeluid.nl/gtaa/61558> core:exactMatch am:p-47840 .
+
+<http://data.beeldengeluid.nl/gtaa/61570> core:exactMatch am:p-21710 .
+<http://data.beeldengeluid.nl/gtaa/61570> core:exactMatch am:p-64656 .
+
+<http://data.beeldengeluid.nl/gtaa/61573> core:exactMatch am:p-35616 .
+<http://data.beeldengeluid.nl/gtaa/61573> core:exactMatch am:p-41303 .
+<http://data.beeldengeluid.nl/gtaa/61573> core:exactMatch am:p-47931 .
+
+<http://data.beeldengeluid.nl/gtaa/61577> core:exactMatch am:p-40977 .
+
+<http://data.beeldengeluid.nl/gtaa/61583> core:exactMatch am:p-71685 .
+
+<http://data.beeldengeluid.nl/gtaa/61614> core:exactMatch am:p-37904 .
+
+<http://data.beeldengeluid.nl/gtaa/61676> core:exactMatch am:p-30405 .
+
+<http://data.beeldengeluid.nl/gtaa/61689> core:exactMatch am:p-39859 .
+
+<http://data.beeldengeluid.nl/gtaa/61691> core:exactMatch am:p-11769 .
+
+<http://data.beeldengeluid.nl/gtaa/61692> core:exactMatch am:p-11770 .
+<http://data.beeldengeluid.nl/gtaa/61692> core:exactMatch am:p-43529 .
+
+<http://data.beeldengeluid.nl/gtaa/61694> core:exactMatch am:p-68063 .
+
+<http://data.beeldengeluid.nl/gtaa/61697> core:exactMatch am:p-39624 .
+
+<http://data.beeldengeluid.nl/gtaa/61702> core:exactMatch am:p-11771 .
+<http://data.beeldengeluid.nl/gtaa/61702> core:exactMatch am:p-12617 .
+<http://data.beeldengeluid.nl/gtaa/61702> core:exactMatch am:p-21516 .
+<http://data.beeldengeluid.nl/gtaa/61702> core:exactMatch am:p-66584 .
+
+<http://data.beeldengeluid.nl/gtaa/61703> core:exactMatch am:p-35300 .
+
+<http://data.beeldengeluid.nl/gtaa/61704> core:exactMatch am:p-41192 .
+
+<http://data.beeldengeluid.nl/gtaa/61710> core:exactMatch am:p-43767 .
+
+<http://data.beeldengeluid.nl/gtaa/61711> core:exactMatch am:p-11772 .
+
+<http://data.beeldengeluid.nl/gtaa/61713> core:exactMatch am:p-38219 .
+
+<http://data.beeldengeluid.nl/gtaa/61716> core:exactMatch am:p-41711 .
+
+<http://data.beeldengeluid.nl/gtaa/61718> core:exactMatch am:p-11774 .
+<http://data.beeldengeluid.nl/gtaa/61718> core:exactMatch am:p-18143 .
+
+<http://data.beeldengeluid.nl/gtaa/61719> core:exactMatch am:p-11773 .
+
+<http://data.beeldengeluid.nl/gtaa/61721> core:exactMatch am:p-11775 .
+<http://data.beeldengeluid.nl/gtaa/61721> core:exactMatch am:p-11776 .
+<http://data.beeldengeluid.nl/gtaa/61721> core:exactMatch am:p-37098 .
+
+<http://data.beeldengeluid.nl/gtaa/61743> core:exactMatch am:p-40373 .
+
+<http://data.beeldengeluid.nl/gtaa/61925> core:exactMatch am:p-34248 .
+
+<http://data.beeldengeluid.nl/gtaa/61933> core:exactMatch am:p-59799 .
+
+<http://data.beeldengeluid.nl/gtaa/61944> core:exactMatch am:p-36182 .
+
+<http://data.beeldengeluid.nl/gtaa/61947> core:exactMatch am:p-11906 .
+
+<http://data.beeldengeluid.nl/gtaa/61966> core:exactMatch am:p-11924 .
+
+<http://data.beeldengeluid.nl/gtaa/62039> core:exactMatch am:p-36620 .
+
+<http://data.beeldengeluid.nl/gtaa/62075> core:exactMatch am:p-55491 .
+
+<http://data.beeldengeluid.nl/gtaa/62093> core:exactMatch am:p-64614 .
+
+<http://data.beeldengeluid.nl/gtaa/62096> core:exactMatch am:p-36153 .
+
+<http://data.beeldengeluid.nl/gtaa/62229> core:exactMatch am:p-44607 .
+
+<http://data.beeldengeluid.nl/gtaa/62230> core:exactMatch am:p-55971 .
+
+<http://data.beeldengeluid.nl/gtaa/62231> core:exactMatch am:p-45505 .
+
+<http://data.beeldengeluid.nl/gtaa/62233> core:exactMatch am:p-37379 .
+<http://data.beeldengeluid.nl/gtaa/62233> core:exactMatch am:p-56901 .
+
+<http://data.beeldengeluid.nl/gtaa/62237> core:exactMatch am:p-36051 .
+
+<http://data.beeldengeluid.nl/gtaa/62241> core:exactMatch am:p-12138 .
+
+<http://data.beeldengeluid.nl/gtaa/62242> core:exactMatch am:p-45769 .
+
+<http://data.beeldengeluid.nl/gtaa/62270> core:exactMatch am:p-34195 .
+
+<http://data.beeldengeluid.nl/gtaa/62272> core:exactMatch am:p-34532 .
+
+<http://data.beeldengeluid.nl/gtaa/62276> core:exactMatch am:p-34534 .
+
+<http://data.beeldengeluid.nl/gtaa/62280> core:exactMatch am:p-34540 .
+
+<http://data.beeldengeluid.nl/gtaa/62285> core:exactMatch am:p-21569 .
+
+<http://data.beeldengeluid.nl/gtaa/62289> core:exactMatch am:p-33707 .
+
+<http://data.beeldengeluid.nl/gtaa/62290> core:exactMatch am:p-41347 .
+
+<http://data.beeldengeluid.nl/gtaa/62293> core:exactMatch am:p-21572 .
+
+<http://data.beeldengeluid.nl/gtaa/62294> core:exactMatch am:p-20150 .
+<http://data.beeldengeluid.nl/gtaa/62294> core:exactMatch am:p-34603 .
+<http://data.beeldengeluid.nl/gtaa/62294> core:exactMatch am:p-65152 .
+
+<http://data.beeldengeluid.nl/gtaa/62295> core:exactMatch am:p-20295 .
+<http://data.beeldengeluid.nl/gtaa/62295> core:exactMatch am:p-47651 .
+
+<http://data.beeldengeluid.nl/gtaa/62299> core:exactMatch am:p-41896 .
+
+<http://data.beeldengeluid.nl/gtaa/62304> core:exactMatch am:p-33524 .
+
+<http://data.beeldengeluid.nl/gtaa/62305> core:exactMatch am:p-33999 .
+
+<http://data.beeldengeluid.nl/gtaa/62311> core:exactMatch am:p-21577 .
+
+<http://data.beeldengeluid.nl/gtaa/62317> core:exactMatch am:p-34814 .
+
+<http://data.beeldengeluid.nl/gtaa/62320> core:exactMatch am:p-34472 .
+
+<http://data.beeldengeluid.nl/gtaa/62323> core:exactMatch am:p-21583 .
+
+<http://data.beeldengeluid.nl/gtaa/62325> core:exactMatch am:p-21584 .
+
+<http://data.beeldengeluid.nl/gtaa/62326> core:exactMatch am:p-48799 .
+
+<http://data.beeldengeluid.nl/gtaa/62329> core:exactMatch am:p-71390 .
+
+<http://data.beeldengeluid.nl/gtaa/62330> core:exactMatch am:p-72258 .
+
+<http://data.beeldengeluid.nl/gtaa/62331> core:exactMatch am:p-36518 .
+
+<http://data.beeldengeluid.nl/gtaa/62333> core:exactMatch am:p-34458 .
+
+<http://data.beeldengeluid.nl/gtaa/62335> core:exactMatch am:p-59803 .
+
+<http://data.beeldengeluid.nl/gtaa/62337> core:exactMatch am:p-33785 .
+
+<http://data.beeldengeluid.nl/gtaa/62341> core:exactMatch am:p-34176 .
+
+<http://data.beeldengeluid.nl/gtaa/62342> core:exactMatch am:p-12173 .
+
+<http://data.beeldengeluid.nl/gtaa/62343> core:exactMatch am:p-34060 .
+
+<http://data.beeldengeluid.nl/gtaa/62347> core:exactMatch am:p-67039 .
+
+<http://data.beeldengeluid.nl/gtaa/62352> core:exactMatch am:p-21590 .
+
+<http://data.beeldengeluid.nl/gtaa/62355> core:exactMatch am:p-21593 .
+
+<http://data.beeldengeluid.nl/gtaa/62362> core:exactMatch am:p-21594 .
+<http://data.beeldengeluid.nl/gtaa/62362> core:exactMatch am:p-33805 .
+
+<http://data.beeldengeluid.nl/gtaa/62363> core:exactMatch am:p-21594 .
+
+<http://data.beeldengeluid.nl/gtaa/62368> core:exactMatch am:p-21595 .
+
+<http://data.beeldengeluid.nl/gtaa/62369> core:exactMatch am:p-21596 .
+
+<http://data.beeldengeluid.nl/gtaa/62374> core:exactMatch am:p-34092 .
+
+<http://data.beeldengeluid.nl/gtaa/62375> core:exactMatch am:p-21601 .
+
+<http://data.beeldengeluid.nl/gtaa/62411> core:exactMatch am:p-42964 .
+
+<http://data.beeldengeluid.nl/gtaa/62429> core:exactMatch am:p-30573 .
+
+<http://data.beeldengeluid.nl/gtaa/62529> core:exactMatch am:p-42222 .
+
+<http://data.beeldengeluid.nl/gtaa/62540> core:exactMatch am:p-46029 .
+
+<http://data.beeldengeluid.nl/gtaa/62565> core:exactMatch am:p-50976 .
+
+<http://data.beeldengeluid.nl/gtaa/62570> core:exactMatch am:p-41503 .
+
+<http://data.beeldengeluid.nl/gtaa/62573> core:exactMatch am:p-46643 .
+
+<http://data.beeldengeluid.nl/gtaa/62576> core:exactMatch am:p-12240 .
+
+<http://data.beeldengeluid.nl/gtaa/62599> core:exactMatch am:p-20742 .
+
+<http://data.beeldengeluid.nl/gtaa/62623> core:exactMatch am:p-42227 .
+
+<http://data.beeldengeluid.nl/gtaa/62626> core:exactMatch am:p-34751 .
+
+<http://data.beeldengeluid.nl/gtaa/62630> core:exactMatch am:p-21610 .
+
+<http://data.beeldengeluid.nl/gtaa/62639> core:exactMatch am:p-21611 .
+<http://data.beeldengeluid.nl/gtaa/62639> core:exactMatch am:p-40642 .
+
+<http://data.beeldengeluid.nl/gtaa/62640> core:exactMatch am:p-39143 .
+
+<http://data.beeldengeluid.nl/gtaa/62643> core:exactMatch am:p-34988 .
+
+<http://data.beeldengeluid.nl/gtaa/62645> core:exactMatch am:p-21613 .
+<http://data.beeldengeluid.nl/gtaa/62645> core:exactMatch am:p-55873 .
+
+<http://data.beeldengeluid.nl/gtaa/62759> core:exactMatch am:p-59751 .
+
+<http://data.beeldengeluid.nl/gtaa/62761> core:exactMatch am:p-12242 .
+<http://data.beeldengeluid.nl/gtaa/62761> core:exactMatch am:p-17194 .
+
+<http://data.beeldengeluid.nl/gtaa/62782> core:exactMatch am:p-34333 .
+
+<http://data.beeldengeluid.nl/gtaa/62783> core:exactMatch am:p-21616 .
+
+<http://data.beeldengeluid.nl/gtaa/62828> core:exactMatch am:p-21623 .
+
+<http://data.beeldengeluid.nl/gtaa/62843> core:exactMatch am:p-41662 .
+
+<http://data.beeldengeluid.nl/gtaa/62861> core:exactMatch am:p-21624 .
+<http://data.beeldengeluid.nl/gtaa/62861> core:exactMatch am:p-64277 .
+
+<http://data.beeldengeluid.nl/gtaa/62887> core:exactMatch am:p-44594 .
+
+<http://data.beeldengeluid.nl/gtaa/62908> core:exactMatch am:p-45787 .
+
+<http://data.beeldengeluid.nl/gtaa/62912> core:exactMatch am:p-57450 .
+<http://data.beeldengeluid.nl/gtaa/62912> core:exactMatch am:p-60118 .
+
+<http://data.beeldengeluid.nl/gtaa/62950> core:exactMatch am:p-12257 .
+
+<http://data.beeldengeluid.nl/gtaa/62970> core:exactMatch am:p-37094 .
+
+<http://data.beeldengeluid.nl/gtaa/62974> core:exactMatch am:p-67709 .
+
+<http://data.beeldengeluid.nl/gtaa/62995> core:exactMatch am:p-12258 .
+<http://data.beeldengeluid.nl/gtaa/62995> core:exactMatch am:p-12276 .
+
+<http://data.beeldengeluid.nl/gtaa/63029> core:exactMatch am:p-35399 .
+
+<http://data.beeldengeluid.nl/gtaa/63045> core:exactMatch am:p-12223 .
+<http://data.beeldengeluid.nl/gtaa/63045> core:exactMatch am:p-12268 .
+<http://data.beeldengeluid.nl/gtaa/63045> core:exactMatch am:p-36697 .
+
+<http://data.beeldengeluid.nl/gtaa/63053> core:exactMatch am:p-44050 .
+
+<http://data.beeldengeluid.nl/gtaa/63058> core:exactMatch am:p-35266 .
+
+<http://data.beeldengeluid.nl/gtaa/63060> core:exactMatch am:p-35790 .
+
+<http://data.beeldengeluid.nl/gtaa/63063> core:exactMatch am:p-42272 .
+
+<http://data.beeldengeluid.nl/gtaa/63094> core:exactMatch am:p-35249 .
+
+<http://data.beeldengeluid.nl/gtaa/63103> core:exactMatch am:p-34631 .
+
+<http://data.beeldengeluid.nl/gtaa/63106> core:exactMatch am:p-33518 .
+<http://data.beeldengeluid.nl/gtaa/63106> core:exactMatch am:p-44331 .
+
+<http://data.beeldengeluid.nl/gtaa/63119> core:exactMatch am:p-64961 .
+
+<http://data.beeldengeluid.nl/gtaa/63123> core:exactMatch am:p-43046 .
+
+<http://data.beeldengeluid.nl/gtaa/63125> core:exactMatch am:p-36996 .
+
+<http://data.beeldengeluid.nl/gtaa/63133> core:exactMatch am:p-37484 .
+<http://data.beeldengeluid.nl/gtaa/63133> core:exactMatch am:p-43028 .
+
+<http://data.beeldengeluid.nl/gtaa/63143> core:exactMatch am:p-20896 .
+
+<http://data.beeldengeluid.nl/gtaa/63144> core:exactMatch am:p-21039 .
+
+<http://data.beeldengeluid.nl/gtaa/63162> core:exactMatch am:p-69634 .
+
+<http://data.beeldengeluid.nl/gtaa/63179> core:exactMatch am:p-12271 .
+
+<http://data.beeldengeluid.nl/gtaa/63186> core:exactMatch am:p-33715 .
+
+<http://data.beeldengeluid.nl/gtaa/63188> core:exactMatch am:p-21833 .
+
+<http://data.beeldengeluid.nl/gtaa/63192> core:exactMatch am:p-35336 .
+
+<http://data.beeldengeluid.nl/gtaa/63203> core:exactMatch am:p-45436 .
+<http://data.beeldengeluid.nl/gtaa/63203> core:exactMatch am:p-66274 .
+
+<http://data.beeldengeluid.nl/gtaa/63213> core:exactMatch am:p-58665 .
+
+<http://data.beeldengeluid.nl/gtaa/63214> core:exactMatch am:p-12273 .
+
+<http://data.beeldengeluid.nl/gtaa/63216> core:exactMatch am:p-33532 .
+
+<http://data.beeldengeluid.nl/gtaa/63243> core:exactMatch am:p-45316 .
+
+<http://data.beeldengeluid.nl/gtaa/63244> core:exactMatch am:p-48637 .
+
+<http://data.beeldengeluid.nl/gtaa/63274> core:exactMatch am:p-40684 .
+
+<http://data.beeldengeluid.nl/gtaa/63325> core:exactMatch am:p-36633 .
+
+<http://data.beeldengeluid.nl/gtaa/63326> core:exactMatch am:p-64881 .
+<http://data.beeldengeluid.nl/gtaa/63326> core:exactMatch am:p-68075 .
+<http://data.beeldengeluid.nl/gtaa/63326> core:exactMatch am:p-68076 .
+
+<http://data.beeldengeluid.nl/gtaa/63332> core:exactMatch am:p-42260 .
+
+<http://data.beeldengeluid.nl/gtaa/63374> core:exactMatch am:p-41776 .
+
+<http://data.beeldengeluid.nl/gtaa/63385> core:exactMatch am:p-21646 .
+
+<http://data.beeldengeluid.nl/gtaa/63397> core:exactMatch am:p-12282 .
+
+<http://data.beeldengeluid.nl/gtaa/63424> core:exactMatch am:p-51299 .
+
+<http://data.beeldengeluid.nl/gtaa/63456> core:exactMatch am:p-41415 .
+
+<http://data.beeldengeluid.nl/gtaa/63492> core:exactMatch am:p-51511 .
+
+<http://data.beeldengeluid.nl/gtaa/63494> core:exactMatch am:p-42394 .
+
+<http://data.beeldengeluid.nl/gtaa/63502> core:exactMatch am:p-63857 .
+
+<http://data.beeldengeluid.nl/gtaa/63521> core:exactMatch am:p-42678 .
+
+<http://data.beeldengeluid.nl/gtaa/63632> core:exactMatch am:p-30674 .
+<http://data.beeldengeluid.nl/gtaa/63632> core:exactMatch am:p-54583 .
+
+<http://data.beeldengeluid.nl/gtaa/63698> core:exactMatch am:p-37571 .
+
+<http://data.beeldengeluid.nl/gtaa/63707> core:exactMatch am:p-57157 .
+
+<http://data.beeldengeluid.nl/gtaa/63737> core:exactMatch am:p-54444 .
+
+<http://data.beeldengeluid.nl/gtaa/63740> core:exactMatch am:p-21632 .
+<http://data.beeldengeluid.nl/gtaa/63740> core:exactMatch am:p-21686 .
+
+<http://data.beeldengeluid.nl/gtaa/63749> core:exactMatch am:p-12470 .
+<http://data.beeldengeluid.nl/gtaa/63749> core:exactMatch am:p-8236 .
+
+<http://data.beeldengeluid.nl/gtaa/63757> core:exactMatch am:p-21634 .
+<http://data.beeldengeluid.nl/gtaa/63757> core:exactMatch am:p-21688 .
+
+<http://data.beeldengeluid.nl/gtaa/63771> core:exactMatch am:p-59996 .
+
+<http://data.beeldengeluid.nl/gtaa/63781> core:exactMatch am:p-41363 .
+
+<http://data.beeldengeluid.nl/gtaa/63782> core:exactMatch am:p-57943 .
+<http://data.beeldengeluid.nl/gtaa/63782> core:exactMatch am:p-59244 .
+<http://data.beeldengeluid.nl/gtaa/63782> core:exactMatch am:p-59245 .
+
+<http://data.beeldengeluid.nl/gtaa/63784> core:exactMatch am:p-64543 .
+<http://data.beeldengeluid.nl/gtaa/63784> core:exactMatch am:p-64544 .
+
+<http://data.beeldengeluid.nl/gtaa/63793> core:exactMatch am:p-47636 .
+
+<http://data.beeldengeluid.nl/gtaa/63802> core:exactMatch am:p-41114 .
+
+<http://data.beeldengeluid.nl/gtaa/63821> core:exactMatch am:p-21689 .
+
+<http://data.beeldengeluid.nl/gtaa/63830> core:exactMatch am:p-64819 .
+
+<http://data.beeldengeluid.nl/gtaa/63841> core:exactMatch am:p-60161 .
+<http://data.beeldengeluid.nl/gtaa/63841> core:exactMatch am:p-63398 .
+<http://data.beeldengeluid.nl/gtaa/63841> core:exactMatch am:p-63399 .
+
+<http://data.beeldengeluid.nl/gtaa/63864> core:exactMatch am:p-72151 .
+
+<http://data.beeldengeluid.nl/gtaa/63872> core:exactMatch am:p-21694 .
+
+<http://data.beeldengeluid.nl/gtaa/63879> core:exactMatch am:p-43493 .
+
+<http://data.beeldengeluid.nl/gtaa/63889> core:exactMatch am:p-42460 .
+
+<http://data.beeldengeluid.nl/gtaa/63896> core:exactMatch am:p-38254 .
+
+<http://data.beeldengeluid.nl/gtaa/63952> core:exactMatch am:p-50179 .
+
+<http://data.beeldengeluid.nl/gtaa/64001> core:exactMatch am:p-44374 .
+
+<http://data.beeldengeluid.nl/gtaa/64009> core:exactMatch am:p-42567 .
+<http://data.beeldengeluid.nl/gtaa/64009> core:exactMatch am:p-64788 .
+
+<http://data.beeldengeluid.nl/gtaa/64021> core:exactMatch am:p-43758 .
+
+<http://data.beeldengeluid.nl/gtaa/64048> core:exactMatch am:p-41617 .
+
+<http://data.beeldengeluid.nl/gtaa/64059> core:exactMatch am:p-63461 .
+
+<http://data.beeldengeluid.nl/gtaa/64068> core:exactMatch am:p-34068 .
+
+<http://data.beeldengeluid.nl/gtaa/64084> core:exactMatch am:p-37065 .
+
+<http://data.beeldengeluid.nl/gtaa/64102> core:exactMatch am:p-47759 .
+
+<http://data.beeldengeluid.nl/gtaa/64141> core:exactMatch am:p-30997 .
+
+<http://data.beeldengeluid.nl/gtaa/64236> core:exactMatch am:p-71968 .
+
+<http://data.beeldengeluid.nl/gtaa/64277> core:exactMatch am:p-34551 .
+
+<http://data.beeldengeluid.nl/gtaa/64325> core:exactMatch am:p-38572 .
+
+<http://data.beeldengeluid.nl/gtaa/64340> core:exactMatch am:p-35918 .
+
+<http://data.beeldengeluid.nl/gtaa/64348> core:exactMatch am:p-38332 .
+
+<http://data.beeldengeluid.nl/gtaa/64377> core:exactMatch am:p-34137 .
+
+<http://data.beeldengeluid.nl/gtaa/64388> core:exactMatch am:p-40243 .
+
+<http://data.beeldengeluid.nl/gtaa/64393> core:exactMatch am:p-37465 .
+
+<http://data.beeldengeluid.nl/gtaa/64407> core:exactMatch am:p-21837 .
+
+<http://data.beeldengeluid.nl/gtaa/64414> core:exactMatch am:p-45877 .
+
+<http://data.beeldengeluid.nl/gtaa/64480> core:exactMatch am:p-40193 .
+
+<http://data.beeldengeluid.nl/gtaa/64489> core:exactMatch am:p-36210 .
+
+<http://data.beeldengeluid.nl/gtaa/64495> core:exactMatch am:p-12565 .
+<http://data.beeldengeluid.nl/gtaa/64495> core:exactMatch am:p-60394 .
+
+<http://data.beeldengeluid.nl/gtaa/64499> core:exactMatch am:p-56729 .
+
+<http://data.beeldengeluid.nl/gtaa/64503> core:exactMatch am:p-12278 .
+<http://data.beeldengeluid.nl/gtaa/64503> core:exactMatch am:p-12566 .
+<http://data.beeldengeluid.nl/gtaa/64503> core:exactMatch am:p-68816 .
+
+<http://data.beeldengeluid.nl/gtaa/64521> core:exactMatch am:p-47802 .
+
+<http://data.beeldengeluid.nl/gtaa/64538> core:exactMatch am:p-21708 .
+
+<http://data.beeldengeluid.nl/gtaa/64547> core:exactMatch am:p-40568 .
+
+<http://data.beeldengeluid.nl/gtaa/64559> core:exactMatch am:p-47730 .
+
+<http://data.beeldengeluid.nl/gtaa/64565> core:exactMatch am:p-38524 .
+
+<http://data.beeldengeluid.nl/gtaa/64600> core:exactMatch am:p-42223 .
+
+<http://data.beeldengeluid.nl/gtaa/64618> core:exactMatch am:p-45824 .
+
+<http://data.beeldengeluid.nl/gtaa/64659> core:exactMatch am:p-56794 .
+
+<http://data.beeldengeluid.nl/gtaa/64660> core:exactMatch am:p-37429 .
+
+<http://data.beeldengeluid.nl/gtaa/64662> core:exactMatch am:p-45797 .
+
+<http://data.beeldengeluid.nl/gtaa/64708> core:exactMatch am:p-43548 .
+
+<http://data.beeldengeluid.nl/gtaa/64719> core:exactMatch am:p-42163 .
+
+<http://data.beeldengeluid.nl/gtaa/64741> core:exactMatch am:p-43856 .
+
+<http://data.beeldengeluid.nl/gtaa/64744> core:exactMatch am:p-36190 .
+
+<http://data.beeldengeluid.nl/gtaa/64814> core:exactMatch am:p-55716 .
+<http://data.beeldengeluid.nl/gtaa/64814> core:exactMatch am:p-55873 .
+
+<http://data.beeldengeluid.nl/gtaa/64815> core:exactMatch am:p-12708 .
+
+<http://data.beeldengeluid.nl/gtaa/64836> core:exactMatch am:p-39574 .
+
+<http://data.beeldengeluid.nl/gtaa/64840> core:exactMatch am:p-56258 .
+
+<http://data.beeldengeluid.nl/gtaa/64856> core:exactMatch am:p-42584 .
+
+<http://data.beeldengeluid.nl/gtaa/64957> core:exactMatch am:p-30831 .
+
+<http://data.beeldengeluid.nl/gtaa/65002> core:exactMatch am:p-37487 .
+
+<http://data.beeldengeluid.nl/gtaa/65007> core:exactMatch am:p-39749 .
+
+<http://data.beeldengeluid.nl/gtaa/65009> core:exactMatch am:p-38138 .
+
+<http://data.beeldengeluid.nl/gtaa/65028> core:exactMatch am:p-30837 .
+
+<http://data.beeldengeluid.nl/gtaa/65033> core:exactMatch am:p-35741 .
+
+<http://data.beeldengeluid.nl/gtaa/65090> core:exactMatch am:p-34215 .
+
+<http://data.beeldengeluid.nl/gtaa/65092> core:exactMatch am:p-42717 .
+
+<http://data.beeldengeluid.nl/gtaa/65100> core:exactMatch am:p-30842 .
+
+<http://data.beeldengeluid.nl/gtaa/65116> core:exactMatch am:p-45288 .
+
+<http://data.beeldengeluid.nl/gtaa/65118> core:exactMatch am:p-46098 .
+
+<http://data.beeldengeluid.nl/gtaa/65235> core:exactMatch am:p-63546 .
+
+<http://data.beeldengeluid.nl/gtaa/65289> core:exactMatch am:p-21759 .
+<http://data.beeldengeluid.nl/gtaa/65289> core:exactMatch am:p-33719 .
+<http://data.beeldengeluid.nl/gtaa/65289> core:exactMatch am:p-60698 .
+
+<http://data.beeldengeluid.nl/gtaa/65291> core:exactMatch am:p-42768 .
+
+<http://data.beeldengeluid.nl/gtaa/65302> core:exactMatch am:p-50990 .
+
+<http://data.beeldengeluid.nl/gtaa/65310> core:exactMatch am:p-41405 .
+
+<http://data.beeldengeluid.nl/gtaa/65442> core:exactMatch am:p-42834 .
+
+<http://data.beeldengeluid.nl/gtaa/65444> core:exactMatch am:p-66117 .
+
+<http://data.beeldengeluid.nl/gtaa/65449> core:exactMatch am:p-36777 .
+
+<http://data.beeldengeluid.nl/gtaa/65474> core:exactMatch am:p-33803 .
+<http://data.beeldengeluid.nl/gtaa/65474> core:exactMatch am:p-51290 .
+
+<http://data.beeldengeluid.nl/gtaa/65475> core:exactMatch am:p-39715 .
+<http://data.beeldengeluid.nl/gtaa/65475> core:exactMatch am:p-63530 .
+
+<http://data.beeldengeluid.nl/gtaa/65478> core:exactMatch am:p-34122 .
+
+<http://data.beeldengeluid.nl/gtaa/65480> core:exactMatch am:p-21174 .
+<http://data.beeldengeluid.nl/gtaa/65480> core:exactMatch am:p-21784 .
+
+<http://data.beeldengeluid.nl/gtaa/65481> core:exactMatch am:p-35139 .
+
+<http://data.beeldengeluid.nl/gtaa/65482> core:exactMatch am:p-71092 .
+
+<http://data.beeldengeluid.nl/gtaa/65490> core:exactMatch am:p-58012 .
+
+<http://data.beeldengeluid.nl/gtaa/65491> core:exactMatch am:p-30904 .
+
+<http://data.beeldengeluid.nl/gtaa/65507> core:exactMatch am:p-30907 .
+
+<http://data.beeldengeluid.nl/gtaa/65520> core:exactMatch am:p-30911 .
+
+<http://data.beeldengeluid.nl/gtaa/65523> core:exactMatch am:p-61417 .
+
+<http://data.beeldengeluid.nl/gtaa/65563> core:exactMatch am:p-36802 .
+
+<http://data.beeldengeluid.nl/gtaa/65594> core:exactMatch am:p-45798 .
+
+<http://data.beeldengeluid.nl/gtaa/65629> core:exactMatch am:p-51738 .
+
+<http://data.beeldengeluid.nl/gtaa/65644> core:exactMatch am:p-69014 .
+
+<http://data.beeldengeluid.nl/gtaa/65714> core:exactMatch am:p-36340 .
+
+<http://data.beeldengeluid.nl/gtaa/65737> core:exactMatch am:p-30982 .
+
+<http://data.beeldengeluid.nl/gtaa/65751> core:exactMatch am:p-43679 .
+
+<http://data.beeldengeluid.nl/gtaa/65888> core:exactMatch am:p-45994 .
+
+<http://data.beeldengeluid.nl/gtaa/65897> core:exactMatch am:p-44420 .
+
+<http://data.beeldengeluid.nl/gtaa/65906> core:exactMatch am:p-34411 .
+
+<http://data.beeldengeluid.nl/gtaa/65959> core:exactMatch am:p-28414 .
+
+<http://data.beeldengeluid.nl/gtaa/65960> core:exactMatch am:p-64948 .
+
+<http://data.beeldengeluid.nl/gtaa/65968> core:exactMatch am:p-63773 .
+
+<http://data.beeldengeluid.nl/gtaa/66033> core:exactMatch am:p-51353 .
+
+<http://data.beeldengeluid.nl/gtaa/66035> core:exactMatch am:p-43093 .
+
+<http://data.beeldengeluid.nl/gtaa/66164> core:exactMatch am:p-40882 .
+
+<http://data.beeldengeluid.nl/gtaa/66180> core:exactMatch am:p-34263 .
+<http://data.beeldengeluid.nl/gtaa/66180> core:exactMatch am:p-63496 .
+
+<http://data.beeldengeluid.nl/gtaa/66184> core:exactMatch am:p-42591 .
+
+<http://data.beeldengeluid.nl/gtaa/66185> core:exactMatch am:p-38897 .
+<http://data.beeldengeluid.nl/gtaa/66185> core:exactMatch am:p-42591 .
+
+<http://data.beeldengeluid.nl/gtaa/66191> core:exactMatch am:p-64943 .
+<http://data.beeldengeluid.nl/gtaa/66191> core:exactMatch am:p-66971 .
+
+<http://data.beeldengeluid.nl/gtaa/66197> core:exactMatch am:p-43145 .
+
+<http://data.beeldengeluid.nl/gtaa/66203> core:exactMatch am:p-30197 .
+<http://data.beeldengeluid.nl/gtaa/66203> core:exactMatch am:p-35669 .
+
+<http://data.beeldengeluid.nl/gtaa/66211> core:exactMatch am:p-45632 .
+<http://data.beeldengeluid.nl/gtaa/66211> core:exactMatch am:p-63479 .
+
+<http://data.beeldengeluid.nl/gtaa/66234> core:exactMatch am:p-35611 .
+
+<http://data.beeldengeluid.nl/gtaa/66245> core:exactMatch am:p-42035 .
+
+<http://data.beeldengeluid.nl/gtaa/66246> core:exactMatch am:p-43162 .
+
+<http://data.beeldengeluid.nl/gtaa/66254> core:exactMatch am:p-44351 .
+
+<http://data.beeldengeluid.nl/gtaa/66269> core:exactMatch am:p-45613 .
+
+<http://data.beeldengeluid.nl/gtaa/66326> core:exactMatch am:p-38592 .
+
+<http://data.beeldengeluid.nl/gtaa/66360> core:exactMatch am:p-21903 .
+
+<http://data.beeldengeluid.nl/gtaa/66367> core:exactMatch am:p-44757 .
+
+<http://data.beeldengeluid.nl/gtaa/66374> core:exactMatch am:p-70857 .
+
+<http://data.beeldengeluid.nl/gtaa/66390> core:exactMatch am:p-42393 .
+
+<http://data.beeldengeluid.nl/gtaa/66414> core:exactMatch am:p-43508 .
+
+<http://data.beeldengeluid.nl/gtaa/66416> core:exactMatch am:p-51445 .
+
+<http://data.beeldengeluid.nl/gtaa/66452> core:exactMatch am:p-37156 .
+
+<http://data.beeldengeluid.nl/gtaa/66453> core:exactMatch am:p-41196 .
+
+<http://data.beeldengeluid.nl/gtaa/66467> core:exactMatch am:p-21908 .
+
+<http://data.beeldengeluid.nl/gtaa/66498> core:exactMatch am:p-12978 .
+<http://data.beeldengeluid.nl/gtaa/66498> core:exactMatch am:p-13692 .
+
+<http://data.beeldengeluid.nl/gtaa/66508> core:exactMatch am:p-56594 .
+
+<http://data.beeldengeluid.nl/gtaa/66552> core:exactMatch am:p-13704 .
+<http://data.beeldengeluid.nl/gtaa/66552> core:exactMatch am:p-16443 .
+<http://data.beeldengeluid.nl/gtaa/66552> core:exactMatch am:p-39695 .
+
+<http://data.beeldengeluid.nl/gtaa/66563> core:exactMatch am:p-36215 .
+
+<http://data.beeldengeluid.nl/gtaa/66585> core:exactMatch am:p-63022 .
+
+<http://data.beeldengeluid.nl/gtaa/66603> core:exactMatch am:p-13727 .
+
+<http://data.beeldengeluid.nl/gtaa/66618> core:exactMatch am:p-13728 .
+
+<http://data.beeldengeluid.nl/gtaa/66637> core:exactMatch am:p-21914 .
+
+<http://data.beeldengeluid.nl/gtaa/66647> core:exactMatch am:p-55772 .
+
+<http://data.beeldengeluid.nl/gtaa/66897> core:exactMatch am:p-51418 .
+
+<http://data.beeldengeluid.nl/gtaa/66900> core:exactMatch am:p-63164 .
+
+<http://data.beeldengeluid.nl/gtaa/66901> core:exactMatch am:p-63164 .
+
+<http://data.beeldengeluid.nl/gtaa/66943> core:exactMatch am:p-35186 .
+
+<http://data.beeldengeluid.nl/gtaa/66973> core:exactMatch am:p-43458 .
+
+<http://data.beeldengeluid.nl/gtaa/66975> core:exactMatch am:p-37229 .
+
+<http://data.beeldengeluid.nl/gtaa/66984> core:exactMatch am:p-70525 .
+
+<http://data.beeldengeluid.nl/gtaa/67040> core:exactMatch am:p-45156 .
+
+<http://data.beeldengeluid.nl/gtaa/67054> core:exactMatch am:p-40223 .
+
+<http://data.beeldengeluid.nl/gtaa/67055> core:exactMatch am:p-46384 .
+
+<http://data.beeldengeluid.nl/gtaa/67074> core:exactMatch am:p-31716 .
+
+<http://data.beeldengeluid.nl/gtaa/67121> core:exactMatch am:p-71803 .
+
+<http://data.beeldengeluid.nl/gtaa/67185> core:exactMatch am:p-14171 .
+<http://data.beeldengeluid.nl/gtaa/67185> core:exactMatch am:p-56615 .
+
+<http://data.beeldengeluid.nl/gtaa/67200> core:exactMatch am:p-48162 .
+
+<http://data.beeldengeluid.nl/gtaa/67203> core:exactMatch am:p-43744 .
+
+<http://data.beeldengeluid.nl/gtaa/67251> core:exactMatch am:p-37087 .
+
+<http://data.beeldengeluid.nl/gtaa/67258> core:exactMatch am:p-69854 .
+
+<http://data.beeldengeluid.nl/gtaa/67295> core:exactMatch am:p-42946 .
+
+<http://data.beeldengeluid.nl/gtaa/67332> core:exactMatch am:p-13978 .
+
+<http://data.beeldengeluid.nl/gtaa/67336> core:exactMatch am:p-36392 .
+
+<http://data.beeldengeluid.nl/gtaa/67339> core:exactMatch am:p-21945 .
+
+<http://data.beeldengeluid.nl/gtaa/67347> core:exactMatch am:p-43306 .
+
+<http://data.beeldengeluid.nl/gtaa/67375> core:exactMatch am:p-35795 .
+
+<http://data.beeldengeluid.nl/gtaa/67476> core:exactMatch am:p-42136 .
+
+<http://data.beeldengeluid.nl/gtaa/67509> core:exactMatch am:p-38869 .
+<http://data.beeldengeluid.nl/gtaa/67509> core:exactMatch am:p-46311 .
+
+<http://data.beeldengeluid.nl/gtaa/67518> core:exactMatch am:p-14167 .
+<http://data.beeldengeluid.nl/gtaa/67518> core:exactMatch am:p-21979 .
+<http://data.beeldengeluid.nl/gtaa/67518> core:exactMatch am:p-37243 .
+
+<http://data.beeldengeluid.nl/gtaa/67519> core:exactMatch am:p-14170 .
+<http://data.beeldengeluid.nl/gtaa/67519> core:exactMatch am:p-43305 .
+
+<http://data.beeldengeluid.nl/gtaa/67522> core:exactMatch am:p-14172 .
+<http://data.beeldengeluid.nl/gtaa/67522> core:exactMatch am:p-35347 .
+
+<http://data.beeldengeluid.nl/gtaa/67525> core:exactMatch am:p-39990 .
+
+<http://data.beeldengeluid.nl/gtaa/67528> core:exactMatch am:p-44248 .
+
+<http://data.beeldengeluid.nl/gtaa/67551> core:exactMatch am:p-30610 .
+<http://data.beeldengeluid.nl/gtaa/67551> core:exactMatch am:p-69327 .
+
+<http://data.beeldengeluid.nl/gtaa/67552> core:exactMatch am:p-54798 .
+<http://data.beeldengeluid.nl/gtaa/67552> core:exactMatch am:p-57322 .
+
+<http://data.beeldengeluid.nl/gtaa/67554> core:exactMatch am:p-21585 .
+
+<http://data.beeldengeluid.nl/gtaa/67555> core:exactMatch am:p-21818 .
+<http://data.beeldengeluid.nl/gtaa/67555> core:exactMatch am:p-34109 .
+<http://data.beeldengeluid.nl/gtaa/67555> core:exactMatch am:p-34268 .
+
+<http://data.beeldengeluid.nl/gtaa/67558> core:exactMatch am:p-21971 .
+
+<http://data.beeldengeluid.nl/gtaa/67561> core:exactMatch am:p-34269 .
+
+<http://data.beeldengeluid.nl/gtaa/67569> core:exactMatch am:p-69929 .
+
+<http://data.beeldengeluid.nl/gtaa/67573> core:exactMatch am:p-34138 .
+
+<http://data.beeldengeluid.nl/gtaa/67574> core:exactMatch am:p-37313 .
+
+<http://data.beeldengeluid.nl/gtaa/67579> core:exactMatch am:p-40386 .
+
+<http://data.beeldengeluid.nl/gtaa/67582> core:exactMatch am:p-48779 .
+
+<http://data.beeldengeluid.nl/gtaa/67585> core:exactMatch am:p-44583 .
+
+<http://data.beeldengeluid.nl/gtaa/67632> core:exactMatch am:p-36375 .
+<http://data.beeldengeluid.nl/gtaa/67632> core:exactMatch am:p-45357 .
+
+<http://data.beeldengeluid.nl/gtaa/67648> core:exactMatch am:p-67461 .
+
+<http://data.beeldengeluid.nl/gtaa/67676> core:exactMatch am:p-40416 .
+
+<http://data.beeldengeluid.nl/gtaa/67824> core:exactMatch am:p-45939 .
+
+<http://data.beeldengeluid.nl/gtaa/67841> core:exactMatch am:p-31514 .
+
+<http://data.beeldengeluid.nl/gtaa/67900> core:exactMatch am:p-37720 .
+
+<http://data.beeldengeluid.nl/gtaa/67955> core:exactMatch am:p-35561 .
+
+<http://data.beeldengeluid.nl/gtaa/67971> core:exactMatch am:p-56558 .
+
+<http://data.beeldengeluid.nl/gtaa/67993> core:exactMatch am:p-34593 .
+
+<http://data.beeldengeluid.nl/gtaa/68009> core:exactMatch am:p-56271 .
+
+<http://data.beeldengeluid.nl/gtaa/68015> core:exactMatch am:p-65006 .
+
+<http://data.beeldengeluid.nl/gtaa/68018> core:exactMatch am:p-34337 .
+
+<http://data.beeldengeluid.nl/gtaa/68027> core:exactMatch am:p-63145 .
+
+<http://data.beeldengeluid.nl/gtaa/68047> core:exactMatch am:p-43464 .
+
+<http://data.beeldengeluid.nl/gtaa/68067> core:exactMatch am:p-28572 .
+<http://data.beeldengeluid.nl/gtaa/68067> core:exactMatch am:p-31579 .
+
+<http://data.beeldengeluid.nl/gtaa/68090> core:exactMatch am:p-47686 .
+
+<http://data.beeldengeluid.nl/gtaa/68106> core:exactMatch am:p-33792 .
+
+<http://data.beeldengeluid.nl/gtaa/68150> core:exactMatch am:p-47832 .
+
+<http://data.beeldengeluid.nl/gtaa/68179> core:exactMatch am:p-64820 .
+<http://data.beeldengeluid.nl/gtaa/68179> core:exactMatch am:p-71893 .
+
+<http://data.beeldengeluid.nl/gtaa/68256> core:exactMatch am:p-62629 .
+
+<http://data.beeldengeluid.nl/gtaa/68297> core:exactMatch am:p-22051 .
+
+<http://data.beeldengeluid.nl/gtaa/68319> core:exactMatch am:p-70821 .
+
+<http://data.beeldengeluid.nl/gtaa/68340> core:exactMatch am:p-51737 .
+
+<http://data.beeldengeluid.nl/gtaa/68363> core:exactMatch am:p-40661 .
+
+<http://data.beeldengeluid.nl/gtaa/68399> core:exactMatch am:p-35864 .
+
+<http://data.beeldengeluid.nl/gtaa/68417> core:exactMatch am:p-66871 .
+
+<http://data.beeldengeluid.nl/gtaa/68455> core:exactMatch am:p-34340 .
+
+<http://data.beeldengeluid.nl/gtaa/68481> core:exactMatch am:p-15443 .
+<http://data.beeldengeluid.nl/gtaa/68481> core:exactMatch am:p-15872 .
+
+<http://data.beeldengeluid.nl/gtaa/68496> core:exactMatch am:p-35672 .
+
+<http://data.beeldengeluid.nl/gtaa/68633> core:exactMatch am:p-36286 .
+
+<http://data.beeldengeluid.nl/gtaa/68649> core:exactMatch am:p-59431 .
+
+<http://data.beeldengeluid.nl/gtaa/68684> core:exactMatch am:p-50655 .
+
+<http://data.beeldengeluid.nl/gtaa/68706> core:exactMatch am:p-32114 .
+
+<http://data.beeldengeluid.nl/gtaa/68729> core:exactMatch am:p-15932 .
+<http://data.beeldengeluid.nl/gtaa/68729> core:exactMatch am:p-22189 .
+<http://data.beeldengeluid.nl/gtaa/68729> core:exactMatch am:p-33736 .
+
+<http://data.beeldengeluid.nl/gtaa/68730> core:exactMatch am:p-45480 .
+
+<http://data.beeldengeluid.nl/gtaa/68790> core:exactMatch am:p-40157 .
+
+<http://data.beeldengeluid.nl/gtaa/68848> core:exactMatch am:p-34002 .
+
+<http://data.beeldengeluid.nl/gtaa/68872> core:exactMatch am:p-45735 .
+
+<http://data.beeldengeluid.nl/gtaa/68877> core:exactMatch am:p-15984 .
+
+<http://data.beeldengeluid.nl/gtaa/68892> core:exactMatch am:p-63062 .
+<http://data.beeldengeluid.nl/gtaa/68892> core:exactMatch am:p-63750 .
+
+<http://data.beeldengeluid.nl/gtaa/68905> core:exactMatch am:p-37122 .
+
+<http://data.beeldengeluid.nl/gtaa/68969> core:exactMatch am:p-38159 .
+
+<http://data.beeldengeluid.nl/gtaa/69064> core:exactMatch am:p-16063 .
+
+<http://data.beeldengeluid.nl/gtaa/69067> core:exactMatch am:p-35643 .
+
+<http://data.beeldengeluid.nl/gtaa/69069> core:exactMatch am:p-45730 .
+
+<http://data.beeldengeluid.nl/gtaa/69084> core:exactMatch am:p-35565 .
+
+<http://data.beeldengeluid.nl/gtaa/69088> core:exactMatch am:p-62913 .
+
+<http://data.beeldengeluid.nl/gtaa/69089> core:exactMatch am:p-34824 .
+
+<http://data.beeldengeluid.nl/gtaa/69103> core:exactMatch am:p-43857 .
+
+<http://data.beeldengeluid.nl/gtaa/69114> core:exactMatch am:p-42699 .
+
+<http://data.beeldengeluid.nl/gtaa/69115> core:exactMatch am:p-70675 .
+
+<http://data.beeldengeluid.nl/gtaa/69180> core:exactMatch am:p-53335 .
+
+<http://data.beeldengeluid.nl/gtaa/69195> core:exactMatch am:p-61661 .
+<http://data.beeldengeluid.nl/gtaa/69195> core:exactMatch am:p-62377 .
+
+<http://data.beeldengeluid.nl/gtaa/69196> core:exactMatch am:p-22264 .
+<http://data.beeldengeluid.nl/gtaa/69196> core:exactMatch am:p-47695 .
+
+<http://data.beeldengeluid.nl/gtaa/69197> core:exactMatch am:p-16126 .
+
+<http://data.beeldengeluid.nl/gtaa/69200> core:exactMatch am:p-34037 .
+<http://data.beeldengeluid.nl/gtaa/69200> core:exactMatch am:p-37469 .
+
+<http://data.beeldengeluid.nl/gtaa/69218> core:exactMatch am:p-38656 .
+
+<http://data.beeldengeluid.nl/gtaa/69255> core:exactMatch am:p-22283 .
+
+<http://data.beeldengeluid.nl/gtaa/69274> core:exactMatch am:p-33746 .
+
+<http://data.beeldengeluid.nl/gtaa/69278> core:exactMatch am:p-35292 .
+
+<http://data.beeldengeluid.nl/gtaa/69283> core:exactMatch am:p-55452 .
+
+<http://data.beeldengeluid.nl/gtaa/69288> core:exactMatch am:p-40532 .
+
+<http://data.beeldengeluid.nl/gtaa/69370> core:exactMatch am:p-43682 .
+
+<http://data.beeldengeluid.nl/gtaa/69371> core:exactMatch am:p-43366 .
+
+<http://data.beeldengeluid.nl/gtaa/69444> core:exactMatch am:p-47673 .
+
+<http://data.beeldengeluid.nl/gtaa/69483> core:exactMatch am:p-27007 .
+
+<http://data.beeldengeluid.nl/gtaa/69551> core:exactMatch am:p-32001 .
+
+<http://data.beeldengeluid.nl/gtaa/69575> core:exactMatch am:p-71946 .
+
+<http://data.beeldengeluid.nl/gtaa/69587> core:exactMatch am:p-45340 .
+
+<http://data.beeldengeluid.nl/gtaa/69593> core:exactMatch am:p-68996 .
+
+<http://data.beeldengeluid.nl/gtaa/69623> core:exactMatch am:p-72010 .
+
+<http://data.beeldengeluid.nl/gtaa/69667> core:exactMatch am:p-15639 .
+<http://data.beeldengeluid.nl/gtaa/69667> core:exactMatch am:p-15641 .
+
+<http://data.beeldengeluid.nl/gtaa/69705> core:exactMatch am:p-12239 .
+<http://data.beeldengeluid.nl/gtaa/69705> core:exactMatch am:p-12467 .
+<http://data.beeldengeluid.nl/gtaa/69705> core:exactMatch am:p-8178 .
+
+<http://data.beeldengeluid.nl/gtaa/69756> core:exactMatch am:p-40579 .
+
+<http://data.beeldengeluid.nl/gtaa/69775> core:exactMatch am:p-36817 .
+
+<http://data.beeldengeluid.nl/gtaa/69799> core:exactMatch am:p-16253 .
+
+<http://data.beeldengeluid.nl/gtaa/69818> core:exactMatch am:p-43932 .
+
+<http://data.beeldengeluid.nl/gtaa/69822> core:exactMatch am:p-62519 .
+
+<http://data.beeldengeluid.nl/gtaa/69855> core:exactMatch am:p-45976 .
+
+<http://data.beeldengeluid.nl/gtaa/69861> core:exactMatch am:p-33750 .
+
+<http://data.beeldengeluid.nl/gtaa/69880> core:exactMatch am:p-71955 .
+
+<http://data.beeldengeluid.nl/gtaa/69911> core:exactMatch am:p-35768 .
+<http://data.beeldengeluid.nl/gtaa/69911> core:exactMatch am:p-62642 .
+
+<http://data.beeldengeluid.nl/gtaa/69916> core:exactMatch am:p-51003 .
+
+<http://data.beeldengeluid.nl/gtaa/69984> core:exactMatch am:p-41803 .
+
+<http://data.beeldengeluid.nl/gtaa/70060> core:exactMatch am:p-39109 .
+
+<http://data.beeldengeluid.nl/gtaa/70081> core:exactMatch am:p-34502 .
+
+<http://data.beeldengeluid.nl/gtaa/70112> core:exactMatch am:p-36555 .
+
+<http://data.beeldengeluid.nl/gtaa/70123> core:exactMatch am:p-34753 .
+
+<http://data.beeldengeluid.nl/gtaa/70183> core:exactMatch am:p-42063 .
+
+<http://data.beeldengeluid.nl/gtaa/70207> core:exactMatch am:p-55467 .
+
+<http://data.beeldengeluid.nl/gtaa/70247> core:exactMatch am:p-33748 .
+
+<http://data.beeldengeluid.nl/gtaa/70249> core:exactMatch am:p-35193 .
+
+<http://data.beeldengeluid.nl/gtaa/70276> core:exactMatch am:p-39414 .
+
+<http://data.beeldengeluid.nl/gtaa/70305> core:exactMatch am:p-44142 .
+
+<http://data.beeldengeluid.nl/gtaa/70325> core:exactMatch am:p-20472 .
+
+<http://data.beeldengeluid.nl/gtaa/70328> core:exactMatch am:p-61156 .
+
+<http://data.beeldengeluid.nl/gtaa/70333> core:exactMatch am:p-36503 .
+
+<http://data.beeldengeluid.nl/gtaa/70358> core:exactMatch am:p-39644 .
+
+<http://data.beeldengeluid.nl/gtaa/70437> core:exactMatch am:p-59322 .
+
+<http://data.beeldengeluid.nl/gtaa/70452> core:exactMatch am:p-36212 .
+
+<http://data.beeldengeluid.nl/gtaa/70467> core:exactMatch am:p-61020 .
+
+<http://data.beeldengeluid.nl/gtaa/70492> core:exactMatch am:p-47855 .
+
+<http://data.beeldengeluid.nl/gtaa/70500> core:exactMatch am:p-16238 .
+<http://data.beeldengeluid.nl/gtaa/70500> core:exactMatch am:p-42264 .
+
+<http://data.beeldengeluid.nl/gtaa/70561> core:exactMatch am:p-38765 .
+
+<http://data.beeldengeluid.nl/gtaa/70575> core:exactMatch am:p-61976 .
+
+<http://data.beeldengeluid.nl/gtaa/70588> core:exactMatch am:p-36161 .
+
+<http://data.beeldengeluid.nl/gtaa/70681> core:exactMatch am:p-35291 .
+
+<http://data.beeldengeluid.nl/gtaa/70793> core:exactMatch am:p-69928 .
+
+<http://data.beeldengeluid.nl/gtaa/70829> core:exactMatch am:p-41951 .
+
+<http://data.beeldengeluid.nl/gtaa/70841> core:exactMatch am:p-16240 .
+
+<http://data.beeldengeluid.nl/gtaa/70881> core:exactMatch am:p-43250 .
+
+<http://data.beeldengeluid.nl/gtaa/70932> core:exactMatch am:p-45242 .
+
+<http://data.beeldengeluid.nl/gtaa/70961> core:exactMatch am:p-45009 .
+
+<http://data.beeldengeluid.nl/gtaa/70962> core:exactMatch am:p-44307 .
+
+<http://data.beeldengeluid.nl/gtaa/71005> core:exactMatch am:p-27781 .
+
+<http://data.beeldengeluid.nl/gtaa/71052> core:exactMatch am:p-43289 .
+
+<http://data.beeldengeluid.nl/gtaa/71064> core:exactMatch am:p-41926 .
+
+<http://data.beeldengeluid.nl/gtaa/71113> core:exactMatch am:p-34040 .
+
+<http://data.beeldengeluid.nl/gtaa/71132> core:exactMatch am:p-47790 .
+
+<http://data.beeldengeluid.nl/gtaa/71156> core:exactMatch am:p-40681 .
+
+<http://data.beeldengeluid.nl/gtaa/71157> core:exactMatch am:p-37226 .
+
+<http://data.beeldengeluid.nl/gtaa/71190> core:exactMatch am:p-3932 .
+
+<http://data.beeldengeluid.nl/gtaa/71193> core:exactMatch am:p-43190 .
+
+<http://data.beeldengeluid.nl/gtaa/71220> core:exactMatch am:p-37335 .
+
+<http://data.beeldengeluid.nl/gtaa/71251> core:exactMatch am:p-35273 .
+
+<http://data.beeldengeluid.nl/gtaa/71274> core:exactMatch am:p-59738 .
+
+<http://data.beeldengeluid.nl/gtaa/71352> core:exactMatch am:p-62836 .
+
+<http://data.beeldengeluid.nl/gtaa/71354> core:exactMatch am:p-58758 .
+
+<http://data.beeldengeluid.nl/gtaa/71355> core:exactMatch am:p-44366 .
+
+<http://data.beeldengeluid.nl/gtaa/71356> core:exactMatch am:p-17154 .
+<http://data.beeldengeluid.nl/gtaa/71356> core:exactMatch am:p-39551 .
+
+<http://data.beeldengeluid.nl/gtaa/71358> core:exactMatch am:p-66065 .
+
+<http://data.beeldengeluid.nl/gtaa/71369> core:exactMatch am:p-37017 .
+
+<http://data.beeldengeluid.nl/gtaa/71373> core:exactMatch am:p-33759 .
+
+<http://data.beeldengeluid.nl/gtaa/71375> core:exactMatch am:p-22414 .
+<http://data.beeldengeluid.nl/gtaa/71375> core:exactMatch am:p-34139 .
+
+<http://data.beeldengeluid.nl/gtaa/71376> core:exactMatch am:p-71136 .
+
+<http://data.beeldengeluid.nl/gtaa/71383> core:exactMatch am:p-38970 .
+
+<http://data.beeldengeluid.nl/gtaa/71384> core:exactMatch am:p-36749 .
+
+<http://data.beeldengeluid.nl/gtaa/71387> core:exactMatch am:p-68009 .
+
+<http://data.beeldengeluid.nl/gtaa/71391> core:exactMatch am:p-43747 .
+
+<http://data.beeldengeluid.nl/gtaa/71392> core:exactMatch am:p-38001 .
+
+<http://data.beeldengeluid.nl/gtaa/71393> core:exactMatch am:p-35471 .
+
+<http://data.beeldengeluid.nl/gtaa/71395> core:exactMatch am:p-35662 .
+
+<http://data.beeldengeluid.nl/gtaa/71398> core:exactMatch am:p-60172 .
+
+<http://data.beeldengeluid.nl/gtaa/71406> core:exactMatch am:p-57408 .
+
+<http://data.beeldengeluid.nl/gtaa/71444> core:exactMatch am:p-39571 .
+
+<http://data.beeldengeluid.nl/gtaa/71476> core:exactMatch am:p-66924 .
+
+<http://data.beeldengeluid.nl/gtaa/71526> core:exactMatch am:p-51644 .
+
+<http://data.beeldengeluid.nl/gtaa/71553> core:exactMatch am:p-16744 .
+
+<http://data.beeldengeluid.nl/gtaa/71703> core:exactMatch am:p-45209 .
+
+<http://data.beeldengeluid.nl/gtaa/71713> core:exactMatch am:p-22364 .
+
+<http://data.beeldengeluid.nl/gtaa/71753> core:exactMatch am:p-33753 .
+
+<http://data.beeldengeluid.nl/gtaa/71789> core:exactMatch am:p-34161 .
+
+<http://data.beeldengeluid.nl/gtaa/71791> core:exactMatch am:p-36008 .
+
+<http://data.beeldengeluid.nl/gtaa/71806> core:exactMatch am:p-54089 .
+
+<http://data.beeldengeluid.nl/gtaa/71877> core:exactMatch am:p-40102 .
+
+<http://data.beeldengeluid.nl/gtaa/72017> core:exactMatch am:p-35376 .
+
+<http://data.beeldengeluid.nl/gtaa/72019> core:exactMatch am:p-71549 .
+
+<http://data.beeldengeluid.nl/gtaa/72026> core:exactMatch am:p-71546 .
+
+<http://data.beeldengeluid.nl/gtaa/72031> core:exactMatch am:p-39706 .
+
+<http://data.beeldengeluid.nl/gtaa/72092> core:exactMatch am:p-25510 .
+
+<http://data.beeldengeluid.nl/gtaa/72238> core:exactMatch am:p-36882 .
+
+<http://data.beeldengeluid.nl/gtaa/72240> core:exactMatch am:p-44472 .
+
+<http://data.beeldengeluid.nl/gtaa/72248> core:exactMatch am:p-34741 .
+
+<http://data.beeldengeluid.nl/gtaa/72343> core:exactMatch am:p-64140 .
+
+<http://data.beeldengeluid.nl/gtaa/72349> core:exactMatch am:p-32529 .
+
+<http://data.beeldengeluid.nl/gtaa/72375> core:exactMatch am:p-47724 .
+
+<http://data.beeldengeluid.nl/gtaa/72379> core:exactMatch am:p-22398 .
+
+<http://data.beeldengeluid.nl/gtaa/72418> core:exactMatch am:p-56869 .
+<http://data.beeldengeluid.nl/gtaa/72418> core:exactMatch am:p-59487 .
+
+<http://data.beeldengeluid.nl/gtaa/72528> core:exactMatch am:p-22401 .
+<http://data.beeldengeluid.nl/gtaa/72528> core:exactMatch am:p-44758 .
+
+<http://data.beeldengeluid.nl/gtaa/72538> core:exactMatch am:p-44443 .
+
+<http://data.beeldengeluid.nl/gtaa/72731> core:exactMatch am:p-22624 .
+
+<http://data.beeldengeluid.nl/gtaa/72745> core:exactMatch am:p-37049 .
+<http://data.beeldengeluid.nl/gtaa/72745> core:exactMatch am:p-39415 .
+
+<http://data.beeldengeluid.nl/gtaa/72749> core:exactMatch am:p-42587 .
+
+<http://data.beeldengeluid.nl/gtaa/72756> core:exactMatch am:p-35924 .
+<http://data.beeldengeluid.nl/gtaa/72756> core:exactMatch am:p-39271 .
+<http://data.beeldengeluid.nl/gtaa/72756> core:exactMatch am:p-68708 .
+
+<http://data.beeldengeluid.nl/gtaa/72802> core:exactMatch am:p-36954 .
+
+<http://data.beeldengeluid.nl/gtaa/72804> core:exactMatch am:p-33991 .
+
+<http://data.beeldengeluid.nl/gtaa/72815> core:exactMatch am:p-34127 .
+
+<http://data.beeldengeluid.nl/gtaa/72841> core:exactMatch am:p-22513 .
+
+<http://data.beeldengeluid.nl/gtaa/72867> core:exactMatch am:p-33765 .
+
+<http://data.beeldengeluid.nl/gtaa/72918> core:exactMatch am:p-64898 .
+
+<http://data.beeldengeluid.nl/gtaa/72933> core:exactMatch am:p-22537 .
+
+<http://data.beeldengeluid.nl/gtaa/72938> core:exactMatch am:p-63138 .
+
+<http://data.beeldengeluid.nl/gtaa/72953> core:exactMatch am:p-38809 .
+
+<http://data.beeldengeluid.nl/gtaa/72978> core:exactMatch am:p-67949 .
+<http://data.beeldengeluid.nl/gtaa/72978> core:exactMatch am:p-67951 .
+
+<http://data.beeldengeluid.nl/gtaa/73055> core:exactMatch am:p-40081 .
+
+<http://data.beeldengeluid.nl/gtaa/73141> core:exactMatch am:p-44454 .
+
+<http://data.beeldengeluid.nl/gtaa/73170> core:exactMatch am:p-60789 .
+
+<http://data.beeldengeluid.nl/gtaa/73172> core:exactMatch am:p-40407 .
+
+<http://data.beeldengeluid.nl/gtaa/73174> core:exactMatch am:p-35901 .
+
+<http://data.beeldengeluid.nl/gtaa/73178> core:exactMatch am:p-20756 .
+<http://data.beeldengeluid.nl/gtaa/73178> core:exactMatch am:p-33761 .
+<http://data.beeldengeluid.nl/gtaa/73178> core:exactMatch am:p-35380 .
+
+<http://data.beeldengeluid.nl/gtaa/73182> core:exactMatch am:p-49775 .
+
+<http://data.beeldengeluid.nl/gtaa/73193> core:exactMatch am:p-39917 .
+
+<http://data.beeldengeluid.nl/gtaa/73201> core:exactMatch am:p-44979 .
+
+<http://data.beeldengeluid.nl/gtaa/73204> core:exactMatch am:p-58104 .
+
+<http://data.beeldengeluid.nl/gtaa/73208> core:exactMatch am:p-37475 .
+
+<http://data.beeldengeluid.nl/gtaa/73211> core:exactMatch am:p-21931 .
+
+<http://data.beeldengeluid.nl/gtaa/73221> core:exactMatch am:p-69655 .
+
+<http://data.beeldengeluid.nl/gtaa/73227> core:exactMatch am:p-60796 .
+
+<http://data.beeldengeluid.nl/gtaa/73234> core:exactMatch am:p-45048 .
+
+<http://data.beeldengeluid.nl/gtaa/73250> core:exactMatch am:p-64957 .
+
+<http://data.beeldengeluid.nl/gtaa/73284> core:exactMatch am:p-39244 .
+
+<http://data.beeldengeluid.nl/gtaa/73333> core:exactMatch am:p-36290 .
+
+<http://data.beeldengeluid.nl/gtaa/73338> core:exactMatch am:p-64427 .
+
+<http://data.beeldengeluid.nl/gtaa/73349> core:exactMatch am:p-48436 .
+
+<http://data.beeldengeluid.nl/gtaa/73433> core:exactMatch am:p-59500 .
+
+<http://data.beeldengeluid.nl/gtaa/73453> core:exactMatch am:p-59726 .
+
+<http://data.beeldengeluid.nl/gtaa/73455> core:exactMatch am:p-43150 .
+
+<http://data.beeldengeluid.nl/gtaa/73456> core:exactMatch am:p-38182 .
+
+<http://data.beeldengeluid.nl/gtaa/73495> core:exactMatch am:p-44665 .
+
+<http://data.beeldengeluid.nl/gtaa/73504> core:exactMatch am:p-59843 .
+
+<http://data.beeldengeluid.nl/gtaa/73505> core:exactMatch am:p-50807 .
+
+<http://data.beeldengeluid.nl/gtaa/73518> core:exactMatch am:p-42737 .
+
+<http://data.beeldengeluid.nl/gtaa/73538> core:exactMatch am:p-36688 .
+
+<http://data.beeldengeluid.nl/gtaa/73541> core:exactMatch am:p-38117 .
+
+<http://data.beeldengeluid.nl/gtaa/73562> core:exactMatch am:p-59125 .
+
+<http://data.beeldengeluid.nl/gtaa/73568> core:exactMatch am:p-35148 .
+
+<http://data.beeldengeluid.nl/gtaa/73578> core:exactMatch am:p-36234 .
+
+<http://data.beeldengeluid.nl/gtaa/73579> core:exactMatch am:p-35159 .
+
+<http://data.beeldengeluid.nl/gtaa/73581> core:exactMatch am:p-36626 .
+
+<http://data.beeldengeluid.nl/gtaa/73593> core:exactMatch am:p-37474 .
+
+<http://data.beeldengeluid.nl/gtaa/73638> core:exactMatch am:p-45110 .
+<http://data.beeldengeluid.nl/gtaa/73638> core:exactMatch am:p-45111 .
+
+<http://data.beeldengeluid.nl/gtaa/73667> core:exactMatch am:p-18637 .
+
+<http://data.beeldengeluid.nl/gtaa/73681> core:exactMatch am:p-32718 .
+
+<http://data.beeldengeluid.nl/gtaa/73800> core:exactMatch am:p-35386 .
+
+<http://data.beeldengeluid.nl/gtaa/73828> core:exactMatch am:p-37949 .
+
+<http://data.beeldengeluid.nl/gtaa/73886> core:exactMatch am:p-38746 .
+
+<http://data.beeldengeluid.nl/gtaa/73902> core:exactMatch am:p-39605 .
+
+<http://data.beeldengeluid.nl/gtaa/73911> core:exactMatch am:p-38444 .
+
+<http://data.beeldengeluid.nl/gtaa/73964> core:exactMatch am:p-22474 .
+
+<http://data.beeldengeluid.nl/gtaa/73972> core:exactMatch am:p-22482 .
+
+<http://data.beeldengeluid.nl/gtaa/73980> core:exactMatch am:p-34433 .
+
+<http://data.beeldengeluid.nl/gtaa/73999> core:exactMatch am:p-42256 .
+
+<http://data.beeldengeluid.nl/gtaa/74042> core:exactMatch am:p-34343 .
+
+<http://data.beeldengeluid.nl/gtaa/74094> core:exactMatch am:p-45578 .
+
+<http://data.beeldengeluid.nl/gtaa/74096> core:exactMatch am:p-44997 .
+
+<http://data.beeldengeluid.nl/gtaa/74099> core:exactMatch am:p-43997 .
+
+<http://data.beeldengeluid.nl/gtaa/74107> core:exactMatch am:p-64639 .
+
+<http://data.beeldengeluid.nl/gtaa/74131> core:exactMatch am:p-44333 .
+
+<http://data.beeldengeluid.nl/gtaa/74148> core:exactMatch am:p-41304 .
+
+<http://data.beeldengeluid.nl/gtaa/74175> core:exactMatch am:p-36964 .
+<http://data.beeldengeluid.nl/gtaa/74175> core:exactMatch am:p-66521 .
+
+<http://data.beeldengeluid.nl/gtaa/74178> core:exactMatch am:p-35776 .
+
+<http://data.beeldengeluid.nl/gtaa/74186> core:exactMatch am:p-72026 .
+
+<http://data.beeldengeluid.nl/gtaa/74197> core:exactMatch am:p-44563 .
+
+<http://data.beeldengeluid.nl/gtaa/74213> core:exactMatch am:p-35388 .
+
+<http://data.beeldengeluid.nl/gtaa/74234> core:exactMatch am:p-50936 .
+
+<http://data.beeldengeluid.nl/gtaa/74255> core:exactMatch am:p-66066 .
+
+<http://data.beeldengeluid.nl/gtaa/74266> core:exactMatch am:p-35667 .
+
+<http://data.beeldengeluid.nl/gtaa/74276> core:exactMatch am:p-65174 .
+
+<http://data.beeldengeluid.nl/gtaa/74283> core:exactMatch am:p-54210 .
+
+<http://data.beeldengeluid.nl/gtaa/74290> core:exactMatch am:p-34344 .
+
+<http://data.beeldengeluid.nl/gtaa/74294> core:exactMatch am:p-43414 .
+
+<http://data.beeldengeluid.nl/gtaa/74300> core:exactMatch am:p-64928 .
+
+<http://data.beeldengeluid.nl/gtaa/74363> core:exactMatch am:p-58594 .
+
+<http://data.beeldengeluid.nl/gtaa/74366> core:exactMatch am:p-36574 .
+
+<http://data.beeldengeluid.nl/gtaa/74405> core:exactMatch am:p-33135 .
+
+<http://data.beeldengeluid.nl/gtaa/74434> core:exactMatch am:p-43023 .
+
+<http://data.beeldengeluid.nl/gtaa/74454> core:exactMatch am:p-34347 .
+
+<http://data.beeldengeluid.nl/gtaa/74486> core:exactMatch am:p-36394 .
+<http://data.beeldengeluid.nl/gtaa/74486> core:exactMatch am:p-37220 .
+
+<http://data.beeldengeluid.nl/gtaa/74508> core:exactMatch am:p-21598 .
+
+<http://data.beeldengeluid.nl/gtaa/74511> core:exactMatch am:p-61401 .
+
+<http://data.beeldengeluid.nl/gtaa/74523> core:exactMatch am:p-67204 .
+
+<http://data.beeldengeluid.nl/gtaa/74535> core:exactMatch am:p-18528 .
+
+<http://data.beeldengeluid.nl/gtaa/74585> core:exactMatch am:p-33770 .
+
+<http://data.beeldengeluid.nl/gtaa/74588> core:exactMatch am:p-45265 .
+
+<http://data.beeldengeluid.nl/gtaa/74599> core:exactMatch am:p-45276 .
+
+<http://data.beeldengeluid.nl/gtaa/74604> core:exactMatch am:p-22637 .
+
+<http://data.beeldengeluid.nl/gtaa/74658> core:exactMatch am:p-18636 .
+
+<http://data.beeldengeluid.nl/gtaa/74693> core:exactMatch am:p-52506 .
+
+<http://data.beeldengeluid.nl/gtaa/74708> core:exactMatch am:p-34465 .
+
+<http://data.beeldengeluid.nl/gtaa/74715> core:exactMatch am:p-44482 .
+
+<http://data.beeldengeluid.nl/gtaa/74718> core:exactMatch am:p-33187 .
+<http://data.beeldengeluid.nl/gtaa/74718> core:exactMatch am:p-37128 .
+
+<http://data.beeldengeluid.nl/gtaa/74723> core:exactMatch am:p-65119 .
+
+<http://data.beeldengeluid.nl/gtaa/74759> core:exactMatch am:p-65020 .
+
+<http://data.beeldengeluid.nl/gtaa/74771> core:exactMatch am:p-41667 .
+
+<http://data.beeldengeluid.nl/gtaa/74775> core:exactMatch am:p-24217 .
+
+<http://data.beeldengeluid.nl/gtaa/74840> core:exactMatch am:p-40185 .
+
+<http://data.beeldengeluid.nl/gtaa/74868> core:exactMatch am:p-42860 .
+
+<http://data.beeldengeluid.nl/gtaa/74877> core:exactMatch am:p-60896 .
+
+<http://data.beeldengeluid.nl/gtaa/74878> core:exactMatch am:p-34397 .
+
+<http://data.beeldengeluid.nl/gtaa/74910> core:exactMatch am:p-33459 .
+
+<http://data.beeldengeluid.nl/gtaa/75007> core:exactMatch am:p-45802 .
+
+<http://data.beeldengeluid.nl/gtaa/75009> core:exactMatch am:p-33798 .
+
+<http://data.beeldengeluid.nl/gtaa/75024> core:exactMatch am:p-45300 .
+
+<http://data.beeldengeluid.nl/gtaa/75025> core:exactMatch am:p-22732 .
+<http://data.beeldengeluid.nl/gtaa/75025> core:exactMatch am:p-45227 .
+
+<http://data.beeldengeluid.nl/gtaa/75031> core:exactMatch am:p-34044 .
+
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d a prov:SoftwareAgent .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "ClioPatria" ; doap:revision "V3.0.0-265-gdd41043" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/cliopatria" ,
+                                                                                                                                                   "http://cliopatria.swi-prolog.org/" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://data.beeldengeluid.nl/gtaa/Genre" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata" ,
+                                                                                                                                                                    "http://data.beeldengeluid.nl/gtaa/Genre" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://data.beeldengeluid.nl/gtaa/Classificatie" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata" ,
+                                                                                                                                                                            "http://data.beeldengeluid.nl/gtaa/Classificatie" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://data.beeldengeluid.nl/gtaa/Onderwerpen" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata" ,
+                                                                                                                                                                          "http://data.beeldengeluid.nl/gtaa/Onderwerpen" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://data.beeldengeluid.nl/gtaa/OnderwerpenBenG" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata" ,
+                                                                                                                                                                              "http://data.beeldengeluid.nl/gtaa/OnderwerpenBenG" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://data.beeldengeluid.nl/gtaa/GeografischeNamen" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata" ,
+                                                                                                                                                                                "http://data.beeldengeluid.nl/gtaa/GeografischeNamen" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://data.beeldengeluid.nl/nongtaa/Productie" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata" ,
+                                                                                                                                                                           "http://data.beeldengeluid.nl/nongtaa/Productie" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://data.beeldengeluid.nl/gtaa/Namen" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata" ,
+                                                                                                                                                                    "http://data.beeldengeluid.nl/gtaa/Namen" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://data.beeldengeluid.nl/gtaa/Maker" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata" ,
+                                                                                                                                                                    "http://data.beeldengeluid.nl/gtaa/Maker" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://purl.org/collections/nl/am/AM_ConceptScheme" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata/am_dive" ,
+                                                                                                                                                                               "http://purl.org/collections/nl/am/AM_ConceptScheme" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "http://data.beeldengeluid.nl/gtaa/Persoonsnamen" ; doap:revision "5db214c" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/diveplusdata" ,
+                                                                                                                                                                            "http://data.beeldengeluid.nl/gtaa/Persoonsnamen" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "find_resource" ; doap:revision "b6b957e" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/find_resource" ,
+                                                                                                                                          "http://cliopatria.swi-prolog.org/packs/find_resource" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "skos" ; doap:revision "36e3c3d" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/skos" ,
+                                                                                                                                 "http://cliopatria.swi-prolog.org/packs/skos" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "autocompletion" ; doap:revision "235d3e2" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/autocompletion" ,
+                                                                                                                                           "http://cliopatria.swi-prolog.org/packs/autocompletion" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "prov" ; doap:revision "e533ddd" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/prov" ,
+                                                                                                                                 "http://cliopatria.swi-prolog.org/packs/prov" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "yui3" ; doap:revision "e403f29" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/yui3" ,
+                                                                                                                                 "http://cliopatria.swi-prolog.org/packs/yui3" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "skos_browser" ; doap:revision "ce0755d" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/skos_browser" ,
+                                                                                                                                         "http://cliopatria.swi-prolog.org/packs/skos_browser" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "statistics" ; doap:revision "d218ad2" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/statistics" ,
+                                                                                                                                       "http://cliopatria.swi-prolog.org/packs/statistics" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "void" ; doap:revision "81ef5d1" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/void" ,
+                                                                                                                                 "http://cliopatria.swi-prolog.org/packs/void" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "amalgame" ; doap:revision "PROV-896-gdbf9f8e" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/amalgame" ,
+                                                                                                                                               "http://cliopatria.swi-prolog.org/packs/amalgame" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "foaf" ; doap:revision "epoch-6-ge0db719" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/foaf" ,
+                                                                                                                                          "http://cliopatria.swi-prolog.org/packs/foaf" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:component [ doap:name "xmlrdf" ; doap:revision "8dd608b" ; rdfs:seeAlso "file://c:/users/victor/cliopatria/diveplus/cpack/xmlrdf" ,
+                                                                                                                                   "http://cliopatria.swi-prolog.org/packs/xmlrdf" ] .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:cwd <file://c:/users/victor/cliopatria/diveplus/> .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d amalgame:host "werkbak" .
+version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d rdfs:label "Amalgame alignment platform" .
+
+ns:dataset1 terms:title "dataset1" .
+ns:dataset1 void:distinctObjects "1465"^^xsd:int .
+ns:dataset1 void:distinctSubjects "1312"^^xsd:int .
+
+ns:dataset1_flat_triples a amalgame:ExportedAlignment .
+ns:dataset1_flat_triples a prov:Entity .
+ns:dataset1_flat_triples prov:wasDerivedFrom ns:dataset1 .
+ns:dataset1_flat_triples prov:wasGeneratedBy [ a prov:Activity ; prov:endedAtTime "2015-10-29T13:02:04+00:00"^^xsd:dateTime ; prov:qualifiedAssociation _:bn_5832515_0 ,
+                                                                                                                                                        [ a prov:Association ; prov:agent user:biktorrr ; prov:hadPlan ns:strategy2 ; prov:hadRole amalgame:user_executing_strategy ] ; prov:used ns:dataset1 ; prov:wasAssociatedWith version:x38bcc51a60e11db9bacdc8fd7524c48217b0194d ,
+                                                                                                                                                                                                                                                                                                                                       user:biktorrr ] .
+
+user:biktorrr a prov:Person .
+user:biktorrr rdfs:label "Administrator" .
