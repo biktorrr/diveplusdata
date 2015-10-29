@@ -10,7 +10,8 @@
 	lib:source <http://purl.org/collections/nl/am/> ;
 	dcterms:title "Amsterdam Museum (metadata) for DIVE"@nl ;
 	void:dataDump
-			<am_fifties.ttl> ,
+		#	<am_fifties.ttl> , #old, smaller subset ~800 Proxies
+			<am_50s-80s.ttl> , #larger subset, 4385 Proxies, around 140K triples
 			<am_additions.ttl> ,
 
 		<am-schema.ttl> ,
