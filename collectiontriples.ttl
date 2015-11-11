@@ -15,7 +15,7 @@ dive:AmsterdamMuseumCollection a dive:Collection;
 		a prov:Activity ; 
 		rdfs:label "data conversion and selection" ;
 		prov:wasAssociatedWith <http://cliopatria.swi-prolog.org/>;
-		prov:used <https://www.amsterdammuseum.nl/en/collection>.
+		prov:used <https://www.amsterdammuseum.nl/en/collection>].
 	
 dive:KBNewsBulletinsCollection a dive:Collection;
 	rdfs:label "KB News Bulletin collection";
@@ -24,7 +24,7 @@ dive:KBNewsBulletinsCollection a dive:Collection;
 		a prov:Activity ; 
 		rdfs:label "data conversion and selection" ;
 		prov:wasAssociatedWith <http://cliopatria.swi-prolog.org/>;
-		prov:used <https://www.kb.nl/bronnen-zoekwijzers/kb-collecties/collecties-per-thema/radiobulletins-anp>.
+		prov:used <https://www.kb.nl/bronnen-zoekwijzers/kb-collecties/collecties-per-thema/radiobulletins-anp>].
 	
 dive:OpenImagesCollection a dive:Collection;
 	rdfs:label "OpenImages collection";
@@ -33,7 +33,7 @@ dive:OpenImagesCollection a dive:Collection;
 		a prov:Activity ; 
 		rdfs:label "data conversion and selection" ;
 		prov:wasAssociatedWith <http://crowdtruth.org/>;
-		prov:used <https://openimages.eu>.
+		prov:used <https://openimages.eu>].
 	
 
 # Named toplevel resources (6,086)
