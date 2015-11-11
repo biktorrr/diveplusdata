@@ -26,7 +26,8 @@ a void:Dataset ;
 				<al_oirest_to_gtaaall.ttl>,
 				<al_oipers_to_gtaapers.ttl>,
 				<al_oiplace_to_gtaageo.ttl>,
-				<dive_schema.ttl>.
+				<dive_schema.ttl>,
+				<collectiontriples.ttl>.
 				
 
 <dive_all>
