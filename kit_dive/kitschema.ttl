@@ -1,0 +1,155 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix  vra: <http://www.vraweb.org/vracore/vracore3#> .
+@prefix time: <http://www.multimedian.nl/projects/n9c/time#> .
+@prefix   ec: <http://www.multimedian.nl/projects/n9c/eculture#> .
+@prefix  kit: <http://e-culture.multimedian.nl/ns/kit#> .
+@prefix   vp: <http://e-culture.multimedian.nl/ns/getty/vp#> .
+
+# Named toplevel resources (25)
+
+vp:id
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "id" ;
+	rdfs:range rdfs:Literal .
+
+kit:Constructie
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "Constructie" ;
+	rdfs:range rdfs:Resource .
+
+kit:Fotograaf
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "Fotograaf" ;
+	rdfs:range rdfs:Resource .
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Activiteit.OVM>
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "Voorstelling.Activiteit.OVM" ;
+	rdfs:range rdfs:Resource .
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Cultuur>
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "Voorstelling.Cultuur" ;
+	rdfs:range rdfs:Resource .
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Geografie>
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "Voorstelling.Geografie" ;
+	rdfs:range rdfs:Resource .
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Object>
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "Voorstelling.Object" ;
+	rdfs:range rdfs:Resource .
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.iconografie>
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "Voorstelling.iconografie" ;
+	rdfs:range rdfs:Resource .
+
+kit:Vorm
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "Vorm" ;
+	rdfs:range rdfs:Resource .
+
+kit:Weergave
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "Weergave" ;
+	rdfs:range rdfs:Resource .
+
+ec:series
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "series" ;
+	rdfs:range rdfs:Literal .
+
+time:after
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "after" ;
+	rdfs:range rdfs:Literal .
+
+time:before
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "before" ;
+	rdfs:range rdfs:Literal .
+
+vra:Work
+	a rdfs:Class ;
+	rdfs:label "Work" .
+
+vra:creator
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "creator" ;
+	rdfs:range rdfs:Resource .
+
+vra:culture
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "culture" ;
+	rdfs:range rdfs:Resource .
+
+vra:date
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "date" ;
+	rdfs:range rdfs:Literal .
+
+vra:description
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "description" ;
+	rdfs:range rdfs:Literal .
+
+<http://www.vraweb.org/vracore/vracore3#idNumber.currentRepository>
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "idNumber.currentRepository" ;
+	rdfs:range rdfs:Literal .
+
+<http://www.vraweb.org/vracore/vracore3#location.creationSite>
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "location.creationSite" ;
+	rdfs:range rdfs:Resource .
+
+<http://www.vraweb.org/vracore/vracore3#location.currentRepository>
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "location.currentRepository" ;
+	rdfs:range rdfs:Resource .
+
+vra:material
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "material" .
+
+vra:subject
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "subject" .
+
+vra:technique
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "technique" ;
+	rdfs:range rdfs:Resource .
+
+vra:title
+	a rdf:Property ;
+	rdfs:domain vra:Work ;
+	rdfs:label "title" ;
+	rdfs:range rdfs:Literal .

@@ -1,0 +1,70 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix  vra: <http://www.vraweb.org/vracore/vracore3#> .
+@prefix time: <http://www.multimedian.nl/projects/n9c/time#> .
+@prefix   ec: <http://www.multimedian.nl/projects/n9c/eculture#> .
+@prefix  kit: <http://e-culture.multimedian.nl/ns/kit#> .
+@prefix   vp: <http://e-culture.multimedian.nl/ns/getty/vp#> .
+@prefix       dive: <http://purl.org/collections/nl/dive/> .
+@prefix    dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+
+
+# Classes
+vra:Work
+	rdfs:subClassOf dive:MediaObject.
+	
+<http://e-culture.multimedian.nl/ns/svcn#Subject>
+	rdfs:subClassOf skos:Concept.
+
+# Properties
+
+vp:id rdfs:subPropertyOf dcterms:identifier.
+
+vp:Fotograaf rdfs:subPropertyOf dive:depicts.
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Activiteit.OVM>
+rdfs:subPropertyOf dive:depicts.
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Cultuur>
+rdfs:subPropertyOf dive:depicts.
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Geografie>
+rdfs:subPropertyOf dive:depicts.
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Object>
+rdfs:subPropertyOf dive:depicts.
+
+<http://e-culture.multimedian.nl/ns/kit#Voorstelling.iconografie>
+rdfs:subPropertyOf dive:depicts.
+
+ec:series
+	rdfs:subPropertyOf dive:collection.
+	
+vra:creator
+	 rdfs:subPropertyOf dive:depicts.
+	 
+vra:culture
+	 rdfs:subPropertyOf dive:depicts.
+	 
+vra:description
+	 rdfs:subPropertyOf dcterms:description.
+	 
+<http://www.vraweb.org/vracore/vracore3#location.creationSite>
+	 rdfs:subPropertyOf dive:depicts.
+	
+vra:subject
+	 rdfs:subPropertyOf dive:depicts.
+
+vra:title
+	 rdfs:subPropertyOf rdfs:label.
+
+<http://www.vraweb.org/vracore/vracore3#relation.depicts>
+	rdfs:subPropertyOf dive:source . 
+	
+<http://www.vraweb.org/vracore/vracore3#relation.depicts> 
+	rdfs:subPropertyOf dive:placeholder .
+	
+	
+	
