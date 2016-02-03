@@ -28,7 +28,17 @@ a void:Dataset ;
 				<al_oiplace_to_gtaageo.ttl>,
 				<dive_schema.ttl>,
 				<collectiontriples.ttl>.
-				
+	
+<dive_kit>
+a void:Dataset ;
+		a lib:CloudNode ;
+        lib:source dive: ;
+        dc:title "KIT data" ;
+		owl:versionInfo "0.1" ;
+                void:dataDump
+                <kit0003.ttl>,
+                <kit0003img.ttl>,
+				<kitschema.ttl>.	
 
 <dive_all>
 a void:Dataset ;
