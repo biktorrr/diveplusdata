@@ -24,19 +24,19 @@ vp:id rdfs:subPropertyOf dcterms:identifier.
 
 vp:Fotograaf rdfs:subPropertyOf dive:depicts.
 
-<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Activiteit.OVM>
+<http://e-culture.multimedian.nl/ns/kit/Voorstelling.Activiteit.OVM>
 rdfs:subPropertyOf dive:depicts.
 
-<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Cultuur>
+<http://e-culture.multimedian.nl/ns/kit/Voorstelling.Cultuur>
 rdfs:subPropertyOf dive:depicts.
 
-<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Geografie>
+<http://e-culture.multimedian.nl/ns/kit/Voorstelling.Geografie>
 rdfs:subPropertyOf dive:depicts.
 
-<http://e-culture.multimedian.nl/ns/kit#Voorstelling.Object>
+<http://e-culture.multimedian.nl/ns/kit/Voorstelling.Object>
 rdfs:subPropertyOf dive:depicts.
 
-<http://e-culture.multimedian.nl/ns/kit#Voorstelling.iconografie>
+<http://e-culture.multimedian.nl/ns/kit/Voorstelling.iconografie>
 rdfs:subPropertyOf dive:depicts.
 
 ec:series
