@@ -5,7 +5,7 @@
 
 # Named toplevel resources (7,050)
 
-dive:Collection;
+dive:Collection
 	 a rdfs:Class;
 	 rdfs:label "DIVE Collection".
 
