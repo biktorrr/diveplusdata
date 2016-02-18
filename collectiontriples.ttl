@@ -1,8 +1,13 @@
 @base         <collections> .
 @prefix dive: <http://purl.org/collections/nl/dive/> .
 @prefix   am: <http://purl.org/collections/nl/am/> .
+@prefix     rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 # Named toplevel resources (7,050)
+
+dive:Collection;
+	 a rdfs:Class;
+	 rdfs:label "DIVE Collection".
 
 dive:KitCollection 
 	a dive:Collection;
