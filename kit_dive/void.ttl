@@ -23,4 +23,5 @@ a void:Dataset ;
 				<kitschema.ttl>,
 				<kitschema_additions.ttl>,
 				# <actors-kit.rdf>, removed for now
-				<svcn-kit.rdf>.	
+				<svcn-kit.rdf>,
+				<al_svcn_gtaa.ttl>.	#alignments
