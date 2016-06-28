@@ -18,6 +18,7 @@ a void:Dataset ;
 		owl:versionInfo "0.1" ;
                 void:dataDump
                 <oi_enriched.ttl>,
+                <oi_enriched_new.ttl>, #newer oi images, separated in new file at first
                 <kb_enriched.ttl>,
 				<gtaa_clean.ttl.gz>,
 				<al_kbactor_to_gtaanamenpers.ttl>,
