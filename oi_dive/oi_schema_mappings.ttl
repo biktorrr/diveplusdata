@@ -1,0 +1,14 @@
+@prefix       dc:     <http://purl.org/dc/elements/1.1/> .
+@prefix    skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix     xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix    rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix     rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dcterms: <../../terms/> .
+@prefix history: <http://dublincore.org/usage/terms/history/#> .
+@prefix       dive: <http://purl.org/collections/nl/dive/> .
+
+# mappings between openbeelden and dive datamodel
+
+dc:subject rdfs:subPropertyOf dive:isRelatedTo .
+dc:title rdfs:subPropertyOf rdfs:label .
+<http://purl.org/dc/dcmitype/MovingImage> rdfs:subClassOf dive:MediaObject.

@@ -17,16 +17,16 @@ a void:Dataset ;
         dc:title "DIVEPlus data" ;
 		owl:versionInfo "0.1" ;
                 void:dataDump
-                <oi_enriched.ttl>,
-                <oi_enriched_new.ttl>, #newer oi images, separated in new file at first
+                #<oi_enriched.ttl>,
+                #<oi_enriched_new.ttl>, #newer oi images, separated in new file at first
                 <kb_enriched.ttl>,
-				<gtaa_clean.ttl.gz>,
+				#<gtaa_clean.ttl.gz>,
 				<al_kbactor_to_gtaanamenpers.ttl>,
 				<al_kbpers_to_gtaapers.ttl>,
 				<al_kbplace_to_gtaageo.ttl>,
-				<al_oirest_to_gtaaall.ttl>,
-				<al_oipers_to_gtaapers.ttl>,
-				<al_oiplace_to_gtaageo.ttl>,
+				#<al_oirest_to_gtaaall.ttl>,
+				#<al_oipers_to_gtaapers.ttl>,
+				#<al_oiplace_to_gtaageo.ttl>,
 				<dive_schema.ttl>,
 				<collectiontriples.ttl>.
 
