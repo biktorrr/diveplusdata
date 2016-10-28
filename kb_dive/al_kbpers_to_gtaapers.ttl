@@ -1,0 +1,143 @@
+<http://purl.org/collections/nl/dive/entity/kb-per-Maria>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/129601> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Manuel+Prado>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/143422> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-J.+van+SWAAY>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/157154> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Jan+de+Vos>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/166661> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Jan+Raas>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/144245> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Alberto+Gori>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/103817> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Jan+Bols>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/83900> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Rembrandt+van+Rijn>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/145409> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Rudi+Liebrechts>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/126143> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Rob+Slotemaker>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/155083> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Rembrandt>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/145409> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-K.+Keuning>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/118105> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Jan+Gisbers>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/100996> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Nicolaas>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/136416> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Nico+Been>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/80719> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Hennie+Kuiper>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/122496> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Anton+Geesink>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/99267> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Leo+Duyndam>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/95477> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Henk+Lubberding>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/125603> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Eef+Kamerbeek>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/116607> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Dorien+Mijksenaar>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/128832> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-El+Greco>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/104299> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Joop+van+den+Berg>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/81493> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Hans+de+Haas>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/105543> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Jan+Terlouw>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/160428> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Leo+Jansen>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/115051> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-R.+Kranenburg>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/120734> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Jan+van+Riebeeck>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/146056> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Thomas+Paine>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/139884> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Pieter+de+Jong>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/230779> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Makarios>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/129084> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Bibi+Vos>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/166613> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Aad+van+den+Hoek>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/110211> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Gerrie+Knetemann>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/119597> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Bill+Rodgers>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/146791> .
+
+<http://purl.org/collections/nl/dive/entity/kb-per-Hassan>
+        <http://www.w3.org/2004/02/skos/core#exactMatch>
+                <http://data.beeldengeluid.nl/gtaa/107491> .
