@@ -26,7 +26,22 @@ All Open images content can be found in the oi_dive folder:
 
 # Radio bulletins from KB
 Originally from http://www.delpher.nl/nl/radiobulletins. Size is 1.5 millions of items ANP has made the objects (JPGs, OCRs, ALTOs) in this set available under a CC-BY-NC-ND 3.0 license (link is external).
-Subset in DIVE triple store is 2210 digitized typoscripts (radio news scripts, to be read during news broadcasts) from the period 1937-1984.These were chosen to match the Openbeelden subset by re-using terms found there for the search request. 
+
+These are *all* news bulletins between 1937 (start of collection) and May 1955 (when my script crashed initially). 
+* The original XML docs were retrieved from the KB server using OAI-PMH (my application crashed when this arrived at May '55). 
+* The XML was converted to RDF using a python script: https://github.com/biktorrr/dive/blob/master/kb/get_kb_data_new.py 
+** This script actually calls another KB API which does NER on the OCR'ed text of the bulletin
+** Each bulletin becomes a MediaObject and links to exactly one Event (the news event mentioned in the bulletin'. 
+** The label of this Event is a 'best guess' based on the OCR'ed description of the bulletin. This of course leads to many 'hard to read' labels, but that is something we need to learn to live with. I improved the labeling a bit. An example of such a label is http://purl.org/collections/nl/dive/kb/evt-anp:1953:11:19:56 or http://purl.org/collections/nl/dive/kb/evt-anp:1953:02:15:49 
+** Persons, places and actors found in the text are saved as Dive entities and linked to the Event.  For example, the location 'Middelburg' http://purl.org/collections/nl/dive/kb-loc-Middelburg
+** Persons, places and actors are aligned with GTAA 
+* This results in 
+** 197,199 Media Objects (around 80 more than previous collection)
+** 5,389,556 RDF triples in the main KB graph (now the largest named graph in the triple store: http://data.dive.beeldengeluid.nl/browse/list_graphs 
+** Around 6,000 alignments 
+		
+
+OLD: Subset in DIVE triple store is 2210 digitized typoscripts (radio news scripts, to be read during news broadcasts) from the period 1937-1984.These were chosen to match the Openbeelden subset by re-using terms found there for the search request. 
 
 # Amsterdam museum
 Originally from https://bitbucket.org/biktorrr/amlod (thousands of objects) Which was derived from public collection website (www.amsterdammuseum.nl/collectie/) Data published under Creative Commons Attribution license (CC-by)
