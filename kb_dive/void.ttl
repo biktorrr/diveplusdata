@@ -18,7 +18,7 @@ a void:Dataset ;
 		owl:versionInfo "0.1" ;
                 void:dataDump
                 <anp_1937_1955.ttl.gz>,#To add: 1955+ 
-				<al_kbactor_to_gtaanamenpers.ttl>, #need to be updated
-				<al_kbpers_to_gtaapers.ttl>, #need to be updated
-				<al_kbplace_to_gtaageo.ttl>,#need to be updated
+				<al_kb_actor_to_gtaa_namenpers.ttl>, #cultuurlink simple string match to two conceptschemes
+				<al_kb_pers_to_gtaa_pers.ttl>, #cultuurlink simple string match to one cs
+				<al_kb_place_to_gtaa_geo.ttl>, # cultuurlink simple string match to one cs
 				<kb_collectiontriples.ttl>.
