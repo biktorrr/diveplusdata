@@ -10,16 +10,21 @@
 	lib:source <http://purl.org/collections/nl/am/> ;
 	dcterms:title "Amsterdam Museum (metadata) for DIVE"@nl ;
 	void:dataDump
-			<am_50s-80s.ttl> ,
-			<am_additions.ttl> ,
-
-		<am-schema.ttl> ,
-		<am-thesaurus-schema.ttl> ,
-		<am-thesaurus.ttl> ,
-		<am-people-rdagr2-schema.ttl> ,
-		<am-people-skos-schema.ttl> ,
-		<am-people.ttl>,
-		<al_amevt_to_gtaaall.ttl>,
+		#	<am_50s-80s.ttl> , #subset
+		<am-data.ttl.gz>, #the metadata from Amsterdam museum
+		<am_images.ttl>, # the dive:source and dive:placeholder triples, as consolidated from the Aggregations
+		<am_additions.ttl> ,# the schema mappings
+		<am_collection_triples.ttl> , # the collection triples (all proxies)
+		<am-schema.ttl> , # original AM schema
+		
+		<am-thesaurus-schema.ttl> , # schema of the AM thesaurus
+		<am-thesaurus.ttl> , # AM thesaurus
+		
+		<am-people-rdagr2-schema.ttl> , # AM people schema rda group 2
+		<am-people-skos-schema.ttl> , # AM people schema skos
+		<am-people.ttl>, # AM people thesaurus
+		
+		<al_amevt_to_gtaaall.ttl>, # alignments
 		<al_amgeo_to_gtaaall.ttl>,
 		<al_ampers_to_gtaanamen.ttl>,
 		<al_ampers_to_gtaapers.ttl>.

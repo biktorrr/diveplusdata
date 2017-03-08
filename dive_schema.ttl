@@ -157,5 +157,8 @@ dive:sourceType
 	rdfs:label "sourceType" ;
 	rdfs:range rdfs:Literal .
 
-
+# collection triples
+dive:inCollection
+	a rdf:Property ;
+	rdfs:label "is part of collection" .
 	
