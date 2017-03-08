@@ -18,10 +18,15 @@ a void:Dataset ;
         dc:title "KIT data" ;
 		owl:versionInfo "0.1" ;
                 void:dataDump
-                <kit0003.ttl>,
-                <kit0003img.ttl>,
+                #<kit0003.ttl>, old subset
+                #<kit0003img.ttl>, old subset
+				
+				<kit_objects.ttl>, # collection objects
+				<kit_svcnannotations.ttl>, # svcn thesaurus annotations
+				<kit_images.ttl>, # image links
+				
 				<kitschema.ttl>,
 				<kitschema_additions.ttl>,
-				# <actors-kit.rdf>, removed for now
+				<actors-kit.rdf>, # to be linked
 				<svcn-kit.rdf>,
 				<al_svcn_gtaa.ttl>.	#alignments

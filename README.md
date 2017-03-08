@@ -57,12 +57,15 @@ the thesaurus used to annotate AM objects. This is (partially) aligned with GTAA
 # Tropenmuseum
 Originally from the old 2004 data we converted for the eculture project (eculture.multimedian.nl). This consists of some 70.000 objects. This is most likely the same as http://www.opencultuurdata.nl/wiki/tropenmuseum/. That dataset has CC-by-SA 3.0. 
 
+Changes made are a) added new locations of images based on the updated wereldculturen.nl api. image URIs are based on work IDs and b) changed the namespace of kit triples from hash to slash URIs and removed whitespaces from URIs
+
 The collection and vocabularies are found in the kit_dive folder.
 
 **Collection subset**
-Subset in DIVE triple store: a selection, based on a 'series' (something like a collection). The randomly selected Series 0003 has around 1000 objects.
+Now all objects are in the dataset. This adds up to 78,270 objects and 1.9 Million triples
 
 **SVCN**
 the thesaurus used to annotate Tropenmuseum objects. This is (partially) aligned with GTAA.
+There is also a list of actors (for now unaligned)
 
 
