@@ -49,7 +49,7 @@ Originally from https://bitbucket.org/biktorrr/amlod (thousands of objects) Whic
 The collection and vocabularies are found in the am_dive folder.
 
 **Collection Subset**
-Subset in DIVE triple store: this one has all items from the 1950s-1980s which corresponds to the OI dataset. In total there are now 3576 objects with 140K triples
+Now, all objects from the datadump are in. In total, there are 73,447 objects with 5.7Million triples.
 
 **Amsterdam Museum Thesaurus**
 the thesaurus used to annotate AM objects. This is (partially) aligned with GTAA.
