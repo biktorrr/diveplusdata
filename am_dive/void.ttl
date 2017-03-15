@@ -23,6 +23,7 @@
 		<am-people-rdagr2-schema.ttl> , # AM people schema rda group 2
 		<am-people-skos-schema.ttl> , # AM people schema skos
 		<am-people.ttl>, # AM people thesaurus
+		<am_event_thesaurus_triples.ttl>, #Event type relations 
 		
 		<al_amevt_to_gtaaall.ttl>, # alignments
 		<al_amgeo_to_gtaaall.ttl>,

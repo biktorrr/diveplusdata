@@ -7,6 +7,10 @@
 @prefix       dive: <http://purl.org/collections/nl/dive/> .
 
 
+
+
+foaf:Person rdfs:subClassOf dive:Person.
+
 # the Dive class is the class of all things we are interested in, 
 # isRelatedTo denotes interesting links
 dive:Entity 
