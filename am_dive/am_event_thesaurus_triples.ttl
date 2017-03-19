@@ -1,0 +1,450 @@
+@base        <eventtypes> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
+@prefix  am: <http://purl.org/collections/nl/am/> .
+
+# Named toplevel resources (148)
+
+am:t-10026
+	a sem:Event .
+
+am:t-10059
+	a sem:Event .
+
+am:t-10107
+	a sem:Event .
+
+am:t-10486
+	a sem:Event .
+
+am:t-10489
+	a sem:Event .
+
+am:t-10911
+	a sem:Event .
+
+am:t-10912
+	a sem:Event .
+
+am:t-11140
+	a sem:Event .
+
+am:t-11767
+	a sem:Event .
+
+am:t-11825
+	a sem:Event .
+
+am:t-11826
+	a sem:Event .
+
+am:t-11857
+	a sem:Event .
+
+am:t-11867
+	a sem:Event .
+
+am:t-12180
+	a sem:Event .
+
+am:t-12489
+	a sem:Event .
+
+am:t-12536
+	a sem:Event .
+
+am:t-12702
+	a sem:Event .
+
+am:t-12704
+	a sem:Event .
+
+am:t-12705
+	a sem:Event .
+
+am:t-12716
+	a sem:Event .
+
+am:t-12732
+	a sem:Event .
+
+am:t-12989
+	a sem:Event .
+
+am:t-13054
+	a sem:Event .
+
+am:t-13175
+	a sem:Event .
+
+am:t-13264
+	a sem:Event .
+
+am:t-13313
+	a sem:Event .
+
+am:t-13579
+	a sem:Event .
+
+am:t-13580
+	a sem:Event .
+
+am:t-14677
+	a sem:Event .
+
+am:t-14743
+	a sem:Event .
+
+am:t-15041
+	a sem:Event .
+
+am:t-15046
+	a sem:Event .
+
+am:t-15102
+	a sem:Event .
+
+am:t-17407
+	a sem:Event .
+
+am:t-17408
+	a sem:Event .
+
+am:t-17412
+	a sem:Event .
+
+am:t-17683
+	a sem:Event .
+
+am:t-19109
+	a sem:Event .
+
+am:t-19775
+	a sem:Event .
+
+am:t-21663
+	a sem:Event .
+
+am:t-21899
+	a sem:Event .
+
+am:t-23612
+	a sem:Event .
+
+am:t-23976
+	a sem:Event .
+
+am:t-23978
+	a sem:Event .
+
+am:t-25460
+	a sem:Event .
+
+am:t-26505
+	a sem:Event .
+
+am:t-26521
+	a sem:Event .
+
+am:t-26537
+	a sem:Event .
+
+am:t-26704
+	a sem:Event .
+
+am:t-26716
+	a sem:Event .
+
+am:t-27099
+	a sem:Event .
+
+am:t-27801
+	a sem:Event .
+
+am:t-27807
+	a sem:Event .
+
+am:t-27808
+	a sem:Event .
+
+am:t-27820
+	a sem:Event .
+
+am:t-28012
+	a sem:Event .
+
+am:t-28031
+	a sem:Event .
+
+am:t-28060
+	a sem:Event .
+
+am:t-28080
+	a sem:Event .
+
+am:t-28092
+	a sem:Event .
+
+am:t-28203
+	a sem:Event .
+
+am:t-28240
+	a sem:Event .
+
+am:t-28765
+	a sem:Event .
+
+am:t-28812
+	a sem:Event .
+
+am:t-28816
+	a sem:Event .
+
+am:t-28819
+	a sem:Event .
+
+am:t-29033
+	a sem:Event .
+
+am:t-29340
+	a sem:Event .
+
+am:t-29427
+	a sem:Event .
+
+am:t-29530
+	a sem:Event .
+
+am:t-29581
+	a sem:Event .
+
+am:t-29790
+	a sem:Event .
+
+am:t-29878
+	a sem:Event .
+
+am:t-30067
+	a sem:Event .
+
+am:t-30158
+	a sem:Event .
+
+am:t-30183
+	a sem:Event .
+
+am:t-30185
+	a sem:Event .
+
+am:t-30187
+	a sem:Event .
+
+am:t-30202
+	a sem:Event .
+
+am:t-30225
+	a sem:Event .
+
+am:t-30229
+	a sem:Event .
+
+am:t-30410
+	a sem:Event .
+
+am:t-30533
+	a sem:Event .
+
+am:t-30709
+	a sem:Event .
+
+am:t-30798
+	a sem:Event .
+
+am:t-30811
+	a sem:Event .
+
+am:t-31151
+	a sem:Event .
+
+am:t-31198
+	a sem:Event .
+
+am:t-31199
+	a sem:Event .
+
+am:t-31209
+	a sem:Event .
+
+am:t-31256
+	a sem:Event .
+
+am:t-31545
+	a sem:Event .
+
+am:t-31551
+	a sem:Event .
+
+am:t-31552
+	a sem:Event .
+
+am:t-31703
+	a sem:Event .
+
+am:t-31753
+	a sem:Event .
+
+am:t-31763
+	a sem:Event .
+
+am:t-31971
+	a sem:Event .
+
+am:t-32147
+	a sem:Event .
+
+am:t-32256
+	a sem:Event .
+
+am:t-32257
+	a sem:Event .
+
+am:t-32258
+	a sem:Event .
+
+am:t-32259
+	a sem:Event .
+
+am:t-32299
+	a sem:Event .
+
+am:t-32315
+	a sem:Event .
+
+am:t-32318
+	a sem:Event .
+
+am:t-32323
+	a sem:Event .
+
+am:t-32346
+	a sem:Event .
+
+am:t-32353
+	a sem:Event .
+
+am:t-32354
+	a sem:Event .
+
+am:t-32373
+	a sem:Event .
+
+am:t-32446
+	a sem:Event .
+
+am:t-3286
+	a sem:Event .
+
+am:t-3437
+	a sem:Event .
+
+am:t-3486
+	a sem:Event .
+
+am:t-3501
+	a sem:Event .
+
+am:t-3510
+	a sem:Event .
+
+am:t-3900
+	a sem:Event .
+
+am:t-3911
+	a sem:Event .
+
+am:t-3990
+	a sem:Event .
+
+am:t-4081
+	a sem:Event .
+
+am:t-4432
+	a sem:Event .
+
+am:t-4805
+	a sem:Event .
+
+am:t-4820
+	a sem:Event .
+
+am:t-4912
+	a sem:Event .
+
+am:t-4971
+	a sem:Event .
+
+am:t-5053
+	a sem:Event .
+
+am:t-5287
+	a sem:Event .
+
+am:t-5377
+	a sem:Event .
+
+am:t-5379
+	a sem:Event .
+
+am:t-5438
+	a sem:Event .
+
+am:t-5439
+	a sem:Event .
+
+am:t-5452
+	a sem:Event .
+
+am:t-5492
+	a sem:Event .
+
+am:t-5681
+	a sem:Event .
+
+am:t-5890
+	a sem:Event .
+
+am:t-6039
+	a sem:Event .
+
+am:t-6577
+	a sem:Event .
+
+am:t-6681
+	a sem:Event .
+
+am:t-8449
+	a sem:Event .
+
+am:t-8672
+	a sem:Event .
+
+am:t-8736
+	a sem:Event .
+
+am:t-8782
+	a sem:Event .
+
+am:t-8832
+	a sem:Event .
+
+am:t-8846
+	a sem:Event .
+
+am:t-8891
+	a sem:Event .
+
+am:t-8939
+	a sem:Event .
+
+am:t-9091
+	a sem:Event .
