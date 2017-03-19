@@ -29,4 +29,5 @@ a void:Dataset ;
 				<kitschema_additions.ttl>,
 				<actors-kit.rdf>, # to be linked
 				<svcn-kit.rdf>,
+				<svcn_place_triples.ttl>, # rdf:type sem:Place triples for selected SVCN concepts
 				<al_svcn_gtaa.ttl>.	#alignments
