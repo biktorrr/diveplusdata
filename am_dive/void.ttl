@@ -24,6 +24,7 @@
 		<am-people-skos-schema.ttl> , # AM people schema skos
 		<am-people.ttl>, # AM people thesaurus
 		<am_event_thesaurus_triples.ttl>, #Event type relations 
+		<am_place_thesaurus_triples.ttl>, #Place type relations 
 		
 		<al_amevt_to_gtaaall.ttl>, # alignments
 		<al_amgeo_to_gtaaall.ttl>,
