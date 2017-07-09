@@ -20,7 +20,7 @@ a void:Dataset ;
                 <oi_enrichments.ttl>,
 				<gtaa_clean.ttl.gz>,
 				<gtaa_place_triples.ttl>, # triples making places
-				<gtaa_person_triples.ttl>, # triples making persoonsnamen persons
+				<gtaa_actor_triples.ttl>, # triples making persoonsnamen persons
 				<al_oirest_to_gtaaall.ttl>,
 				<al_oipers_to_gtaapers.ttl>,
 				<al_oiplace_to_gtaageo.ttl>,
