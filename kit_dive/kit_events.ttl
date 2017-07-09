@@ -1,0 +1,158 @@
+@prefix dive:<http://purl.org/collections/nl/dive/>.
+@prefix kit:<http://e-culture.multimedian.nl/ns/kit/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+
+# Generated from Victor K's event extraction
+
+dive:kitEvent_de_Tweede_Zuid_Nieuw-Guinea_Expeditie	rdfs:label "de Tweede Zuid Nieuw-Guinea Expeditie";
+	a dive:Event.
+dive:kitEvent_Eerste_Heilige_Communie	rdfs:label "Eerste Heilige Communie";
+	a dive:Event.
+dive:kitEvent_Wereldtentoonstelling	rdfs:label "Wereldtentoonstelling";
+	a dive:Event.
+dive:kitEvent_Day_of_the_Dead	rdfs:label "Day of the Dead";
+	a dive:Event.
+dive:kitEvent_Eerste_W_O_	rdfs:label "Eerste W.O.";
+	a dive:Event.
+dive:kitEvent_Exposition	rdfs:label "Exposition";
+	a dive:Event.
+dive:kitEvent_Goli	rdfs:label "Goli";
+	a dive:Event.
+dive:kitEvent_Nieuwjaar	rdfs:label "Nieuwjaar";
+	a dive:Event.
+dive:kitEvent_Conquista	rdfs:label "Conquista";
+	a dive:Event.
+dive:kitEvent_Dag_des_oordeels	rdfs:label "Dag des oordeels";
+	a dive:Event.
+dive:kitEvent_Diablada	rdfs:label "Diablada";
+	a dive:Event.
+dive:kitEvent_Holi	rdfs:label "Holi";
+	a dive:Event.
+dive:kitEvent_Dag_van_de_vrouw	rdfs:label "Dag van de vrouw";
+	a dive:Event.
+dive:kitEvent_World_Assemblé	rdfs:label "World Assemblé";
+	a dive:Event.
+dive:kitEvent_Tweede_Wereldoorlog	rdfs:label "Tweede Wereldoorlog";
+	a dive:Event.
+dive:kitEvent_De_Wereldoorlog	rdfs:label "De Wereldoorlog";
+	a dive:Event.
+
+	
+	
+dive:kitEvent_de_Tweede_Zuid_Nieuw-Guinea_Expeditie	dive:depicts	kit:0001_4783 	.
+dive:kitEvent_de_Tweede_Zuid_Nieuw-Guinea_Expeditie	dive:depicts	kit:0001_4805 	.
+dive:kitEvent_de_Tweede_Zuid_Nieuw-Guinea_Expeditie	dive:depicts	kit:0001_4941   	.
+dive:kitEvent_de_Tweede_Zuid_Nieuw-Guinea_Expeditie	dive:depicts	kit:0001_4970 	.
+dive:kitEvent_de_Tweede_Zuid_Nieuw-Guinea_Expeditie	dive:depicts	kit:0001_4971 	.
+dive:kitEvent_de_Tweede_Zuid_Nieuw-Guinea_Expeditie	dive:depicts	kit:0001_4974 	.
+dive:kitEvent_de_Tweede_Zuid_Nieuw-Guinea_Expeditie	dive:depicts	kit:0001_4982 	.
+dive:kitEvent_de_Tweede_Zuid_Nieuw-Guinea_Expeditie	dive:depicts	kit:0001_5652 	.
+dive:kitEvent_Eerste_Heilige_Communie	dive:depicts	kit:0003_6355 	.
+dive:kitEvent_Wereldtentoonstelling	dive:depicts	kit:1000_0010 	.
+dive:kitEvent_Wereldtentoonstelling	dive:depicts	kit:15-330 	.
+dive:kitEvent_Wereldtentoonstelling	dive:depicts	kit:2556-108  	.
+dive:kitEvent_Wereldtentoonstelling	dive:depicts	kit:2556-109 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:2696-21 	.
+dive:kitEvent_Eerste_W_O_	dive:depicts	kit:2707-1 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-13b 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-13c 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-13d 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-13e 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-13f 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-13g 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-13h 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-13i 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-14 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-20 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3053-41 	.
+dive:kitEvent_Exposition	dive:depicts	kit:3204-382 	.
+dive:kitEvent_Goli	dive:depicts	kit:3305-18 	.
+dive:kitEvent_Goli	dive:depicts	kit:3305-19 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:3582-15 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:3582-24 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:3582-28 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:3582-29 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:3582-32 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:3582-4 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:3582-90 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3724-11 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3724-12 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3724-14 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3724-15 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3724-17 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3724-31 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3724-34 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3724-35 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:3724-8 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-21 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-31 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-35 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-6 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-64 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-66 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-67 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-69 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-84 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-87 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4283-93 	.
+dive:kitEvent_Conquista	dive:depicts	kit:4298-2 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4324-10a 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4324-10b 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4324-8a 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4324-8b 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4324-8c 	.
+dive:kitEvent_Dag_des_oordeels	dive:depicts	kit:4345-32 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4410-4 	.
+dive:kitEvent_Nieuwjaar	dive:depicts	kit:4603-2 	.
+dive:kitEvent_Conquista	dive:depicts	kit:4632-2 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4667-2 	.
+dive:kitEvent_Diablada	dive:depicts	kit:4777-1a 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4933-33 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4933-33 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4933-34 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4933-35 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4933-36 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4933-37 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:4933-40 	.
+dive:kitEvent_Conquista	dive:depicts	kit:4974-2 	.
+dive:kitEvent_Conquista	dive:depicts	kit:4974-3 	.
+dive:kitEvent_Conquista	dive:depicts	kit:4974-4 	.
+dive:kitEvent_Conquista	dive:depicts	kit:4974-5 	.
+dive:kitEvent_Holi	dive:depicts	kit:5099-2 	.
+dive:kitEvent_Dag_van_de_vrouw	dive:depicts	kit:5134-42 	.
+dive:kitEvent_World_Assemblé	dive:depicts	kit:5203-52 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-1 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-10 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-11 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-12 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-13 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-14 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-15 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-16 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-17 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-18 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-2 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-276 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-277 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-278 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-279 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-4 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-5 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-6 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-7 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-8 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5290-9 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5411-27 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5484-1a	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5484-1b 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5527-3 	.
+dive:kitEvent_Day_of_the_Dead	dive:depicts	kit:5577-1 	.
+dive:kitEvent_Tweede_Wereldoorlog	dive:depicts	kit:5627-2 	.
+dive:kitEvent_De_Wereldoorlog	dive:depicts	kit:5635-2 	.
+dive:kitEvent_Tweede_Wereldoorlog	dive:depicts	kit:5663-1008 	.
+dive:kitEvent_Tweede_Wereldoorlog	dive:depicts	kit:5663-1090 	.
+dive:kitEvent_Tweede_Wereldoorlog	dive:depicts	kit:5663-820  	.
+dive:kitEvent_Tweede_Wereldoorlog	dive:depicts	kit:5663-865 	.
+	
+	
