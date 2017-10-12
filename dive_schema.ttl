@@ -6,7 +6,10 @@
 @prefix        sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
 @prefix       dive: <http://purl.org/collections/nl/dive/> .
 
-
+# DIVE collections (specified in the sub-folders)
+dive:Collection
+	 a rdfs:Class;
+	 rdfs:label "DIVE Collection".
 
 
 foaf:Person rdfs:subClassOf dive:Person.
