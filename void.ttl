@@ -28,7 +28,8 @@ a void:Dataset ;
 				#<al_oipers_to_gtaapers.ttl>,
 				#<al_oiplace_to_gtaageo.ttl>,
 				<dive_schema.ttl>,
-				<collectiontriples.ttl>.
+				<diveplusprovenance.ttl>.
+				#<collectiontriples.ttl>.
 
 
 				

@@ -5,13 +5,27 @@
 @prefix        rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix        sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
 @prefix       dive: <http://purl.org/collections/nl/dive/> .
+@prefix 	dcterms: <http://purl.org/dc/terms/> .
 
 # DIVE collections (specified in the sub-folders)
 dive:Collection
 	 a rdfs:Class;
 	 rdfs:label "DIVE Collection".
 
-
+	 
+	 
+# To describe original (Web) sources of items
+dive:origin 
+	a rdf:Property;
+	rdfs:label "item origin"@en;
+	rdfs:comment " To describe original (Web) sources of items"@en;
+	rdfs:domain rdfs:Resource.
+	
+dcterms:source rdfs:subPropertyOf dive:origin.
+	
+	
+	
+	 
 foaf:Person rdfs:subClassOf dive:Person.
 
 # the Dive class is the class of all things we are interested in, 
@@ -153,6 +167,7 @@ dive:hasSource
 	rdfs:label "hasSource" ;
 	rdfs:range rdfs:Resource .
 
+# this one is used for the image/video, use dive:origin for the origin of the entity
 dive:source
 	a rdf:Property ;
 	rdfs:label "source" ;
