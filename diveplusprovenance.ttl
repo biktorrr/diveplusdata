@@ -1,0 +1,681 @@
+@base         <provgraph> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix       foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix       skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix        owl: <http://www.w3.org/2002/07/owl#> .
+@prefix       rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix        rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix        sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
+@prefix       dive: <http://purl.org/collections/nl/dive/> .
+@prefix 	dcterms: <http://purl.org/dc/terms/> .
+@prefix dcat: <https://www.w3.org/TR/vocab-dcat/> .
+@prefix     void: <http://rdfs.org/ns/void#> .
+
+
+# It  might be better to move this to a trig file or at least to the individual datasets. FOr now it makes sense to keep it in one cetral place in the root of the DB
+# As for rights, I now copy the rights as they appear in the original dataset. For our own data (enrichments etc), I use CC0
+# test
+
+<http://purl.org/collections/nl/am/am-data.ttl.gz>
+	a prov:Entity ;
+	a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =5,700,371"; 
+	dcterms:title "Amsterdam Museum Metadata";
+	dcterms:description "Amsterdam Museum Metadata";
+	dcterms:publisher "Amsterdam Museum"; 
+	dcterms:rights "CC-by";
+	dcterms:isPartOf "Amsterdam Museum".
+
+<http://purl.org/collections/nl/dive/anp_1937_1955.ttl.gz>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =5,389,556"; 
+	dcterms:title "ANP nieuwsbulletins selectie 1937-1955";
+	dcterms:description "ANP nieuwsbulletins selectie 1937-1955";
+	dcterms:publisher "Koninklijke Bibliotheek"; 
+	dcterms:rights "CC-BY-NC-ND 3.0";
+	dcterms:isPartOf "KB".
+
+<http://purl.org/collections/nl/dive/anp_1955_1973.ttl.gz>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	dcterms:title "ANP nieuwsbulletins selectie 1955-1973";
+	dcterms:description "ANP nieuwsbulletins selectie 1955-1973";
+	dcterms:publisher "Koninklijke Bibliotheek"; 
+	dcterms:rights "CC-BY-NC-ND 3.0";
+	dcterms:isPartOf "KB".	
+	
+<http://purl.org/collections/nl/dive/gtaa_clean.ttl.gz>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =	1,256,544"; 
+	dcterms:title "Gemeenschappelijke Thesaurus Audiovisuele Archieven";
+	dcterms:description "Gemeenschappelijke Thesaurus Audiovisuele Archieven";
+	dcterms:publisher "Netherlands Institute for Sound and Vision"; 
+	dcterms:rights "Open Database License (OdbL)";
+	 dcterms:isPartOf "NISV".
+
+<http://purl.org/collections/nl/dive/kit_svcnannotations.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =764,505"; 
+	dcterms:title "Kit annotations with SVNC";
+	dcterms:description "Kit annotations with SVNC";
+	dcterms:publisher "Koninklijk Instituut voor de Tropen"; 
+	dcterms:rights "CC-by-SA 3.0";
+	 dcterms:isPartOf "KIT".
+
+<http://purl.org/collections/nl/dive/kit_objects.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =763,192"; 
+	dcterms:title "KIT objects";
+	dcterms:description "KIT objects";
+	dcterms:publisher "Koninklijk Instituut voor de Tropen"; 
+	dcterms:rights "CC-by-SA 3.0";
+	 dcterms:isPartOf "KIT".
+
+<http://purl.org/collections/nl/am/am-people.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =301,143"; 
+	dcterms:title "Amsterdam Museum People";
+	dcterms:description "Amsterdam Museum People";
+	dcterms:publisher "Amsterdam Museum"; 
+	dcterms:rights "CC-by";
+	dcterms:isPartOf "Amsterdam Museum".
+
+<http://purl.org/collections/nl/dive/oi_enrichments.ttl>
+	 a prov:Entity ;
+	 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith "Oana Inel" ;
+		prov:wasAssociatedWith <http://crowdtruth.org> ;
+		rdfs:label "generation"];
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =212,829"; 
+	dcterms:title "Open Images enrichments";
+	dcterms:description "Open Images enrichments by Crowdtruth";
+	dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/dive/kb_collectiontriples.ttl>
+	 a prov:Entity ;
+	 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "generation"];
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =197,202"; 
+	dcterms:title "KB Collection triples";
+	dcterms:description "Collection triples for KB";
+	dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/am/am-thesaurus.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =160,701"; 
+	dcterms:title "Amsterdam Museum Persons";
+	dcterms:description "Amsterdam Museum Persons";
+	dcterms:publisher "Amsterdam Museum"; 
+	dcterms:rights "CC-by";
+	 dcterms:isPartOf "Amsterdam Museum Dataset".
+
+<http://purl.org/collections/nl/dive/kit_images.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =156,452"; 
+	dcterms:title "KIT images";
+	dcterms:description "KIT images";
+	dcterms:publisher "Koninklijk Instituut voor de Tropen"; 
+	dcterms:rights "CC-by-SA 3.0";
+	 dcterms:isPartOf "KIT".
+
+<http://purl.org/collections/nl/am/am_images.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =146,896"; 
+	dcterms:title "AM images";
+	dcterms:description "AM images";
+	dcterms:publisher "Amsterdam Museum"; 
+	dcterms:rights "CC-by";
+	 dcterms:isPartOf "AM".
+
+<http://purl.org/collections/nl/dive/actors-kit.rdf>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =139,145"; 
+	dcterms:title "";
+	dcterms:description "";
+	dcterms:publisher "Koninklijk Instituut voor de Tropen"; 
+	dcterms:rights "CC-by-SA 3.0";
+	 dcterms:isPartOf "KIT".
+
+<http://purl.org/collections/nl/dive/openbeelden.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =103,070"; 
+	dcterms:title "Openbeelden as RDF";
+	dcterms:description "Openbeelden dataset";
+	dcterms:publisher "Netherlands Institute for Sound and Visiuon"; 
+	dcterms:rights "CC-by";
+	 dcterms:isPartOf "NISV".
+
+<kit_collectiontriples.ttl>
+	a prov:Entity ;
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "generation"];
+	a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =78,273";
+	dcterms:title "KIT collection triples";
+	dcterms:description "Collection triples for KIT";
+	dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE data".
+
+	
+<http://purl.org/collections/nl/am/am_collection_triples.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =73,447"; 
+	dcterms:title "Collection triples for AM";
+	dcterms:description "AM collection triples";
+	dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/dive/svcn-kit.rdf>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =73,394"; 
+	dcterms:title "SVCN thesaurus as used by KIT";
+	dcterms:description "SVCN thesaurus as used by KIT";
+	dcterms:publisher "Koninklink Instituut voor de Tropen"; 
+	dcterms:rights "CC-by-SA 3.0";
+	 dcterms:isPartOf "KIT".
+
+<http://purl.org/collections/nl/dive/oi_sources.ttl>
+	 a prov:Entity ;
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "generation"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =9,818"; 
+	dcterms:title "Openbeelden as RDF image links";
+	dcterms:description "Openbeelden dataset image links";
+	dcterms:publisher "Netherlands Institute for Sound and Visiuon"; 
+	dcterms:rights "CC-by";
+	 dcterms:isPartOf "NISV".
+
+
+<http://purl.org/collections/nl/am/am_place_thesaurus_triples.ttl>
+	a prov:Entity ;
+	
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "generation"]; 
+	a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =5,973"; 
+	dcterms:title "AM thesaurus place triples";
+	dcterms:description "AM thesaurus place triples";
+	dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/am/al_ampers_to_gtaapers.ttl>
+	 a prov:Entity ;
+	 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "alignment"]; 
+	a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =3,955"; 
+	dcterms:title "Aligmnent AM thesaurus GTAA Persons";
+	dcterms:description "Aligmnent AM thesaurus GTAA Persons";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE data".
+	 
+<http://purl.org/collections/nl/dive/svcn_place_triples.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =3,896"; 
+	dcterms:title "";
+	dcterms:description "";
+	dcterms:publisher ""; 
+	dcterms:rights "";
+	 dcterms:isPartOf "CC-by-SA 3.0".
+
+<http://purl.org/collections/nl/dive/al_kb_place_to_gtaa_geo.ttl>
+	 a prov:Entity ;
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "alignment"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =3,223"; 
+	dcterms:title "Aligmnent KB entities GTAA Geo";
+	dcterms:description "Aligmnent KB thesaurus GTAA Geo";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/dive/oi_collectiontriples.ttl>
+	 a prov:Entity ;
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "generation"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =3,222"; 
+		dcterms:title "OI collection triples";
+	dcterms:description "Collection triples for OI";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+	 
+<http://purl.org/collections/nl/dive/al_svcn_gtaa.ttl>
+	 a prov:Entity ;
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		prov:wasAssociatedWith "CultuurLink alignment tool" ;
+		rdfs:label "alignment"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =2,573"; 
+	dcterms:title "Aligmnent SVCN thesaurus to GTAA ";
+	dcterms:description "Aligmnent SVCNthesaurus GTAA";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+	 
+<http://purl.org/collections/nl/dive/al_kb_actor_to_gtaa_namenpers.ttl>
+	 a prov:Entity ;
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		prov:wasAssociatedWith "CultuurLink alignment tool" ;
+		rdfs:label "alignment"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =2,087"; 
+	dcterms:title "Aligmnent KB entities  GTAA Actors/Namen";
+	dcterms:description "Aligmnent KB entities GTAA Actors/Namen";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+	 
+<http://purl.org/collections/nl/am/al_ampers_to_gtaanamen.ttl>
+	 a prov:Entity ;
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		prov:wasAssociatedWith "CultuurLink alignment tool" ;
+		rdfs:label "alignment"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =1,610"; 
+	dcterms:title "Aligmnent AM thesaurus GTAA Namen";
+	dcterms:description "Aligmnent AM thesaurus GTAA Namen";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/am/al_amgeo_to_gtaaall.ttl>
+	 a prov:Entity ;
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		prov:wasAssociatedWith "CultuurLink alignment tool" ;
+		rdfs:label "alignment"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =1,500"; 
+		dcterms:title "Aligmnent AM thesaurus GTAA Geo";
+	dcterms:description "Aligmnent AM thesaurus GTAA Geo";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/dive/al_kb_pers_to_gtaa_pers.ttl>
+	 a prov:Entity ;
+	prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		prov:wasAssociatedWith "CultuurLink alignment tool" ;
+		rdfs:label "alignment"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =1,043"; 
+	dcterms:title "Aligmnent KB entities GTAA Persons";
+	dcterms:description "Aligmnent KB entities GTAA Persons";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE data".
+
+<http://purl.org/collections/nl/dive/collectiontriples.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =972"; 
+	dcterms:title "Generic DIVE collection triples";
+	dcterms:title "Generic DIVE collection triples";
+	dcterms:description "Generic DIVE collection triples";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/dive/dcterms.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =866"; 
+	dcterms:title "DCTerms";
+	dcterms:description "DC terms";
+	dcterms:publisher "Dublin Core initiative"; 
+	dcterms:rights "CC0".
+
+<http://purl.org/collections/nl/dive/dataset4.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =487"; 
+	dcterms:title "";
+	dcterms:description "";
+	dcterms:publisher ""; 
+	dcterms:rights "";
+	 dcterms:isPartOf "".
+
+<http://purl.org/collections/nl/dive/dataset3.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =472"; 
+	dcterms:title "";
+	dcterms:description "";
+	dcterms:publisher ""; 
+	dcterms:rights "";
+	 dcterms:isPartOf "".
+
+<http://purl.org/collections/nl/dive/al_oiplace_to_gtaageo.ttl>
+	 a prov:Entity ;
+	 	 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		prov:wasAssociatedWith "CultuurLink alignment tool" ;
+		rdfs:label "alignment"];
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =452"; 
+	dcterms:title "Alignment OI places to GTAA Geo";
+	dcterms:description "Alignment OI places to GTAA Geo";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/dive/oa.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =292"; 
+	dcterms:title "Open Annotation";
+	dcterms:description "Open Annotation";
+	dcterms:publisher "W3C"; 
+	dcterms:rights "CC0".
+
+<http://purl.org/collections/nl/dive/sem.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =258"; 
+	dcterms:title "sEM";
+	dcterms:description "SEM";
+	dcterms:publisher "SEM"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE".
+
+<http://purl.org/collections/nl/dive/skos.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =252"; 
+	dcterms:title "SKOS";
+	dcterms:description "SKOS";
+	dcterms:publisher "W3C"; 
+	dcterms:rights "CC0".
+
+<http://purl.org/collections/nl/am/am-schema.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =203"; 
+	dcterms:title "AM Schema";
+	dcterms:description "AM Schema";
+	dcterms:publisher "Amsterdam Museum"; 
+	dcterms:rights "CC-by";
+	 dcterms:isPartOf "AM".
+
+<http://purl.org/collections/nl/dive/al_oipers_to_gtaapers.ttl>
+	 a prov:Entity ;
+		 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "alignment"]; 	
+	a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =171"; 
+	dcterms:title "Alignment OI persons to GTAA persons";
+	dcterms:description "Alignment OI persons to GTAA persons";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE data".
+
+<http://purl.org/collections/nl/am/am_event_thesaurus_triples.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =148"; 
+	dcterms:title "AM thesaurus Event type triples";
+	dcterms:description "AM thesaurus Event type triples";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE data".
+
+<http://purl.org/collections/nl/dive/al_oirest_to_gtaaall.ttl>
+	 a prov:Entity ;
+	 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		prov:wasAssociatedWith "CultuurLink alignment tool" ;
+		rdfs:label "alignment"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =117"; 
+	dcterms:title "Alignment OI to GTAA rest";
+	dcterms:description "Alignment OI to GTAA rest";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE data".
+
+
+<http://purl.org/collections/nl/dive/kitschema.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =96"; 
+	dcterms:title "KIT schema";
+	dcterms:description "KIT schema";
+	dcterms:publisher "KIT"; 
+	dcterms:rights "CC-by-SA 3.0";
+	 dcterms:isPartOf "KIT".
+
+<http://purl.org/collections/nl/dive/dive_schema.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =96"; 
+	dcterms:title "DIVE schema";
+	dcterms:description "DIVE schema";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE data".
+
+
+<http://purl.org/collections/nl/am/al_amevt_to_gtaaall.ttl>
+	 a prov:Entity ;
+	 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		prov:wasAssociatedWith "CultuurLink alignment tool" ;
+		rdfs:label "alignment"]; 
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =64"; 
+	dcterms:title "alignment AM events to GTAA";
+	dcterms:description "Alignment AM events to GTAA";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "DIVE data".
+
+<http://purl.org/collections/nl/am/am-people-skos-schema.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =46"; 
+	dcterms:title "AM SKOS schema mapping";
+	dcterms:description "AM SKOS schema mapping";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "AM".
+
+<http://purl.org/collections/nl/am/am-people-rdagr2-schema.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =42"; 
+	dcterms:title "AM RDAGR2 Schema mapping";
+	dcterms:description "AM RDAGR2 schema mapping";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "AM".
+	 
+<http://purl.org/collections/nl/dive/kitschema_additions.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =18"; 
+	dcterms:title "Kit schema additions";
+	dcterms:description "Kit schema additions";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "KIT".
+
+<http://purl.org/collections/nl/am/am-thesaurus-schema.ttl>
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =14"; 
+	dcterms:title "AM Thesaurus schema";
+	dcterms:description "AM Thesaurus schema";
+	dcterms:publisher "Amsterdam Museum"; 
+	dcterms:rights "CC-by";
+	 dcterms:isPartOf "AM".
+
+<http://purl.org/collections/nl/am/am_additions.ttl>
+	 a prov:Entity ;
+	 	 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "mapping"];
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =12"; 
+	dcterms:title "AM schema mapping";
+	dcterms:description "AM schema mapping";
+			dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "AM".
+	 
+<http://purl.org/collections/nl/dive/oi_schema_mappings.ttl>
+	 a prov:Entity ;
+	 	 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith <http://victordeboer.com/foaf.rdf> ;
+		rdfs:label "mapping"];
+	 a dcat:Dataset;
+	a void:Dataset;
+	rdfs:comment "size =3"; 
+	dcterms:title "OI schema mapping";
+	dcterms:description "OI schema mapping";
+			dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "OI".
+
+	 
+<http://purl.org/collections/nl/dive/kit_events.ttl>
+	 a prov:Entity ;
+	 	 prov:wasGeneratedBy [ 
+		a prov:Activity ; 
+		prov:wasAssociatedWith "Victor Kramer" ;
+		rdfs:label "NER"];
+	 a dcat:Dataset;
+	a void:Dataset;
+	dcterms:title "KIT Events";
+	dcterms:description "KIT Events";
+			dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "OI".
+	 
+	 
+	 
+<http://purl.org/collections/nl/dive/gtaa_place_triples.ttl>	 
+	 a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	dcterms:title "GTAA place type triples";
+	dcterms:description "GTA place type triples";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "GTAA".
+	 
+<http://purl.org/collections/nl/dive/gtaa_actor_triples.ttl>
+a prov:Entity ;
+	 a dcat:Dataset;
+	a void:Dataset;
+	dcterms:title "GTAA actor type triples";
+	dcterms:description "GTA actor type triples";
+		dcterms:publisher "DIVE"; 
+	dcterms:rights "CC0";
+	 dcterms:isPartOf "GTAA".
+	 
