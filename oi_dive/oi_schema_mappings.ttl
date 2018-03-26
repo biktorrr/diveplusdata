@@ -6,9 +6,12 @@
 @prefix dcterms: <../../terms/> .
 @prefix history: <http://dublincore.org/usage/terms/history/#> .
 @prefix       dive: <http://purl.org/collections/nl/dive/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 
 # mappings between openbeelden and dive datamodel
 
-dc:subject rdfs:subPropertyOf dive:isRelatedTo .
+dcterms:subject rdfs:subPropertyOf dive:isRelatedTo .
+dcterms:spatial rdfs:subPropertyOf dive:isRelatedTo .
+dcterms:contributor rdfs:subPropertyOf dive:isRelatedTo .
 dc:title rdfs:subPropertyOf rdfs:label .
 <http://purl.org/dc/dcmitype/MovingImage> rdfs:subClassOf dive:MediaObject.

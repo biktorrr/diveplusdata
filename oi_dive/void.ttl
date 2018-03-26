@@ -16,15 +16,19 @@ a void:Dataset ;
         lib:source dive: ;
         dc:title "Open Images DIVEPlus data" ;
 		owl:versionInfo "0.1" ;
-                void:dataDump
-                <oi_enrichments.ttl>,
-				<gtaa_clean.ttl.gz>,
-				<gtaa_place_triples.ttl>, # triples making places
-				<gtaa_actor_triples.ttl>, # triples making persoonsnamen persons
-				<al_oirest_to_gtaaall.ttl>,
+                void:dataDump			
+				<al_oirest_to_gtaaall.ttl>, # alignments of enrichments
 				<al_oipers_to_gtaapers.ttl>,
 				<al_oiplace_to_gtaageo.ttl>,
+				
+				<gtaa_clean.ttl.gz>,  #gtaa
+				<gtaa_place_triples.ttl>, # triples making places
+				<gtaa_actor_triples.ttl>, # triples making persoonsnamen persons
+
+				<oi_enr_sources.ttl>,  #mapping of string values to GTAA				<oi_enr_spatial.ttl>,  #mapping of string values to GTAA				<oi_enr_subjects.ttl>,  #mapping of string values to GTAA
+				<oi_enriched_new.ttl>, # New enrichments from Oana, based on <oi_enrichments.ttl>,
+
 				<oi_schema_mappings.ttl>,
 				<oi_sources.ttl>,
-				<openbeelden.ttl>,
-				<oi_collectiontriples.ttl>.
+				<oi_types_and_collectiontriples.ttl>,  #<oi_collectiontriples.ttl>.
+				<open-beelden-beeldengeluid.ttl>. # new openbeelden. old: <openbeelden.ttl>,
