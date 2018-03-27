@@ -1,3 +1,4 @@
+@base         <sources> .
 @prefix dive: <http://purl.org/collections/nl/dive/> .
 
 # Named toplevel resources (3,491)
