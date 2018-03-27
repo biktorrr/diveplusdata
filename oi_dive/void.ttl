@@ -25,7 +25,8 @@ a void:Dataset ;
 				<gtaa_place_triples.ttl>, # triples making places
 				<gtaa_actor_triples.ttl>, # triples making persoonsnamen persons
 
-				<oi_enr_contributors.ttl>,  #mapping of string values to GTAA				<oi_enr_spatial.ttl>,  #mapping of string values to GTAA				<oi_enr_subjects.ttl>,  #mapping of string values to GTAA
+				# <oi_enr_contributors.ttl>,  #mapping of string values to GTAA	-> there are none
+				<oi_enr_spatial.ttl>,  #mapping of string values to GTAA				<oi_enr_subjects.ttl>,  #mapping of string values to GTAA
 				<oi_enriched_new.ttl>, # New enrichments from Oana, based on <oi_enrichments.ttl>,
 
 				<oi_schema_mappings.ttl>,
