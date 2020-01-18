@@ -25,6 +25,9 @@ All Open images content can be found in the oi_dive folder:
 
 
 # Radio bulletins from KB
+
+Update: The ANP news bulletins from 1955-1973 are now also added to the RDF dataset. The turtle file has been split and gzipped. Note that this part of the data has not been tested yet.
+
 Originally from http://www.delpher.nl/nl/radiobulletins. Size is 1.5 millions of items ANP has made the objects (JPGs, OCRs, ALTOs) in this set available under a CC-BY-NC-ND 3.0 license (link is external).
 
 These are *all* news bulletins between 1937 (start of collection) and May 1955 (when my script crashed initially). 
