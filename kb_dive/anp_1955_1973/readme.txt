@@ -1,0 +1,1 @@
+This folder contains National Library ANP news bulletin data converted to RDF. THe RDF turtle files are zipped and split to allow for easy uploading. To be used, they need to be concatenated in order, either into one TTL file, or into a gzipped TTL file (for example for ClioPatria) loading. 
